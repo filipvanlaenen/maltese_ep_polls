@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <author>
+    <name>Filip van Laenen</name>
+  </author>
+  <id>https://filipvanlaenen.github.io/maltese_ep_polls</id>
+  <title>All Registered Polls for the European Parliament</title>
+  <updated>2018-07-08T19:53:15.582412+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partit Laburista (S&amp;D): 53.3–62.6%, 3–4 seats</li><li>Partit Nazzjonalista (EPP): 36.1–45.3%, 2–3 seats</li><li>Alternattiva Demokratika (Greens/EFA): 0.4–2.3%, 0 seats</li><li>Moviment Patrijotti Maltin (ENF): 0.1–1.6%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/maltese_ep_polls/2018-04-27-MaltaToday.html</id>
+    <link href="https://filipvanlaenen.github.io/maltese_ep_polls/2018-04-27-MaltaToday.html"/>
+    <title>Opinion Poll by MaltaToday, 23–27 April 2018</title>
+    <updated>2018-07-08T19:53:15.582412+02:00</updated>
+    <dc:date>2018-07-08T19:53:15.582412+02:00</dc:date>
+  </entry>
+  <dc:date>2018-07-08T19:53:15.582412+02:00</dc:date>
+</feed>
