@@ -38,8 +38,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 15% | 100% | Last Result |
-| 4 | 85% | 85% | Median, Majority |
+| 3 | 26% | 100% | Last Result |
+| 4 | 74% | 74% | Median, Majority |
 | 5 | 0% | 0% |  |
 
 ### Partit Nazzjonalista (EPP)
@@ -50,8 +50,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 85% | 100% | Median |
-| 3 | 15% | 15% | Last Result |
+| 2 | 74% | 100% | Median |
+| 3 | 26% | 26% | Last Result |
 | 4 | 0% | 0% | Majority |
 
 ### Alternattiva Demokratika (Greens/EFA)
@@ -83,7 +83,7 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partit Laburista (S&D) | 3 | 4 | 85% | 3–4 | 3–4 | 3–4 | 3–4 |
+| Partit Laburista (S&D) | 3 | 4 | 74% | 3–4 | 3–4 | 3–4 | 3–4 |
 | Partit Nazzjonalista (EPP) | 3 | 2 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
 | Alternattiva Demokratika (Greens/EFA) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 | Moviment Patrijotti Maltin (ENF) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
@@ -92,16 +92,16 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 15% | 100% | Last Result |
-| 4 | 85% | 85% | Median, Majority |
+| 3 | 26% | 100% | Last Result |
+| 4 | 74% | 74% | Median, Majority |
 | 5 | 0% | 0% |  |
 
 ### Partit Nazzjonalista (EPP)
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 85% | 100% | Median |
-| 3 | 15% | 15% | Last Result |
+| 2 | 74% | 100% | Median |
+| 3 | 26% | 26% | Last Result |
 | 4 | 0% | 0% | Majority |
 
 ### Alternattiva Demokratika (Greens/EFA)
@@ -128,6 +128,6 @@
 ### Calculations
 
 + **Sample size:** 436
-+ **Simulations done:** 1,024
-+ **Error estimate:** 2.27%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.67%
 

@@ -25,8 +25,8 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#partit-laburista-(s&d)">Partit Laburista (S&D)</a> | 3 | 4 | 4 |4–5 |4–5 |4–5 |
-| <a href="#partit-nazzjonalista-(epp)">Partit Nazzjonalista (EPP)</a> | 3 | 2 | 2 |1–2 |1–2 |1–2 |
+| <a href="#partit-laburista-(s&d)">Partit Laburista (S&D)</a> | 3 | 4 | 4 |4 |4 |4–5 |
+| <a href="#partit-nazzjonalista-(epp)">Partit Nazzjonalista (EPP)</a> | 3 | 2 | 2 |2 |2 |1–2 |
 | <a href="#partit-demokratiku-(alde)">Partit Demokratiku (ALDE)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#alternattiva-demokratika-(greens/efa)">Alternattiva Demokratika (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
 
@@ -39,8 +39,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
-| 4 | 90% | 100% | Median, Majority |
-| 5 | 10% | 10% |  |
+| 4 | 99.1% | 100% | Median, Majority |
+| 5 | 0.9% | 0.9% |  |
 | 6 | 0% | 0% |  |
 
 ### Partit Nazzjonalista (EPP)
@@ -51,8 +51,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 10% | 100% |  |
-| 2 | 90% | 90% | Median |
+| 1 | 0.9% | 100% |  |
+| 2 | 99.1% | 99.1% | Median |
 | 3 | 0% | 0% | Last Result |
 
 ### Partit Demokratiku (ALDE)
@@ -84,8 +84,8 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partit Laburista (S&D) | 3 | 4 | 100% | 4 | 4–5 | 4–5 | 4–5 |
-| Partit Nazzjonalista (EPP) | 3 | 2 | 0% | 2 | 1–2 | 1–2 | 1–2 |
+| Partit Laburista (S&D) | 3 | 4 | 100% | 4 | 4 | 4 | 4–5 |
+| Partit Nazzjonalista (EPP) | 3 | 2 | 0% | 2 | 2 | 2 | 1–2 |
 | Alternattiva Demokratika (Greens/EFA) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 | Partit Demokratiku (ALDE) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
@@ -94,16 +94,16 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
-| 4 | 90% | 100% | Median, Majority |
-| 5 | 10% | 10% |  |
+| 4 | 99.1% | 100% | Median, Majority |
+| 5 | 0.9% | 0.9% |  |
 | 6 | 0% | 0% |  |
 
 ### Partit Nazzjonalista (EPP)
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 10% | 100% |  |
-| 2 | 90% | 90% | Median |
+| 1 | 0.9% | 100% |  |
+| 2 | 99.1% | 99.1% | Median |
 | 3 | 0% | 0% | Last Result |
 
 ### Alternattiva Demokratika (Greens/EFA)
@@ -130,6 +130,6 @@
 ### Calculations
 
 + **Sample size:** 392
-+ **Simulations done:** 1,024
-+ **Error estimate:** 7.38%
++ **Simulations done:** 131,072
++ **Error estimate:** 0.88%
 

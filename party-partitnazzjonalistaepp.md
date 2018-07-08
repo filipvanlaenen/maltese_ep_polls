@@ -54,8 +54,8 @@ Last result: **3** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2 | 2 |
 | [28–31 May 2018](2018-05-31-MaltaToday.html) | MaltaToday | 2 | 2 | 2 | 2 | 2 |
 | [23–27 April 2018](2018-04-27-MaltaToday.html) | MaltaToday | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [26 February–1 March 2018](2018-03-01-MaltaToday.html) | MaltaToday | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| [12–20 February 2018](2018-02-20-Sagalytics.html) | Sagalytics <br> It-Torċa | 2 | 2 | 2 | 2–3 | 2–3 |
+| [26 February–1 March 2018](2018-03-01-MaltaToday.html) | MaltaToday | 2 | 2 | 2 | 2 | 1–2 |
+| [12–20 February 2018](2018-02-20-Sagalytics.html) | Sagalytics <br> It-Torċa | 2 | 2 | 2 | 2 | 2–3 |
 | [23–29 January 2018](2018-01-29-MaltaToday.html) | MaltaToday | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 
 ### Probability Mass Function
@@ -66,8 +66,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.2% | 100% |  |
-| 2 | 99.8% | 99.8% | Median |
-| 3 | 0% | 0% | Last Result |
+| 2 | 99.7% | 100% | Median |
+| 3 | 0.2% | 0.2% | Last Result |
+| 4 | 0% | 0% | Majority |
 
 

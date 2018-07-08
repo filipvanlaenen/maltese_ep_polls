@@ -38,10 +38,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0% | 100% | Last Result |
-| 4 | 99.8% | 100% | Median, Majority |
-| 5 | 0.2% | 0.2% |  |
-| 6 | 0% | 0% |  |
+| 3 | 0.2% | 100% | Last Result |
+| 4 | 99.7% | 99.8% | Median, Majority |
+| 5 | 0% | 0% |  |
 
 ### Partit Nazzjonalista (EPP)
 
@@ -51,9 +50,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.2% | 100% |  |
-| 2 | 99.8% | 99.8% | Median |
-| 3 | 0% | 0% | Last Result |
+| 2 | 99.7% | 100% | Median |
+| 3 | 0.2% | 0.2% | Last Result |
+| 4 | 0% | 0% | Majority |
 
 ### Alternattiva Demokratika (Greens/EFA)
 
@@ -84,7 +83,7 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partit Laburista (S&D) | 3 | 4 | 100% | 4 | 4 | 4 | 4 |
+| Partit Laburista (S&D) | 3 | 4 | 99.8% | 4 | 4 | 4 | 4 |
 | Partit Nazzjonalista (EPP) | 3 | 2 | 0% | 2 | 2 | 2 | 2 |
 | Alternattiva Demokratika (Greens/EFA) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 | Partit Demokratiku (ALDE) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
@@ -93,18 +92,17 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0% | 100% | Last Result |
-| 4 | 99.8% | 100% | Median, Majority |
-| 5 | 0.2% | 0.2% |  |
-| 6 | 0% | 0% |  |
+| 3 | 0.2% | 100% | Last Result |
+| 4 | 99.7% | 99.8% | Median, Majority |
+| 5 | 0% | 0% |  |
 
 ### Partit Nazzjonalista (EPP)
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.2% | 100% |  |
-| 2 | 99.8% | 99.8% | Median |
-| 3 | 0% | 0% | Last Result |
+| 2 | 99.7% | 100% | Median |
+| 3 | 0.2% | 0.2% | Last Result |
+| 4 | 0% | 0% | Majority |
 
 ### Alternattiva Demokratika (Greens/EFA)
 
@@ -130,6 +128,6 @@
 ### Calculations
 
 + **Sample size:** 427
-+ **Simulations done:** 1,024
-+ **Error estimate:** 2.84%
++ **Simulations done:** 131,072
++ **Error estimate:** 0.47%
 
