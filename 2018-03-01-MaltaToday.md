@@ -39,8 +39,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
-| 4 | 99.1% | 100% | Median, Majority |
-| 5 | 0.9% | 0.9% |  |
+| 4 | 99.2% | 100% | Median, Majority |
+| 5 | 0.8% | 0.8% |  |
 | 6 | 0% | 0% |  |
 
 ### Partit Nazzjonalista (EPP)
@@ -51,8 +51,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.9% | 100% |  |
-| 2 | 99.1% | 99.1% | Median |
+| 1 | 0.8% | 100% |  |
+| 2 | 99.2% | 99.2% | Median |
 | 3 | 0% | 0% | Last Result |
 
 ### Partit Demokratiku (ALDE)
@@ -94,16 +94,16 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
-| 4 | 99.1% | 100% | Median, Majority |
-| 5 | 0.9% | 0.9% |  |
+| 4 | 99.2% | 100% | Median, Majority |
+| 5 | 0.8% | 0.8% |  |
 | 6 | 0% | 0% |  |
 
 ### Partit Nazzjonalista (EPP)
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.9% | 100% |  |
-| 2 | 99.1% | 99.1% | Median |
+| 1 | 0.8% | 100% |  |
+| 2 | 99.2% | 99.2% | Median |
 | 3 | 0% | 0% | Last Result |
 
 ### Alternattiva Demokratika (Greens/EFA)
@@ -130,6 +130,6 @@
 ### Calculations
 
 + **Sample size:** 392
-+ **Simulations done:** 131,072
-+ **Error estimate:** 0.88%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 2.18%
 
