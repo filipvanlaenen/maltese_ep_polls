@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/maltese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 08 Jul 2018 20:20:20 +0200</pubDate>
+    <pubDate>Sun, 08 Jul 2018 20:45:04 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by MaltaToday, 28–31 May 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2018-05-31-MaltaToday.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 4 seats&lt;/li&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 2 seats&lt;/li&gt;&lt;li&gt;Partit Demokratiku (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Alternattiva Demokratika (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2018-05-31-MaltaToday-seats.png"
+        length="79044"
+        type="image/png"/>
+      <pubDate>Sun, 08 Jul 2018 20:42:51 +0200</pubDate>
+      <dc:date>2018-07-08T20:42:51.794705+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MaltaToday, 28–31 May 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2018-05-31-MaltaToday.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2018-05-31-MaltaToday-coalitions-seats.png"
+        length="55074"
+        type="image/png"/>
+      <pubDate>Sun, 08 Jul 2018 20:42:51 +0200</pubDate>
+      <dc:date>2018-07-08T20:42:51.794705+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by MaltaToday, 28–31 May 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/maltese_ep_polls/2018-05-31-MaltaToday.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2018-05-31-MaltaToday.png"
         length="135928"
         type="image/png"/>
-      <pubDate>Sun, 08 Jul 2018 19:40:18 +0200</pubDate>
-      <dc:date>2018-07-08T19:40:18.716478+02:00</dc:date>
+      <pubDate>Sun, 08 Jul 2018 20:42:51 +0200</pubDate>
+      <dc:date>2018-07-08T20:42:51.794705+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MaltaToday, 23–27 April 2018 – Seat Projections for the Parties</title>
@@ -50,14 +70,34 @@
       <dc:date>2018-07-08T19:53:15.582412+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by MaltaToday, 26 February–1 March 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2018-03-01-MaltaToday.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 4 seats&lt;/li&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 2 seats&lt;/li&gt;&lt;li&gt;Partit Demokratiku (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Alternattiva Demokratika (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2018-03-01-MaltaToday-seats.png"
+        length="80006"
+        type="image/png"/>
+      <pubDate>Sun, 08 Jul 2018 20:34:47 +0200</pubDate>
+      <dc:date>2018-07-08T20:34:47.746795+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MaltaToday, 26 February–1 March 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2018-03-01-MaltaToday.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2018-03-01-MaltaToday-coalitions-seats.png"
+        length="55921"
+        type="image/png"/>
+      <pubDate>Sun, 08 Jul 2018 20:34:47 +0200</pubDate>
+      <dc:date>2018-07-08T20:34:47.746795+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by MaltaToday, 26 February–1 March 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/maltese_ep_polls/2018-03-01-MaltaToday.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 58.4–67.9%&lt;/li&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 28.4–37.7%&lt;/li&gt;&lt;li&gt;Partit Demokratiku (ALDE): 1.6–5.0%&lt;/li&gt;&lt;li&gt;Alternattiva Demokratika (Greens/EFA): 0.4–2.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2018-03-01-MaltaToday.png"
         length="139870"
         type="image/png"/>
-      <pubDate>Sun, 08 Jul 2018 19:38:18 +0200</pubDate>
-      <dc:date>2018-07-08T19:38:18.509056+02:00</dc:date>
+      <pubDate>Sun, 08 Jul 2018 20:34:47 +0200</pubDate>
+      <dc:date>2018-07-08T20:34:47.746795+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sagalytics for It-Torċa, 12–20 February 2018 – Voting Intentions</title>
@@ -66,8 +106,28 @@
       <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2018-02-20-Sagalytics.png"
         length="111314"
         type="image/png"/>
-      <pubDate>Sun, 08 Jul 2018 19:39:02 +0200</pubDate>
-      <dc:date>2018-07-08T19:39:02.386306+02:00</dc:date>
+      <pubDate>Sun, 08 Jul 2018 20:45:04 +0200</pubDate>
+      <dc:date>2018-07-08T20:45:04.314118+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MaltaToday, 23–29 January 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2018-01-29-MaltaToday.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Alternattiva Demokratika (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2018-01-29-MaltaToday-seats.png"
+        length="101606"
+        type="image/png"/>
+      <pubDate>Sun, 08 Jul 2018 20:24:28 +0200</pubDate>
+      <dc:date>2018-07-08T20:24:28.994972+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MaltaToday, 23–29 January 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2018-01-29-MaltaToday.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2018-01-29-MaltaToday-coalitions-seats.png"
+        length="83388"
+        type="image/png"/>
+      <pubDate>Sun, 08 Jul 2018 20:24:28 +0200</pubDate>
+      <dc:date>2018-07-08T20:24:28.994972+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MaltaToday, 23–29 January 2018 – Voting Intentions</title>
@@ -76,9 +136,9 @@
       <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2018-01-29-MaltaToday.png"
         length="125532"
         type="image/png"/>
-      <pubDate>Sun, 08 Jul 2018 20:20:20 +0200</pubDate>
-      <dc:date>2018-07-08T20:20:20.071993+02:00</dc:date>
+      <pubDate>Sun, 08 Jul 2018 20:24:28 +0200</pubDate>
+      <dc:date>2018-07-08T20:24:28.994972+02:00</dc:date>
     </item>
-    <dc:date>2018-07-08T20:20:20.071993+02:00</dc:date>
+    <dc:date>2018-07-08T20:45:04.314118+02:00</dc:date>
   </channel>
 </rss>
