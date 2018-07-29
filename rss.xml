@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/maltese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 08 Jul 2018 20:45:04 +0200</pubDate>
+    <pubDate>Sun, 29 Jul 2018 19:04:55 +0200</pubDate>
     <item>
       <title>Opinion Poll by MaltaToday, 28–31 May 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/maltese_ep_polls/2018-05-31-MaltaToday.html#seats</link>
@@ -100,14 +100,34 @@
       <dc:date>2018-07-08T20:34:47.746795+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Sagalytics for It-Torċa, 12–20 February 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2018-02-20-Sagalytics.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 4 seats&lt;/li&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2018-02-20-Sagalytics-seats.png"
+        length="57207"
+        type="image/png"/>
+      <pubDate>Sun, 29 Jul 2018 19:04:55 +0200</pubDate>
+      <dc:date>2018-07-29T19:04:55.90977+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sagalytics for It-Torċa, 12–20 February 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2018-02-20-Sagalytics.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2018-02-20-Sagalytics-coalitions-seats.png"
+        length="56885"
+        type="image/png"/>
+      <pubDate>Sun, 29 Jul 2018 19:04:55 +0200</pubDate>
+      <dc:date>2018-07-29T19:04:55.90977+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Sagalytics for It-Torċa, 12–20 February 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/maltese_ep_polls/2018-02-20-Sagalytics.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 56.1–65.0%&lt;/li&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 33.2–42.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 56.1–65.0%&lt;/li&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 33.2–41.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2018-02-20-Sagalytics.png"
-        length="111314"
+        length="110827"
         type="image/png"/>
-      <pubDate>Sun, 08 Jul 2018 20:45:04 +0200</pubDate>
-      <dc:date>2018-07-08T20:45:04.314118+02:00</dc:date>
+      <pubDate>Sun, 29 Jul 2018 19:04:55 +0200</pubDate>
+      <dc:date>2018-07-29T19:04:55.90977+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MaltaToday, 23–29 January 2018 – Seat Projections for the Parties</title>
@@ -139,6 +159,6 @@
       <pubDate>Sun, 08 Jul 2018 20:24:28 +0200</pubDate>
       <dc:date>2018-07-08T20:24:28.994972+02:00</dc:date>
     </item>
-    <dc:date>2018-07-08T20:45:04.314118+02:00</dc:date>
+    <dc:date>2018-07-29T19:04:55.90977+02:00</dc:date>
   </channel>
 </rss>
