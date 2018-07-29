@@ -14,7 +14,7 @@ Last result: **40.0%** (General Election of 25 May 2014)
 | [28–31 May 2018](2018-05-31-MaltaToday.html) | MaltaToday | 35.6% | 32.7–38.7% | 31.9–39.5% | 31.2–40.3% | 29.8–41.7% |
 | [23–27 April 2018](2018-04-27-MaltaToday.html) | MaltaToday | 40.6% | 37.6–43.7% | 36.8–44.5% | 36.1–45.3% | 34.7–46.7% |
 | [26 February–1 March 2018](2018-03-01-MaltaToday.html) | MaltaToday | 32.9% | 30.0–36.0% | 29.1–36.9% | 28.4–37.7% | 27.1–39.2% |
-| [12–20 February 2018](2018-02-20-Sagalytics.html) | Sagalytics <br> It-Torċa | 37.4% | 34.6–40.4% | 33.8–41.2% | 33.2–42.0% | 31.8–43.4% |
+| [12–20 February 2018](2018-02-20-Sagalytics.html) | Sagalytics <br> It-Torċa | 37.4% | 34.6–40.4% | 33.8–41.2% | 33.2–41.9% | 31.8–43.4% |
 | [23–29 January 2018](2018-01-29-MaltaToday.html) | MaltaToday | 40.2% | 36.9–43.5% | 36.0–44.5% | 35.2–45.3% | 33.7–46.9% |
 
 ### Probability Mass Function
