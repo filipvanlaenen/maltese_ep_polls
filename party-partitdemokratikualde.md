@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.6% | 0.3–1.2% | 0.2–1.5% | 0.1–1.7% | 0.1–2.1% |
+| [26–27 July 2018](2018-07-27-Esprimi.html) | Esprimi <br> Lovin Malta | 0.0% | N/A | N/A | N/A | N/A |
 | [28–31 May 2018](2018-05-31-MaltaToday.html) | MaltaToday | 0.5% | 0.2–1.2% | 0.2–1.5% | 0.1–1.7% | 0.1–2.1% |
 | [23–27 April 2018](2018-04-27-MaltaToday.html) | MaltaToday | 0.0% | N/A | N/A | N/A | N/A |
 | [26 February–1 March 2018](2018-03-01-MaltaToday.html) | MaltaToday | 2.8% | 2.0–4.2% | 1.8–4.6% | 1.6–5.0% | 1.3–5.7% |
@@ -39,6 +40,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [26–27 July 2018](2018-07-27-Esprimi.html) | Esprimi <br> Lovin Malta |  |  |  |  |  |
 | [28–31 May 2018](2018-05-31-MaltaToday.html) | MaltaToday | 0 | 0 | 0 | 0 | 0 |
 | [23–27 April 2018](2018-04-27-MaltaToday.html) | MaltaToday |  |  |  |  |  |
 | [26 February–1 March 2018](2018-03-01-MaltaToday.html) | MaltaToday | 0 | 0 | 0 | 0 | 0 |
