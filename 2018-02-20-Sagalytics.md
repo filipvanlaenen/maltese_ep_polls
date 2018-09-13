@@ -64,6 +64,8 @@
 
 ### Partit Laburista (S&D)
 
+![Graph with seats probability mass function not yet produced](2018-02-20-Sagalytics-coalitions-seats-pmf-pl.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 2% | 100% | Last Result |
@@ -71,6 +73,8 @@
 | 5 | 0% | 0% |  |
 
 ### Partit Nazzjonalista (EPP)
+
+![Graph with seats probability mass function not yet produced](2018-02-20-Sagalytics-coalitions-seats-pmf-pn.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

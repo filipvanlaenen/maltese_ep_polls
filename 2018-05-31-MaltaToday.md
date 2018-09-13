@@ -90,6 +90,8 @@
 
 ### Partit Laburista (S&D)
 
+![Graph with seats probability mass function not yet produced](2018-05-31-MaltaToday-coalitions-seats-pmf-pl.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.3% | 100% | Last Result |
@@ -97,6 +99,8 @@
 | 5 | 0% | 0% |  |
 
 ### Partit Nazzjonalista (EPP)
+
+![Graph with seats probability mass function not yet produced](2018-05-31-MaltaToday-coalitions-seats-pmf-pn.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -106,11 +110,15 @@
 
 ### Alternattiva Demokratika (Greens/EFA)
 
+![Graph with seats probability mass function not yet produced](2018-05-31-MaltaToday-coalitions-seats-pmf-ad.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
 
 ### Partit Demokratiku (ALDE)
+
+![Graph with seats probability mass function not yet produced](2018-05-31-MaltaToday-coalitions-seats-pmf-pd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

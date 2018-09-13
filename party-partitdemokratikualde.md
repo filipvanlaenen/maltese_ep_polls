@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.6% | 0.3–1.2% | 0.2–1.5% | 0.1–1.7% | 0.1–2.1% |
+| N/A | [Poll Average](average.html) | 1.9% | 1.2–2.9% | 1.0–3.2% | 0.9–3.5% | 0.7–4.1% |
+| [27–30 August 2018](2018-08-30-MaltaToday.html) | MaltaToday | 1.8% | 1.2–2.9% | 1.0–3.2% | 0.9–3.5% | 0.7–4.1% |
+| [27 July–2 August 2018](2018-08-02-MaltaToday.html) | MaltaToday | 0.0% | N/A | N/A | N/A | N/A |
 | [26–27 July 2018](2018-07-27-Esprimi.html) | Esprimi <br> Lovin Malta | 0.0% | N/A | N/A | N/A | N/A |
 | [28–31 May 2018](2018-05-31-MaltaToday.html) | MaltaToday | 0.5% | 0.2–1.2% | 0.2–1.5% | 0.1–1.7% | 0.1–2.1% |
 | [23–27 April 2018](2018-04-27-MaltaToday.html) | MaltaToday | 0.0% | N/A | N/A | N/A | N/A |
@@ -24,11 +26,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 42% | 100% | Last Result |
-| 0.5–1.5% | 55% | 58% | Median |
-| 1.5–2.5% | 4% | 4% |  |
-| 2.5–3.5% | 0.1% | 0.1% |  |
-| 3.5–4.5% | 0% | 0% |  |
+| 0.0–0.5% | 0.1% | 100% | Last Result |
+| 0.5–1.5% | 27% | 99.9% |  |
+| 1.5–2.5% | 54% | 73% | Median |
+| 2.5–3.5% | 17% | 19% |  |
+| 3.5–4.5% | 2% | 2% |  |
+| 4.5–5.5% | 0.1% | 0.1% |  |
+| 5.5–6.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -40,6 +44,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [27–30 August 2018](2018-08-30-MaltaToday.html) | MaltaToday | 0 | 0 | 0 | 0 | 0 |
+| [27 July–2 August 2018](2018-08-02-MaltaToday.html) | MaltaToday |  |  |  |  |  |
 | [26–27 July 2018](2018-07-27-Esprimi.html) | Esprimi <br> Lovin Malta |  |  |  |  |  |
 | [28–31 May 2018](2018-05-31-MaltaToday.html) | MaltaToday | 0 | 0 | 0 | 0 | 0 |
 | [23–27 April 2018](2018-04-27-MaltaToday.html) | MaltaToday |  |  |  |  |  |
