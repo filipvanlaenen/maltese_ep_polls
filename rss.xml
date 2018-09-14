@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/maltese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 13 Sep 2018 20:38:04 +0200</pubDate>
+    <pubDate>Fri, 14 Sep 2018 10:27:55 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by MaltaToday, 27–30 August 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2018-08-30-MaltaToday.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 4 seats&lt;/li&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 2 seats&lt;/li&gt;&lt;li&gt;Partit Demokratiku (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Alternattiva Demokratika (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2018-08-30-MaltaToday-seats.png"
+        length="80548"
+        type="image/png"/>
+      <pubDate>Fri, 14 Sep 2018 10:27:55 +0200</pubDate>
+      <dc:date>2018-09-14T10:27:55.969102+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MaltaToday, 27–30 August 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2018-08-30-MaltaToday.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2018-08-30-MaltaToday-coalitions-seats.png"
+        length="56545"
+        type="image/png"/>
+      <pubDate>Fri, 14 Sep 2018 10:27:55 +0200</pubDate>
+      <dc:date>2018-09-14T10:27:55.969102+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by MaltaToday, 27–30 August 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/maltese_ep_polls/2018-08-30-MaltaToday.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2018-08-30-MaltaToday.png"
         length="136202"
         type="image/png"/>
-      <pubDate>Thu, 13 Sep 2018 20:38:04 +0200</pubDate>
-      <dc:date>2018-09-13T20:38:04.383729+02:00</dc:date>
+      <pubDate>Fri, 14 Sep 2018 10:27:55 +0200</pubDate>
+      <dc:date>2018-09-14T10:27:55.969102+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MaltaToday, 27 July–2 August 2018 – Voting Intentions</title>
@@ -189,6 +209,6 @@
       <pubDate>Sun, 08 Jul 2018 20:24:28 +0200</pubDate>
       <dc:date>2018-07-08T20:24:28.994972+02:00</dc:date>
     </item>
-    <dc:date>2018-09-13T20:38:04.383729+02:00</dc:date>
+    <dc:date>2018-09-14T10:27:55.969102+02:00</dc:date>
   </channel>
 </rss>
