@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/maltese_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2018-09-14T10:27:55.969102+02:00</updated>
+  <updated>2018-09-16T10:05:43.319638+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partit Laburista (S&amp;D): 60.0–68.8%, 4 seats</li><li>Partit Nazzjonalista (EPP): 29.3–38.0%, 2 seats</li><li>Partit Demokratiku (ALDE): 0.9–3.5%, 0 seats</li><li>Alternattiva Demokratika (Greens/EFA): 0.0–1.2%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/maltese_ep_polls/2018-08-30-MaltaToday.html</id>
@@ -14,6 +14,22 @@
     <title>Opinion Poll by MaltaToday, 27–30 August 2018</title>
     <updated>2018-09-14T10:27:55.969102+02:00</updated>
     <dc:date>2018-09-14T10:27:55.969102+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partit Laburista (S&amp;D): 61.0–69.5%, 4 seats</li><li>Partit Nazzjonalista (EPP): 29.9–38.4%, 2 seats</li><li>Alternattiva Demokratika (Greens/EFA): 0.2–1.8%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/maltese_ep_polls/2018-08-02-MaltaToday.html</id>
+    <link href="https://filipvanlaenen.github.io/maltese_ep_polls/2018-08-02-MaltaToday.html"/>
+    <title>Opinion Poll by MaltaToday, 27 July–2 August 2018</title>
+    <updated>2018-09-16T09:37:25.573104+02:00</updated>
+    <dc:date>2018-09-16T09:37:25.573104+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partit Laburista (S&amp;D): 62.0–68.6%, 4–5 seats</li><li>Partit Nazzjonalista (EPP): 20.3–26.2%, 1–2 seats</li><li>Alternattiva Demokratika (Greens/EFA): 2.5–5.1%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/maltese_ep_polls/2018-07-27-Esprimi.html</id>
+    <link href="https://filipvanlaenen.github.io/maltese_ep_polls/2018-07-27-Esprimi.html"/>
+    <title>Opinion Poll by Esprimi for Lovin Malta, 26–27 July 2018</title>
+    <updated>2018-09-16T10:05:43.319638+02:00</updated>
+    <dc:date>2018-09-16T10:05:43.319638+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partit Laburista (S&amp;D): 58.3–67.4%, 4 seats</li><li>Partit Nazzjonalista (EPP): 31.2–40.3%, 2 seats</li><li>Partit Demokratiku (ALDE): 0.1–1.7%, 0 seats</li><li>Alternattiva Demokratika (Greens/EFA): 0.2–2.0%, 0 seats</li></ul></div></content>
@@ -55,5 +71,5 @@
     <updated>2018-07-08T20:24:28.994972+02:00</updated>
     <dc:date>2018-07-08T20:24:28.994972+02:00</dc:date>
   </entry>
-  <dc:date>2018-09-14T10:27:55.969102+02:00</dc:date>
+  <dc:date>2018-09-16T10:05:43.319638+02:00</dc:date>
 </feed>
