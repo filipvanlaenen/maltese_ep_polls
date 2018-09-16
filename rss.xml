@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/maltese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 14 Sep 2018 10:27:55 +0200</pubDate>
+    <pubDate>Sun, 16 Sep 2018 10:05:43 +0200</pubDate>
     <item>
       <title>Opinion Poll by MaltaToday, 27–30 August 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/maltese_ep_polls/2018-08-30-MaltaToday.html#seats</link>
@@ -40,14 +40,54 @@
       <dc:date>2018-09-14T10:27:55.969102+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by MaltaToday, 27 July–2 August 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2018-08-02-MaltaToday.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 4 seats&lt;/li&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 2 seats&lt;/li&gt;&lt;li&gt;Alternattiva Demokratika (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2018-08-02-MaltaToday-seats.png"
+        length="70628"
+        type="image/png"/>
+      <pubDate>Sun, 16 Sep 2018 09:37:25 +0200</pubDate>
+      <dc:date>2018-09-16T09:37:25.573104+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MaltaToday, 27 July–2 August 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2018-08-02-MaltaToday.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2018-08-02-MaltaToday-coalitions-seats.png"
+        length="56181"
+        type="image/png"/>
+      <pubDate>Sun, 16 Sep 2018 09:37:25 +0200</pubDate>
+      <dc:date>2018-09-16T09:37:25.573104+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by MaltaToday, 27 July–2 August 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/maltese_ep_polls/2018-08-02-MaltaToday.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 61.0–69.5%&lt;/li&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 29.9–38.4%&lt;/li&gt;&lt;li&gt;Alternattiva Demokratika (Greens/EFA): 0.2–1.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2018-08-02-MaltaToday.png"
         length="119720"
         type="image/png"/>
-      <pubDate>Thu, 13 Sep 2018 20:28:50 +0200</pubDate>
-      <dc:date>2018-09-13T20:28:50.751143+02:00</dc:date>
+      <pubDate>Sun, 16 Sep 2018 09:37:25 +0200</pubDate>
+      <dc:date>2018-09-16T09:37:25.573104+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Esprimi for Lovin Malta, 26–27 July 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2018-07-27-Esprimi.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Alternattiva Demokratika (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2018-07-27-Esprimi-seats.png"
+        length="96585"
+        type="image/png"/>
+      <pubDate>Sun, 16 Sep 2018 10:05:43 +0200</pubDate>
+      <dc:date>2018-09-16T10:05:43.319638+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Esprimi for Lovin Malta, 26–27 July 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2018-07-27-Esprimi.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2018-07-27-Esprimi-coalitions-seats.png"
+        length="78730"
+        type="image/png"/>
+      <pubDate>Sun, 16 Sep 2018 10:05:43 +0200</pubDate>
+      <dc:date>2018-09-16T10:05:43.319638+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Esprimi for Lovin Malta, 26–27 July 2018 – Voting Intentions</title>
@@ -56,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2018-07-27-Esprimi.png"
         length="115849"
         type="image/png"/>
-      <pubDate>Thu, 23 Aug 2018 06:45:52 +0200</pubDate>
-      <dc:date>2018-08-23T06:45:52.339712+02:00</dc:date>
+      <pubDate>Sun, 16 Sep 2018 10:05:43 +0200</pubDate>
+      <dc:date>2018-09-16T10:05:43.319638+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MaltaToday, 28–31 May 2018 – Seat Projections for the Parties</title>
@@ -209,6 +249,6 @@
       <pubDate>Sun, 08 Jul 2018 20:24:28 +0200</pubDate>
       <dc:date>2018-07-08T20:24:28.994972+02:00</dc:date>
     </item>
-    <dc:date>2018-09-14T10:27:55.969102+02:00</dc:date>
+    <dc:date>2018-09-16T10:05:43.319638+02:00</dc:date>
   </channel>
 </rss>
