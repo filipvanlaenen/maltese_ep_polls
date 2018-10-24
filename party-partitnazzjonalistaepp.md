@@ -10,7 +10,8 @@ Last result: **40.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.5% | 21.9–35.4% | 21.3–36.4% | 20.7–37.3% | 19.8–38.8% |
+| N/A | [Poll Average](average.html) | 29.3% | 21.9–39.5% | 21.3–40.5% | 20.7–41.3% | 19.8–42.9% |
+| [1–6 October 2018](2018-10-06-MaltaToday.html) | MaltaToday | 37.6% | 34.8–40.5% | 34.0–41.3% | 33.3–42.1% | 32.0–43.5% |
 | [27–30 August 2018](2018-08-30-MaltaToday.html) | MaltaToday | 33.5% | 30.7–36.4% | 29.9–37.3% | 29.3–38.0% | 28.0–39.4% |
 | [27 July–2 August 2018](2018-08-02-MaltaToday.html) | MaltaToday | 34.0% | 31.3–36.9% | 30.6–37.7% | 29.9–38.4% | 28.7–39.8% |
 | [26–27 July 2018](2018-07-27-Esprimi.html) | Esprimi <br> Lovin Malta | 23.1% | 21.2–25.1% | 20.7–25.7% | 20.3–26.2% | 19.4–27.1% |
@@ -35,22 +36,26 @@ The following table shows the probability mass function per percentage block of 
 | 23.5–24.5% | 11% | 70% |  |
 | 24.5–25.5% | 6% | 59% |  |
 | 25.5–26.5% | 2% | 53% |  |
-| 26.5–27.5% | 0.7% | 51% |  |
-| 27.5–28.5% | 0.5% | 50% | Median |
-| 28.5–29.5% | 1.2% | 49% |  |
-| 29.5–30.5% | 3% | 48% |  |
-| 30.5–31.5% | 5% | 46% |  |
-| 31.5–32.5% | 7% | 41% |  |
-| 32.5–33.5% | 9% | 34% |  |
-| 33.5–34.5% | 9% | 25% |  |
-| 34.5–35.5% | 7% | 16% |  |
-| 35.5–36.5% | 5% | 9% |  |
-| 36.5–37.5% | 3% | 5% |  |
-| 37.5–38.5% | 1.2% | 2% |  |
-| 38.5–39.5% | 0.5% | 0.7% |  |
-| 39.5–40.5% | 0.2% | 0.2% | Last Result |
-| 40.5–41.5% | 0% | 0.1% |  |
-| 41.5–42.5% | 0% | 0% |  |
+| 26.5–27.5% | 0.6% | 51% |  |
+| 27.5–28.5% | 0.1% | 50% |  |
+| 28.5–29.5% | 0% | 50% | Median |
+| 29.5–30.5% | 0% | 50% |  |
+| 30.5–31.5% | 0.1% | 50% |  |
+| 31.5–32.5% | 0.4% | 50% |  |
+| 32.5–33.5% | 1.1% | 49% |  |
+| 33.5–34.5% | 3% | 48% |  |
+| 34.5–35.5% | 5% | 46% |  |
+| 35.5–36.5% | 7% | 41% |  |
+| 36.5–37.5% | 9% | 34% |  |
+| 37.5–38.5% | 9% | 26% |  |
+| 38.5–39.5% | 7% | 17% |  |
+| 39.5–40.5% | 5% | 10% | Last Result |
+| 40.5–41.5% | 3% | 5% |  |
+| 41.5–42.5% | 1.3% | 2% |  |
+| 42.5–43.5% | 0.5% | 0.7% |  |
+| 43.5–44.5% | 0.2% | 0.2% |  |
+| 44.5–45.5% | 0% | 0.1% |  |
+| 45.5–46.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -61,7 +66,8 @@ Last result: **3** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [1–6 October 2018](2018-10-06-MaltaToday.html) | MaltaToday | 2 | 2 | 2 | 2 | 2–3 |
 | [27–30 August 2018](2018-08-30-MaltaToday.html) | MaltaToday | 2 | 2 | 2 | 2 | 1–2 |
 | [27 July–2 August 2018](2018-08-02-MaltaToday.html) | MaltaToday | 2 | 2 | 2 | 2 | 2 |
 | [26–27 July 2018](2018-07-27-Esprimi.html) | Esprimi <br> Lovin Malta | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -80,7 +86,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 46% | 100% |  |
-| 2 | 54% | 54% | Median |
-| 3 | 0% | 0% | Last Result |
+| 2 | 53% | 54% | Median |
+| 3 | 0.7% | 0.7% | Last Result |
+| 4 | 0% | 0% | Majority |
 
 
