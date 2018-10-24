@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | PL | PN | AD | PD | MPM |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 53.4% <br> 3 | 40.0% <br> 3 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [1–6 October 2018](2018-10-06-MaltaToday.html) | MaltaToday | 57–66% <br> 4 | 33–42% <br> 2 | 0–1% <br> 0 | 0–2% <br> 0 | N/A <br> N/A |
 | [27–30 August 2018](2018-08-30-MaltaToday.html) | MaltaToday | 60–69% <br> 4 | 29–38% <br> 2 | 0–1% <br> 0 | 1–3% <br> 0 | N/A <br> N/A |
 | [27 July–2 August 2018](2018-08-02-MaltaToday.html) | MaltaToday | 61–69% <br> 4 | 30–38% <br> 2 | 0–2% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | [26–27 July 2018](2018-07-27-Esprimi.html) | Esprimi <br> Lovin Malta | 62–69% <br> 4–5 | 20–26% <br> 1–2 | 2–5% <br> 0 | N/A <br> N/A | N/A <br> N/A |
