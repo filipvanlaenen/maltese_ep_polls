@@ -9,9 +9,8 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | PL | PN | AD | PD | MPM |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 53.4% <br> 3 | 40.0% <br> 3 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | 58–68% <br> 4–5 | 21–41% <br> 1–2 | 0–5% <br> 0 | 0–2% <br> 0 | N/A <br> N/A |
-| [1–6 October 2018](2018-10-06-MaltaToday.html) | MaltaToday | 57–66% <br> 4 | 33–42% <br> 2 | 0–1% <br> 0 | 0–2% <br> 0 | N/A <br> N/A |
-| [26–27 July 2018](2018-07-27-Esprimi.html) | Esprimi <br> Lovin Malta | 62–69% <br> 4–5 | 20–26% <br> 1–2 | 2–5% <br> 0 | N/A <br> N/A | N/A <br> N/A |
+| N/A | Poll Average | 65–73% <br> 4–5 | 25–33% <br> 1–2 | 0–2% <br> 0 | 0–2% <br> 0 | N/A <br> N/A |
+| [5–8 November 2018](2018-11-08-MaltaToday.html) | MaltaToday | 65–73% <br> 4–5 | 25–33% <br> 1–2 | 0–2% <br> 0 | 0–2% <br> 0 | N/A <br> N/A |
 | 25 May 2014 | General Election | 53.4% <br> 3 | 40.0% <br> 3 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -35,10 +34,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#partit-laburista-(s&d)">Partit Laburista (S&D)</a> | 53.4% | 63.7% | 59.6–66.8% |58.6–67.5% | 57.8–68.1% | 56.3–69.2% |
-| <a href="#partit-nazzjonalista-(epp)">Partit Nazzjonalista (EPP)</a> | 40.0% | 29.3% | 21.9–39.5% |21.3–40.5% | 20.7–41.3% | 19.8–42.9% |
-| <a href="#alternattiva-demokratika-(greens/efa)">Alternattiva Demokratika (Greens/EFA)</a> | 2.9% | 1.9% | 0.2–4.2% |0.1–4.5% | 0.1–4.8% | 0.0–5.4% |
-| <a href="#partit-demokratiku-(alde)">Partit Demokratiku (ALDE)</a> | 0.0% | 0.6% | 0.2–1.1% |0.2–1.3% | 0.1–1.5% | 0.1–1.9% |
+| <a href="#partit-laburista-(s&d)">Partit Laburista (S&D)</a> | 53.4% | 68.8% | 66.1–71.5% |65.3–72.2% | 64.6–72.9% | 63.2–74.1% |
+| <a href="#partit-nazzjonalista-(epp)">Partit Nazzjonalista (EPP)</a> | 40.0% | 29.1% | 26.5–31.8% |25.8–32.5% | 25.1–33.2% | 24.0–34.6% |
+| <a href="#alternattiva-demokratika-(greens/efa)">Alternattiva Demokratika (Greens/EFA)</a> | 2.9% | 1.2% | 0.7–1.9% |0.5–2.2% | 0.5–2.4% | 0.3–2.9% |
+| <a href="#partit-demokratiku-(alde)">Partit Demokratiku (ALDE)</a> | 0.0% | 1.2% | 0.7–1.9% |0.5–2.2% | 0.5–2.4% | 0.3–2.9% |
 | <a href="#moviment-patrijotti-maltin-(enf)">Moviment Patrijotti Maltin (ENF)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 
 ### Partit Laburista (S&D)
@@ -49,23 +48,28 @@ Only polls for which at least the sample size has been published are included in
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 52.5–53.5% | 0% | 100% | Last Result |
 | 53.5–54.5% | 0% | 100% |  |
-| 54.5–55.5% | 0.2% | 99.9% |  |
-| 55.5–56.5% | 0.5% | 99.8% |  |
-| 56.5–57.5% | 1.3% | 99.3% |  |
-| 57.5–58.5% | 3% | 98% |  |
-| 58.5–59.5% | 5% | 95% |  |
-| 59.5–60.5% | 7% | 91% |  |
-| 60.5–61.5% | 9% | 83% |  |
-| 61.5–62.5% | 11% | 74% |  |
-| 62.5–63.5% | 12% | 64% |  |
-| 63.5–64.5% | 13% | 52% | Median |
-| 64.5–65.5% | 14% | 38% |  |
-| 65.5–66.5% | 12% | 24% |  |
-| 66.5–67.5% | 8% | 12% |  |
-| 67.5–68.5% | 3% | 5% |  |
-| 68.5–69.5% | 1.1% | 1.3% |  |
-| 69.5–70.5% | 0.2% | 0.3% |  |
-| 70.5–71.5% | 0% | 0% |  |
+| 54.5–55.5% | 0% | 100% |  |
+| 55.5–56.5% | 0% | 100% |  |
+| 56.5–57.5% | 0% | 100% |  |
+| 57.5–58.5% | 0% | 100% |  |
+| 58.5–59.5% | 0% | 100% |  |
+| 59.5–60.5% | 0% | 100% |  |
+| 60.5–61.5% | 0% | 100% |  |
+| 61.5–62.5% | 0.2% | 100% |  |
+| 62.5–63.5% | 0.5% | 99.8% |  |
+| 63.5–64.5% | 2% | 99.3% |  |
+| 64.5–65.5% | 4% | 98% |  |
+| 65.5–66.5% | 8% | 94% |  |
+| 66.5–67.5% | 13% | 86% |  |
+| 67.5–68.5% | 17% | 73% |  |
+| 68.5–69.5% | 19% | 55% | Median |
+| 69.5–70.5% | 16% | 37% |  |
+| 70.5–71.5% | 11% | 21% |  |
+| 71.5–72.5% | 6% | 10% |  |
+| 72.5–73.5% | 3% | 4% |  |
+| 73.5–74.5% | 0.8% | 1.1% |  |
+| 74.5–75.5% | 0.2% | 0.2% |  |
+| 75.5–76.5% | 0% | 0% |  |
 
 ### Partit Nazzjonalista (EPP)
 
@@ -73,35 +77,25 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 17.5–18.5% | 0% | 100% |  |
-| 18.5–19.5% | 0.3% | 100% |  |
-| 19.5–20.5% | 2% | 99.7% |  |
-| 20.5–21.5% | 5% | 98% |  |
-| 21.5–22.5% | 10% | 93% |  |
-| 22.5–23.5% | 13% | 83% |  |
-| 23.5–24.5% | 11% | 70% |  |
-| 24.5–25.5% | 6% | 59% |  |
-| 25.5–26.5% | 2% | 53% |  |
-| 26.5–27.5% | 0.6% | 51% |  |
-| 27.5–28.5% | 0.1% | 50% |  |
-| 28.5–29.5% | 0% | 50% | Median |
-| 29.5–30.5% | 0% | 50% |  |
-| 30.5–31.5% | 0.1% | 50% |  |
-| 31.5–32.5% | 0.4% | 50% |  |
-| 32.5–33.5% | 1.1% | 49% |  |
-| 33.5–34.5% | 3% | 48% |  |
-| 34.5–35.5% | 5% | 46% |  |
-| 35.5–36.5% | 7% | 41% |  |
-| 36.5–37.5% | 9% | 34% |  |
-| 37.5–38.5% | 9% | 26% |  |
-| 38.5–39.5% | 7% | 17% |  |
-| 39.5–40.5% | 5% | 10% | Last Result |
-| 40.5–41.5% | 3% | 5% |  |
-| 41.5–42.5% | 1.3% | 2% |  |
-| 42.5–43.5% | 0.5% | 0.7% |  |
-| 43.5–44.5% | 0.2% | 0.2% |  |
-| 44.5–45.5% | 0% | 0.1% |  |
-| 45.5–46.5% | 0% | 0% |  |
+| 21.5–22.5% | 0% | 100% |  |
+| 22.5–23.5% | 0.2% | 100% |  |
+| 23.5–24.5% | 0.9% | 99.7% |  |
+| 24.5–25.5% | 3% | 98.8% |  |
+| 25.5–26.5% | 7% | 96% |  |
+| 26.5–27.5% | 12% | 89% |  |
+| 27.5–28.5% | 17% | 77% |  |
+| 28.5–29.5% | 19% | 60% | Median |
+| 29.5–30.5% | 17% | 41% |  |
+| 30.5–31.5% | 12% | 24% |  |
+| 31.5–32.5% | 7% | 12% |  |
+| 32.5–33.5% | 3% | 5% |  |
+| 33.5–34.5% | 1.3% | 2% |  |
+| 34.5–35.5% | 0.4% | 0.5% |  |
+| 35.5–36.5% | 0.1% | 0.1% |  |
+| 36.5–37.5% | 0% | 0% |  |
+| 37.5–38.5% | 0% | 0% |  |
+| 38.5–39.5% | 0% | 0% |  |
+| 39.5–40.5% | 0% | 0% | Last Result |
 
 ### Alternattiva Demokratika (Greens/EFA)
 
@@ -109,14 +103,12 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 37% | 100% |  |
-| 0.5–1.5% | 13% | 63% |  |
-| 1.5–2.5% | 2% | 50% | Median |
-| 2.5–3.5% | 21% | 48% | Last Result |
-| 3.5–4.5% | 23% | 27% |  |
-| 4.5–5.5% | 5% | 5% |  |
-| 5.5–6.5% | 0.3% | 0.3% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 0.0–0.5% | 5% | 100% |  |
+| 0.5–1.5% | 71% | 95% | Median |
+| 1.5–2.5% | 23% | 24% |  |
+| 2.5–3.5% | 2% | 2% | Last Result |
+| 3.5–4.5% | 0.1% | 0.1% |  |
+| 4.5–5.5% | 0% | 0% |  |
 
 ### Partit Demokratiku (ALDE)
 
@@ -124,11 +116,12 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 48% | 100% | Last Result |
-| 0.5–1.5% | 50% | 52% | Median |
-| 1.5–2.5% | 2% | 2% |  |
-| 2.5–3.5% | 0% | 0% |  |
-| 3.5–4.5% | 0% | 0% |  |
+| 0.0–0.5% | 5% | 100% | Last Result |
+| 0.5–1.5% | 71% | 95% | Median |
+| 1.5–2.5% | 23% | 24% |  |
+| 2.5–3.5% | 2% | 2% |  |
+| 3.5–4.5% | 0.1% | 0.1% |  |
+| 4.5–5.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -139,8 +132,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#partit-laburista-(s&d)">Partit Laburista (S&D)</a> | 3 | 4 | 4–5 |4–5 | 4–5 | 3–5 |
-| <a href="#partit-nazzjonalista-(epp)">Partit Nazzjonalista (EPP)</a> | 3 | 2 | 1–2 |1–2 | 1–2 | 1–3 |
+| <a href="#partit-laburista-(s&d)">Partit Laburista (S&D)</a> | 3 | 4 | 4–5 |4–5 | 4–5 | 4–5 |
+| <a href="#partit-nazzjonalista-(epp)">Partit Nazzjonalista (EPP)</a> | 3 | 2 | 1–2 |1–2 | 1–2 | 1–2 |
 | <a href="#alternattiva-demokratika-(greens/efa)">Alternattiva Demokratika (Greens/EFA)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#partit-demokratiku-(alde)">Partit Demokratiku (ALDE)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#moviment-patrijotti-maltin-(enf)">Moviment Patrijotti Maltin (ENF)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
@@ -153,9 +146,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.7% | 100% | Last Result |
-| 4 | 53% | 99.3% | Median, Majority |
-| 5 | 46% | 46% |  |
+| 3 | 0% | 100% | Last Result |
+| 4 | 70% | 100% | Median, Majority |
+| 5 | 30% | 30% |  |
 | 6 | 0% | 0% |  |
 
 ### Partit Nazzjonalista (EPP)
@@ -166,10 +159,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 46% | 100% |  |
-| 2 | 53% | 54% | Median |
-| 3 | 0.7% | 0.7% | Last Result |
-| 4 | 0% | 0% | Majority |
+| 1 | 30% | 100% |  |
+| 2 | 70% | 70% | Median |
+| 3 | 0% | 0% | Last Result |
 
 ### Alternattiva Demokratika (Greens/EFA)
 
@@ -200,8 +192,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partit Laburista (S&D) | 3 | 4 | 99.3% | 4–5 | 4–5 | 4–5 | 3–5 |
-| Partit Nazzjonalista (EPP) | 3 | 2 | 0% | 1–2 | 1–2 | 1–2 | 1–3 |
+| Partit Laburista (S&D) | 3 | 4 | 100% | 4–5 | 4–5 | 4–5 | 4–5 |
+| Partit Nazzjonalista (EPP) | 3 | 2 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
 | Alternattiva Demokratika (Greens/EFA) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 | Moviment Patrijotti Maltin (ENF) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 | Partit Demokratiku (ALDE) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
@@ -212,9 +204,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.7% | 100% | Last Result |
-| 4 | 53% | 99.3% | Median, Majority |
-| 5 | 46% | 46% |  |
+| 3 | 0% | 100% | Last Result |
+| 4 | 70% | 100% | Median, Majority |
+| 5 | 30% | 30% |  |
 | 6 | 0% | 0% |  |
 
 ### Partit Nazzjonalista (EPP)
@@ -223,10 +215,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 46% | 100% |  |
-| 2 | 53% | 54% | Median |
-| 3 | 0.7% | 0.7% | Last Result |
-| 4 | 0% | 0% | Majority |
+| 1 | 30% | 100% |  |
+| 2 | 70% | 70% | Median |
+| 3 | 0% | 0% | Last Result |
 
 ### Alternattiva Demokratika (Greens/EFA)
 
@@ -255,7 +246,7 @@ Only polls for which at least the sample size has been published are included in
 
 ## Technical Information
 
-+ **Number of polls included in this average:** 2
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 2,097,152
-+ **Error estimate:** 2.19%
++ **Number of polls included in this average:** 1
++ **Lowest number of simulations done in a poll included in this average:** 131,072
++ **Total number of simulations done in the polls included in this average:** 131,072
++ **Error estimate:** 1.78%
