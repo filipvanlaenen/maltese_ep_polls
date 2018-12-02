@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/maltese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 25 Oct 2018 16:43:13 +0200</pubDate>
+    <pubDate>Sun, 02 Dec 2018 19:26:26 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by MaltaToday, 5–8 November 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2018-11-08-MaltaToday.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 64.6–72.9%&lt;/li&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 25.1–33.2%&lt;/li&gt;&lt;li&gt;Partit Demokratiku (ALDE): 0.5–2.4%&lt;/li&gt;&lt;li&gt;Alternattiva Demokratika (Greens/EFA): 0.5–2.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2018-11-08-MaltaToday.png"
+        length="134566"
+        type="image/png"/>
+      <pubDate>Sun, 02 Dec 2018 19:26:26 +0100</pubDate>
+      <dc:date>2018-12-02T19:26:26.153437+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by MaltaToday, 1–6 October 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/maltese_ep_polls/2018-10-06-MaltaToday.html#seats</link>
@@ -279,6 +289,6 @@
       <pubDate>Sun, 08 Jul 2018 20:24:28 +0200</pubDate>
       <dc:date>2018-07-08T20:24:28.994972+02:00</dc:date>
     </item>
-    <dc:date>2018-10-25T16:43:13.105556+02:00</dc:date>
+    <dc:date>2018-12-02T19:26:26.153437+01:00</dc:date>
   </channel>
 </rss>
