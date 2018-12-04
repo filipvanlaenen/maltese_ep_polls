@@ -147,8 +147,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
-| 4 | 70% | 100% | Median, Majority |
-| 5 | 30% | 30% |  |
+| 4 | 71% | 100% | Median, Majority |
+| 5 | 29% | 29% |  |
 | 6 | 0% | 0% |  |
 
 ### Partit Nazzjonalista (EPP)
@@ -159,8 +159,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 30% | 100% |  |
-| 2 | 70% | 70% | Median |
+| 1 | 29% | 100% |  |
+| 2 | 71% | 71% | Median |
 | 3 | 0% | 0% | Last Result |
 
 ### Alternattiva Demokratika (Greens/EFA)
@@ -205,8 +205,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
-| 4 | 70% | 100% | Median, Majority |
-| 5 | 30% | 30% |  |
+| 4 | 71% | 100% | Median, Majority |
+| 5 | 29% | 29% |  |
 | 6 | 0% | 0% |  |
 
 ### Partit Nazzjonalista (EPP)
@@ -215,8 +215,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 30% | 100% |  |
-| 2 | 70% | 70% | Median |
+| 1 | 29% | 100% |  |
+| 2 | 71% | 71% | Median |
 | 3 | 0% | 0% | Last Result |
 
 ### Alternattiva Demokratika (Greens/EFA)
@@ -247,6 +247,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 1
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 131,072
-+ **Error estimate:** 1.78%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 1,048,576
++ **Error estimate:** 0.59%
