@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.2% | 0.7–1.9% | 0.5–2.2% | 0.5–2.4% | 0.3–2.9% |
+| [6–14 December 2018](2018-12-14-MaltaToday.html) | MaltaToday | 1.0% | 0.6–1.9% | 0.5–2.2% | 0.5–2.4% | 0.3–2.9% |
 | [5–8 November 2018](2018-11-08-MaltaToday.html) | MaltaToday | 1.0% | 0.7–1.9% | 0.5–2.2% | 0.5–2.4% | 0.3–2.9% |
 | [1–6 October 2018](2018-10-06-MaltaToday.html) | MaltaToday | 0.4% | 0.2–1.1% | 0.2–1.3% | 0.1–1.5% | 0.1–2.0% |
 | [27–30 August 2018](2018-08-30-MaltaToday.html) | MaltaToday | 1.8% | 1.2–2.9% | 1.0–3.2% | 0.9–3.5% | 0.7–4.1% |
@@ -32,7 +33,7 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 71% | 95% | Median |
 | 1.5–2.5% | 23% | 24% |  |
 | 2.5–3.5% | 2% | 2% |  |
-| 3.5–4.5% | 0.1% | 0.1% |  |
+| 3.5–4.5% | 0% | 0.1% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -45,6 +46,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [6–14 December 2018](2018-12-14-MaltaToday.html) | MaltaToday | 0 | 0 | 0 | 0 | 0 |
 | [5–8 November 2018](2018-11-08-MaltaToday.html) | MaltaToday | 0 | 0 | 0 | 0 | 0 |
 | [1–6 October 2018](2018-10-06-MaltaToday.html) | MaltaToday | 0 | 0 | 0 | 0 | 0 |
 | [27–30 August 2018](2018-08-30-MaltaToday.html) | MaltaToday | 0 | 0 | 0 | 0 | 0 |
