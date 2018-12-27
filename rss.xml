@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/maltese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 03 Dec 2018 21:20:19 +0100</pubDate>
+    <pubDate>Thu, 27 Dec 2018 14:03:16 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by MaltaToday, 6–14 December 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2018-12-14-MaltaToday.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 4 seats&lt;/li&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 2 seats&lt;/li&gt;&lt;li&gt;Partit Demokratiku (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Alternattiva Demokratika (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2018-12-14-MaltaToday-seats.png"
+        length="80402"
+        type="image/png"/>
+      <pubDate>Thu, 27 Dec 2018 14:03:16 +0100</pubDate>
+      <dc:date>2018-12-27T14:03:16.896564+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MaltaToday, 6–14 December 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2018-12-14-MaltaToday.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2018-12-14-MaltaToday-coalitions-seats.png"
+        length="56389"
+        type="image/png"/>
+      <pubDate>Thu, 27 Dec 2018 14:03:16 +0100</pubDate>
+      <dc:date>2018-12-27T14:03:16.896564+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MaltaToday, 6–14 December 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2018-12-14-MaltaToday.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 56.8–65.5%&lt;/li&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 32.6–41.3%&lt;/li&gt;&lt;li&gt;Partit Demokratiku (ALDE): 0.5–2.4%&lt;/li&gt;&lt;li&gt;Alternattiva Demokratika (Greens/EFA): 0.3–2.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2018-12-14-MaltaToday.png"
+        length="136256"
+        type="image/png"/>
+      <pubDate>Thu, 27 Dec 2018 14:03:16 +0100</pubDate>
+      <dc:date>2018-12-27T14:03:16.896564+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by MaltaToday, 5–8 November 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/maltese_ep_polls/2018-11-08-MaltaToday.html#seats</link>
@@ -309,6 +339,6 @@
       <pubDate>Sun, 08 Jul 2018 20:24:28 +0200</pubDate>
       <dc:date>2018-07-08T20:24:28.994972+02:00</dc:date>
     </item>
-    <dc:date>2018-12-03T21:20:19.794355+01:00</dc:date>
+    <dc:date>2018-12-27T14:03:16.896564+01:00</dc:date>
   </channel>
 </rss>
