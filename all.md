@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | PL | PN | AD | PD | MPM |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 53.4% <br> 3 | 40.0% <br> 3 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [21–28 January 2019](2019-01-28-MaltaToday.html) | MaltaToday | 58–67% <br> 4 | 32–41% <br> 2 | 0–2% <br> 0 | 0–2% <br> 0 | N/A <br> N/A |
 | [6–14 December 2018](2018-12-14-MaltaToday.html) | MaltaToday | 57–66% <br> 4 | 33–41% <br> 2 | 0–2% <br> 0 | 0–2% <br> 0 | N/A <br> N/A |
 | [5–8 November 2018](2018-11-08-MaltaToday.html) | MaltaToday | 65–73% <br> 4–5 | 25–33% <br> 1–2 | 0–2% <br> 0 | 0–2% <br> 0 | N/A <br> N/A |
 | [1–6 October 2018](2018-10-06-MaltaToday.html) | MaltaToday | 57–66% <br> 4 | 33–42% <br> 2 | 0–1% <br> 0 | 0–2% <br> 0 | N/A <br> N/A |
