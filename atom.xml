@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/maltese_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2018-12-27T14:03:16.896564+01:00</updated>
+  <updated>2019-02-07T15:23:10.993871+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partit Laburista (S&amp;D): 57.6–67.0%, 4 seats</li><li>Partit Nazzjonalista (EPP): 31.8–41.1%, 2 seats</li><li>Partit Demokratiku (ALDE): 0.2–1.8%, 0 seats</li><li>Alternattiva Demokratika (Greens/EFA): 0.2–1.8%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/maltese_ep_polls/2019-01-28-MaltaToday.html</id>
+    <link href="https://filipvanlaenen.github.io/maltese_ep_polls/2019-01-28-MaltaToday.html"/>
+    <title>Opinion Poll by MaltaToday, 21–28 January 2019</title>
+    <updated>2019-02-07T15:23:10.993871+01:00</updated>
+    <dc:date>2019-02-07T15:23:10.993871+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partit Laburista (S&amp;D): 56.8–65.5%, 4 seats</li><li>Partit Nazzjonalista (EPP): 32.6–41.3%, 2 seats</li><li>Partit Demokratiku (ALDE): 0.5–2.4%, 0 seats</li><li>Alternattiva Demokratika (Greens/EFA): 0.3–2.1%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/maltese_ep_polls/2018-12-14-MaltaToday.html</id>
@@ -95,5 +103,5 @@
     <updated>2018-07-08T20:24:28.994972+02:00</updated>
     <dc:date>2018-07-08T20:24:28.994972+02:00</dc:date>
   </entry>
-  <dc:date>2018-12-27T14:03:16.896564+01:00</dc:date>
+  <dc:date>2019-02-07T15:23:10.993871+01:00</dc:date>
 </feed>
