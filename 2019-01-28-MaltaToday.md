@@ -38,8 +38,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.8% | 100% | Last Result |
-| 4 | 99.2% | 99.2% | Median, Majority |
+| 3 | 0.6% | 100% | Last Result |
+| 4 | 99.4% | 99.4% | Median, Majority |
 | 5 | 0% | 0% |  |
 
 ### Partit Nazzjonalista (EPP)
@@ -50,8 +50,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 99.2% | 100% | Median |
-| 3 | 0.8% | 0.8% | Last Result |
+| 2 | 99.4% | 100% | Median |
+| 3 | 0.6% | 0.6% | Last Result |
 | 4 | 0% | 0% | Majority |
 
 ### Partit Demokratiku (ALDE)
@@ -83,7 +83,7 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partit Laburista (S&D) | 3 | 4 | 99.2% | 4 | 4 | 4 | 3–4 |
+| Partit Laburista (S&D) | 3 | 4 | 99.4% | 4 | 4 | 4 | 3–4 |
 | Partit Nazzjonalista (EPP) | 3 | 2 | 0% | 2 | 2 | 2 | 2–3 |
 | Alternattiva Demokratika (Greens/EFA) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 | Partit Demokratiku (ALDE) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
@@ -94,8 +94,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.8% | 100% | Last Result |
-| 4 | 99.2% | 99.2% | Median, Majority |
+| 3 | 0.6% | 100% | Last Result |
+| 4 | 99.4% | 99.4% | Median, Majority |
 | 5 | 0% | 0% |  |
 
 ### Partit Nazzjonalista (EPP)
@@ -104,8 +104,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 99.2% | 100% | Median |
-| 3 | 0.8% | 0.8% | Last Result |
+| 2 | 99.4% | 100% | Median |
+| 3 | 0.6% | 0.6% | Last Result |
 | 4 | 0% | 0% | Majority |
 
 ### Alternattiva Demokratika (Greens/EFA)
@@ -136,6 +136,6 @@
 ### Calculations
 
 + **Sample size:** 405
-+ **Simulations done:** 1,024
-+ **Error estimate:** 1.59%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 1.11%
 
