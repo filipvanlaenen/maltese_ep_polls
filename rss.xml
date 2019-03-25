@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/maltese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 20 Mar 2019 06:47:56 +0100</pubDate>
+    <pubDate>Mon, 25 Mar 2019 19:03:04 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by MaltaToday, 22–27 February 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2019-02-27-MaltaToday.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Partit Demokratiku (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Alternattiva Demokratika (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2019-02-27-MaltaToday-seats.png"
+        length="110727"
+        type="image/png"/>
+      <pubDate>Mon, 25 Mar 2019 19:03:04 +0100</pubDate>
+      <dc:date>2019-03-25T19:03:04.807641+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MaltaToday, 22–27 February 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2019-02-27-MaltaToday.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2019-02-27-MaltaToday-coalitions-seats.png"
+        length="82496"
+        type="image/png"/>
+      <pubDate>Mon, 25 Mar 2019 19:03:04 +0100</pubDate>
+      <dc:date>2019-03-25T19:03:04.807641+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by MaltaToday, 22–27 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/maltese_ep_polls/2019-02-27-MaltaToday.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2019-02-27-MaltaToday.png"
         length="136025"
         type="image/png"/>
-      <pubDate>Wed, 20 Mar 2019 06:47:56 +0100</pubDate>
-      <dc:date>2019-03-20T06:47:56.188896+01:00</dc:date>
+      <pubDate>Mon, 25 Mar 2019 19:03:04 +0100</pubDate>
+      <dc:date>2019-03-25T19:03:04.807641+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MaltaToday, 21–28 January 2019 – Seat Projections for the Parties</title>
@@ -379,6 +399,6 @@
       <pubDate>Sun, 08 Jul 2018 20:24:28 +0200</pubDate>
       <dc:date>2018-07-08T20:24:28.994972+02:00</dc:date>
     </item>
-    <dc:date>2019-03-20T06:47:56.188896+01:00</dc:date>
+    <dc:date>2019-03-25T19:03:04.807641+01:00</dc:date>
   </channel>
 </rss>
