@@ -6,7 +6,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 53.4% <br> 3 | 40.0% <br> 3 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | [Poll Average](average.html) | 54–63% <br> 3–4 | 34–43% <br> 2–3 | 0–2% <br> 0 | 0–3% <br> 0 | N/A <br> N/A |
-| [11–16 March 2019](2019-03-16-MISCO.html) | MISCO | 54–62% <br> 4 | 35–43% <br> 2 | 0–2% <br> 0 | 0–2% <br> 0 | N/A <br> N/A |
+| [11–16 March 2019](2019-03-16-MISCO.html) | MISCO | 54–62% <br> 3–4 | 35–43% <br> 2–3 | 0–2% <br> 0 | 0–2% <br> 0 | N/A <br> N/A |
 | [22–27 February 2019](2019-02-27-MaltaToday.html) | MaltaToday | 55–64% <br> 3–4 | 34–43% <br> 2–3 | 0–2% <br> 0 | 1–3% <br> 0 | N/A <br> N/A |
 | 25 May 2014 | General Election | 53.4% <br> 3 | 40.0% <br> 3 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
