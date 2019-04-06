@@ -60,8 +60,8 @@ Last result: **3** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2–3 | 2–3 |
-| [11–16 March 2019](2019-03-16-MISCO.html) | MISCO | 2 | 2 | 2 | 2 | 2–3 |
+| N/A | [Poll Average](average.html) | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| [11–16 March 2019](2019-03-16-MISCO.html) | MISCO | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [22–27 February 2019](2019-02-27-MaltaToday.html) | MaltaToday | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [21–28 January 2019](2019-01-28-MaltaToday.html) | MaltaToday | 2 | 2 | 2 | 2 | 2–3 |
 | [6–14 December 2018](2018-12-14-MaltaToday.html) | MaltaToday | 2 | 2 | 2 | 2 | 2–3 |
@@ -84,8 +84,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 96% | 100% | Median |
-| 3 | 4% | 4% | Last Result |
+| 2 | 91% | 100% | Median |
+| 3 | 9% | 9% | Last Result |
 | 4 | 0% | 0% | Majority |
 
 
