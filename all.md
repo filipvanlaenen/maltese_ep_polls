@@ -30,7 +30,7 @@ Only polls for which at least the sample size has been published are included in
 + **PN:** Partit Nazzjonalista (EPP)
 + **AD:** Alternattiva Demokratika (Greens/EFA)
 + **PD:** Partit Demokratiku (ALDE)
-+ **MPM:** Moviment Patrijotti Maltin (ENF)
++ **MPM:** Moviment Patrijotti Maltin (EAPN)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
