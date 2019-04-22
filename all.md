@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | PL | PN | AD | PD | MPM |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 53.4% <br> 3 | 40.0% <br> 3 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| [28 March–4 April 2019](2019-04-04-MaltaToday.html) | MaltaToday | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [28 March–4 April 2019](2019-04-04-MaltaToday.html) | MaltaToday | 58–67% <br> 4 | 33–42% <br> 2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [27–29 March 2019](2019-03-29-MISCO.html) | MISCO | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [11–16 March 2019](2019-03-16-MISCO.html) | MISCO | 54–62% <br> 3–4 | 35–43% <br> 2–3 | 0–2% <br> 0 | 0–2% <br> 0 | N/A <br> N/A |
 | [22–27 February 2019](2019-02-27-MaltaToday.html) | MaltaToday | 55–64% <br> 3–4 | 34–43% <br> 2–3 | 0–2% <br> 0 | 1–3% <br> 0 | N/A <br> N/A |
