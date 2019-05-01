@@ -11,7 +11,7 @@ Last result: **40.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 37.3% | 33.9–40.7% | 32.9–41.7% | 32.1–42.6% | 30.4–44.3% |
-| [28 March–4 April 2019](2019-04-04-MaltaToday.html) | MaltaToday | 37.5% | 34.5–40.6% | 33.6–41.5% | 32.9–42.2% | 31.5–43.8% |
+| [28 March–4 April 2019](2019-04-04-MaltaToday.html) | MaltaToday | 37.5% | 34.5–40.6% | 33.7–41.5% | 32.9–42.2% | 31.5–43.8% |
 | [27–29 March 2019](2019-03-29-MISCO.html) | MISCO | 37.0% | 33.4–40.8% | 32.4–41.9% | 31.5–42.9% | 29.8–44.7% |
 | [11–16 March 2019](2019-03-16-MISCO.html) | MISCO | 39.0% | 36.3–41.9% | 35.5–42.6% | 34.8–43.3% | 33.5–44.7% |
 | [22–27 February 2019](2019-02-27-MaltaToday.html) | MaltaToday | 38.3% | 35.4–41.4% | 34.6–42.2% | 33.9–43.0% | 32.5–44.4% |
