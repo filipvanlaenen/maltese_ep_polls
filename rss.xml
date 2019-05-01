@@ -8,16 +8,16 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/maltese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 22 Apr 2019 14:07:58 +0200</pubDate>
+    <pubDate>Tue, 30 Apr 2019 23:48:24 +0200</pubDate>
     <item>
       <title>Opinion Poll by MaltaToday, 28 March–4 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/maltese_ep_polls/2019-04-04-MaltaToday.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 57.8–67.1%&lt;/li&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 32.9–42.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2019-04-04-MaltaToday.png"
-        length="108086"
+        length="112119"
         type="image/png"/>
-      <pubDate>Mon, 22 Apr 2019 13:41:51 +0200</pubDate>
-      <dc:date>2019-04-22T13:41:51.834026+02:00</dc:date>
+      <pubDate>Tue, 30 Apr 2019 23:48:24 +0200</pubDate>
+      <dc:date>2019-04-30T23:48:24.919973+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MISCO, 27–29 March 2019 – Seat Projections for the Parties</title>
@@ -469,6 +469,6 @@
       <pubDate>Sun, 08 Jul 2018 20:24:28 +0200</pubDate>
       <dc:date>2018-07-08T20:24:28.994972+02:00</dc:date>
     </item>
-    <dc:date>2019-04-22T14:07:58.361255+02:00</dc:date>
+    <dc:date>2019-04-30T23:48:24.919973+02:00</dc:date>
   </channel>
 </rss>
