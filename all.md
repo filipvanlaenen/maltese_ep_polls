@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | PL | PN | AD | PD | MPM |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 53.4% <br> 3 | 40.0% <br> 3 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [25 April–3 May 2019](2019-05-03-MaltaToday.html) | MaltaToday | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [28 March–4 April 2019](2019-04-04-MaltaToday.html) | MaltaToday | 58–67% <br> 4 | 33–42% <br> 2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [27–29 March 2019](2019-03-29-MISCO.html) | MISCO | 53–65% <br> 3–4 | 31–43% <br> 2–3 | 1–4% <br> 0 | 1–4% <br> 0 | N/A <br> N/A |
 | [11–16 March 2019](2019-03-16-MISCO.html) | MISCO | 54–62% <br> 3–4 | 35–43% <br> 2–3 | 0–2% <br> 0 | 0–2% <br> 0 | N/A <br> N/A |
@@ -17,6 +18,7 @@ The table below lists all polls registered and analyzed so far.
 | [27 July–2 August 2018](2018-08-02-MaltaToday.html) | MaltaToday | 61–69% <br> 4 | 30–38% <br> 2 | 0–2% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | [26–27 July 2018](2018-07-27-Esprimi.html) | Esprimi <br> Lovin Malta | 62–69% <br> 4–5 | 20–26% <br> 1–2 | 2–5% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | [28–31 May 2018](2018-05-31-MaltaToday.html) | MaltaToday | 58–67% <br> 4 | 31–40% <br> 2 | 0–2% <br> 0 | 0–2% <br> 0 | N/A <br> N/A |
+| [23 April 2019–2 May 2018](2018-05-02-Sagalytics.html) | Sagalytics | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [23–27 April 2018](2018-04-27-MaltaToday.html) | MaltaToday | 53–63% <br> 3–4 | 36–45% <br> 2–3 | 0–2% <br> 0 | N/A <br> N/A | 0–2% <br> 0 |
 | [26 February–1 March 2018](2018-03-01-MaltaToday.html) | MaltaToday | 58–68% <br> 4 | 28–38% <br> 2 | 0–3% <br> 0 | 2–5% <br> 0 | N/A <br> N/A |
 | [12–20 February 2018](2018-02-20-Sagalytics.html) | Sagalytics <br> It-Torċa | 56–65% <br> 4 | 33–42% <br> 2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
