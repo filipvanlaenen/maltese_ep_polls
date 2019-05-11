@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | PL | PN | AD | PD | MPM |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 53.4% <br> 3 | 40.0% <br> 3 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 54–63% <br> 3–4 | 34–43% <br> 2–3 | 0–2% <br> 0 | 0–3% <br> 0 | N/A <br> N/A |
-| [11–16 March 2019](2019-03-16-MISCO.html) | MISCO | 54–62% <br> 3–4 | 35–43% <br> 2–3 | 0–2% <br> 0 | 0–2% <br> 0 | N/A <br> N/A |
-| [22–27 February 2019](2019-02-27-MaltaToday.html) | MaltaToday | 55–64% <br> 3–4 | 34–43% <br> 2–3 | 0–2% <br> 0 | 1–3% <br> 0 | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 54–66% <br> 3–4 | 32–43% <br> 2–3 | 1–4% <br> 0 | 1–4% <br> 0 | N/A <br> N/A |
+| [28 March–4 April 2019](2019-04-04-MaltaToday.html) | MaltaToday | 58–67% <br> 4 | 33–42% <br> 2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [27–29 March 2019](2019-03-29-MISCO.html) | MISCO | 53–65% <br> 3–4 | 31–43% <br> 2–3 | 1–4% <br> 0 | 1–4% <br> 0 | N/A <br> N/A |
 | 25 May 2014 | General Election | 53.4% <br> 3 | 40.0% <br> 3 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -19,7 +19,7 @@ Only polls for which at least the sample size has been published are included in
 + **PN:** Partit Nazzjonalista (EPP)
 + **AD:** Alternattiva Demokratika (Greens/EFA)
 + **PD:** Partit Demokratiku (ALDE)
-+ **MPM:** Moviment Patrijotti Maltin (ENF)
++ **MPM:** Moviment Patrijotti Maltin (EAPN)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
