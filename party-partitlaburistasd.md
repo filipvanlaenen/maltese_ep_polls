@@ -11,6 +11,7 @@ Last result: **53.4%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 60.9% | 56.4–64.7% | 55.1–65.6% | 54.0–66.5% | 51.9–68.0% |
+| [25 April–3 May 2019](2019-05-03-MaltaToday.html) | MaltaToday | 57.9% | N/A | N/A | N/A | N/A |
 | [28 March–4 April 2019](2019-04-04-MaltaToday.html) | MaltaToday | 62.5% | 59.4–65.5% | 58.5–66.3% | 57.8–67.1% | 56.2–68.5% |
 | [27–29 March 2019](2019-03-29-MISCO.html) | MISCO | 59.0% | 55.1–62.7% | 54.0–63.7% | 53.1–64.6% | 51.2–66.4% |
 | [11–16 March 2019](2019-03-16-MISCO.html) | MISCO | 58.0% | 55.1–60.8% | 54.3–61.6% | 53.6–62.2% | 52.2–63.6% |
@@ -23,6 +24,7 @@ Last result: **53.4%** (General Election of 25 May 2014)
 | [27 July–2 August 2018](2018-08-02-MaltaToday.html) | MaltaToday | 65.3% | 62.5–68.1% | 61.7–68.8% | 61.0–69.5% | 59.6–70.8% |
 | [26–27 July 2018](2018-07-27-Esprimi.html) | Esprimi <br> Lovin Malta | 65.4% | 63.1–67.5% | 62.5–68.1% | 62.0–68.6% | 60.9–69.6% |
 | [28–31 May 2018](2018-05-31-MaltaToday.html) | MaltaToday | 63.0% | 59.9–65.9% | 59.1–66.7% | 58.3–67.4% | 56.8–68.8% |
+| [23 April 2019–2 May 2018](2018-05-02-Sagalytics.html) | Sagalytics | 55.2% | N/A | N/A | N/A | N/A |
 | [23–27 April 2018](2018-04-27-MaltaToday.html) | MaltaToday | 58.0% | 55.0–61.0% | 54.1–61.9% | 53.3–62.6% | 51.9–64.0% |
 | [26 February–1 March 2018](2018-03-01-MaltaToday.html) | MaltaToday | 63.3% | 60.1–66.3% | 59.2–67.2% | 58.4–67.9% | 56.8–69.3% |
 | [12–20 February 2018](2018-02-20-Sagalytics.html) | Sagalytics <br> It-Torċa | 60.6% | 57.6–63.5% | 56.8–64.3% | 56.1–65.0% | 54.7–66.3% |
@@ -68,6 +70,7 @@ Last result: **3** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4 | 4 | 3–4 | 3–4 |
+| [25 April–3 May 2019](2019-05-03-MaltaToday.html) | MaltaToday |  |  |  |  |  |
 | [28 March–4 April 2019](2019-04-04-MaltaToday.html) | MaltaToday | 4 | 4 | 4 | 4 | 4 |
 | [27–29 March 2019](2019-03-29-MISCO.html) | MISCO | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | [11–16 March 2019](2019-03-16-MISCO.html) | MISCO | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -80,6 +83,7 @@ Last result: **3** seats (General Election of 25 May 2014)
 | [27 July–2 August 2018](2018-08-02-MaltaToday.html) | MaltaToday | 4 | 4 | 4 | 4 | 4 |
 | [26–27 July 2018](2018-07-27-Esprimi.html) | Esprimi <br> Lovin Malta | 5 | 5 | 4–5 | 4–5 | 4–5 |
 | [28–31 May 2018](2018-05-31-MaltaToday.html) | MaltaToday | 4 | 4 | 4 | 4 | 4 |
+| [23 April 2019–2 May 2018](2018-05-02-Sagalytics.html) | Sagalytics |  |  |  |  |  |
 | [23–27 April 2018](2018-04-27-MaltaToday.html) | MaltaToday | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [26 February–1 March 2018](2018-03-01-MaltaToday.html) | MaltaToday | 4 | 4 | 4 | 4 | 4–5 |
 | [12–20 February 2018](2018-02-20-Sagalytics.html) | Sagalytics <br> It-Torċa | 4 | 4 | 4 | 4 | 3–4 |
