@@ -11,7 +11,7 @@ Last result: **2.9%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.1% | 1.2–3.4% | 1.0–3.8% | 0.8–4.2% | 0.6–5.1% |
-| [25 April–3 May 2019](2019-05-03-MaltaToday.html) | MaltaToday | 1.3% | N/A | N/A | N/A | N/A |
+| [25 April–3 May 2019](2019-05-03-MaltaToday.html) | MaltaToday | 1.3% | 0.8–2.2% | 0.7–2.5% | 0.6–2.8% | 0.4–3.3% |
 | [28 March–4 April 2019](2019-04-04-MaltaToday.html) | MaltaToday | 0.0% | N/A | N/A | N/A | N/A |
 | [27–29 March 2019](2019-03-29-MISCO.html) | MISCO | 1.8% | 1.2–3.4% | 1.0–3.8% | 0.8–4.2% | 0.6–5.1% |
 | [11–16 March 2019](2019-03-16-MISCO.html) | MISCO | 1.0% | 0.6–1.8% | 0.5–2.1% | 0.4–2.3% | 0.3–2.8% |
@@ -55,7 +55,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [25 April–3 May 2019](2019-05-03-MaltaToday.html) | MaltaToday |  |  |  |  |  |
+| [25 April–3 May 2019](2019-05-03-MaltaToday.html) | MaltaToday | 0 | 0 | 0 | 0 | 0 |
 | [28 March–4 April 2019](2019-04-04-MaltaToday.html) | MaltaToday |  |  |  |  |  |
 | [27–29 March 2019](2019-03-29-MISCO.html) | MISCO | 0 | 0 | 0 | 0 | 0 |
 | [11–16 March 2019](2019-03-16-MISCO.html) | MISCO | 0 | 0 | 0 | 0 | 0 |
