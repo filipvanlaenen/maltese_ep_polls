@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 60 days old) registered a
 | Period     | Polling firm/Commissioner(s) | PL | PN | AD | PD | MPM |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 53.4% <br> 3 | 40.0% <br> 3 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 54–66% <br> 3–4 | 32–43% <br> 2–3 | 1–4% <br> 0 | 1–4% <br> 0 | N/A <br> N/A |
-| [28 March–4 April 2019](2019-04-04-MaltaToday.html) | MaltaToday | 58–67% <br> 4 | 33–42% <br> 2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [27–29 March 2019](2019-03-29-MISCO.html) | MISCO | 53–65% <br> 3–4 | 31–43% <br> 2–3 | 1–4% <br> 0 | 1–4% <br> 0 | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 51–61% <br> 3–4 | 36–45% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [9–15 May 2019](2019-05-15-MaltaToday.html) | MaltaToday | 54–61% <br> 3–4 | 36–42% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [8–11 May 2019](2019-05-11-MISCO.html) | MISCO <br> Sunday Times | 50–61% <br> 3–4 | 35–46% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 25 May 2014 | General Election | 53.4% <br> 3 | 40.0% <br> 3 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
