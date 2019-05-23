@@ -11,8 +11,8 @@ Last result: **40.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 37.3% | 33.9–40.7% | 32.9–41.7% | 32.1–42.6% | 30.4–44.3% |
-| [9–15 May 2019](2019-05-15-MaltaToday.html) | MaltaToday | 39.1% | N/A | N/A | N/A | N/A |
-| [8–11 May 2019](2019-05-11-MISCO.html) | MISCO <br> Sunday Times | 40.6% | N/A | N/A | N/A | N/A |
+| [9–15 May 2019](2019-05-15-MaltaToday.html) | MaltaToday | 39.1% | 37.0–41.3% | 36.4–41.9% | 35.9–42.4% | 34.9–43.5% |
+| [8–11 May 2019](2019-05-11-MISCO.html) | MISCO <br> Sunday Times | 40.6% | 37.1–44.3% | 36.2–45.3% | 35.3–46.2% | 33.7–47.9% |
 | [25 April–3 May 2019](2019-05-03-MaltaToday.html) | MaltaToday | 38.0% | 35.2–41.0% | 34.4–41.8% | 33.7–42.5% | 32.4–43.9% |
 | [28 March–4 April 2019](2019-04-04-MaltaToday.html) | MaltaToday | 37.5% | 34.5–40.6% | 33.7–41.5% | 32.9–42.2% | 31.5–43.8% |
 | [27–29 March 2019](2019-03-29-MISCO.html) | MISCO | 37.0% | 33.4–40.8% | 32.4–41.9% | 31.5–42.9% | 29.8–44.7% |
@@ -71,8 +71,8 @@ Last result: **3** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2–3 | 2–3 |
-| [9–15 May 2019](2019-05-15-MaltaToday.html) | MaltaToday |  |  |  |  |  |
-| [8–11 May 2019](2019-05-11-MISCO.html) | MISCO <br> Sunday Times |  |  |  |  |  |
+| [9–15 May 2019](2019-05-15-MaltaToday.html) | MaltaToday | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| [8–11 May 2019](2019-05-11-MISCO.html) | MISCO <br> Sunday Times | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [25 April–3 May 2019](2019-05-03-MaltaToday.html) | MaltaToday | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [28 March–4 April 2019](2019-04-04-MaltaToday.html) | MaltaToday | 2 | 2 | 2 | 2 | 2 |
 | [27–29 March 2019](2019-03-29-MISCO.html) | MISCO | 2 | 2 | 2–3 | 2–3 | 2–3 |
