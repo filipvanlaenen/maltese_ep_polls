@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>All Registered Polls for the European Parliament</title>
+    <link>https://filipvanlaenen.github.io/maltese_ep_polls</link>
+    <description>All Registered Polls for the European Parliament</description>
+    <pubDate>Wed, 25 Sep 2019 19:22:31 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Sagalytics, 16–20 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2019-09-20-Sagalytics.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 55.3–62.8%&lt;/li&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 36.2–43.6%&lt;/li&gt;&lt;li&gt;Alternattiva Demokratika (Greens/EFA): 0.5–2.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2019-09-20-Sagalytics.png"
+        length="114692"
+        type="image/png"/>
+      <pubDate>Wed, 25 Sep 2019 19:22:31 +0200</pubDate>
+      <dc:date>2019-09-25T19:22:31.383234+02:00</dc:date>
+    </item>
+    <dc:date>2019-09-25T19:22:31.383234+02:00</dc:date>
+  </channel>
+</rss>
