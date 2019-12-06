@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/maltese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 30 Sep 2019 21:52:31 +0200</pubDate>
+    <pubDate>Thu, 05 Dec 2019 21:06:05 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Sagalytics, 27–29 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2019-11-29-Sagalytics.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 52.0–59.9%&lt;/li&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 39.1–47.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2019-11-29-Sagalytics.png"
+        length="110490"
+        type="image/png"/>
+      <pubDate>Thu, 05 Dec 2019 21:06:05 +0100</pubDate>
+      <dc:date>2019-12-05T21:06:05.706402+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Sagalytics, 16–20 September 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/maltese_ep_polls/2019-09-20-Sagalytics.html#seats</link>
@@ -39,6 +49,6 @@
       <pubDate>Mon, 30 Sep 2019 21:52:31 +0200</pubDate>
       <dc:date>2019-09-30T21:52:31.521241+02:00</dc:date>
     </item>
-    <dc:date>2019-09-30T21:52:31.521241+02:00</dc:date>
+    <dc:date>2019-12-05T21:06:05.706402+01:00</dc:date>
   </channel>
 </rss>
