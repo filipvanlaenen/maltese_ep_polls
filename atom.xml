@@ -6,7 +6,23 @@
   </author>
   <id>https://filipvanlaenen.github.io/maltese_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2019-09-30T21:52:31.521241+02:00</updated>
+  <updated>2019-12-13T18:45:39.168663+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partit Laburista (S&amp;D): 52.0–59.9%, 3–4 seats</li><li>Partit Nazzjonalista (EPP): 39.1–47.0%, 2–3 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/maltese_ep_polls/2019-11-29-Sagalytics.html</id>
+    <link href="https://filipvanlaenen.github.io/maltese_ep_polls/2019-11-29-Sagalytics.html"/>
+    <title>Opinion Poll by Sagalytics, 27–29 November 2019</title>
+    <updated>2019-12-13T18:29:49.952096+01:00</updated>
+    <dc:date>2019-12-13T18:29:49.952096+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partit Laburista (S&amp;D): 57.2–64.6%, 4 seats</li><li>Partit Nazzjonalista (EPP): 33.4–40.8%, 2 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/maltese_ep_polls/2019-10-31-MaltaToday.html</id>
+    <link href="https://filipvanlaenen.github.io/maltese_ep_polls/2019-10-31-MaltaToday.html"/>
+    <title>Opinion Poll by MaltaToday, 24–31 October 2019</title>
+    <updated>2019-12-13T18:45:39.168663+01:00</updated>
+    <dc:date>2019-12-13T18:45:39.168663+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partit Laburista (S&amp;D): 55.3–62.8%, 3–4 seats</li><li>Partit Nazzjonalista (EPP): 36.2–43.6%, 2–3 seats</li><li>Alternattiva Demokratika (Greens/EFA): 0.5–2.2%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/maltese_ep_polls/2019-09-20-Sagalytics.html</id>
@@ -15,5 +31,5 @@
     <updated>2019-09-30T21:52:31.521241+02:00</updated>
     <dc:date>2019-09-30T21:52:31.521241+02:00</dc:date>
   </entry>
-  <dc:date>2019-09-30T21:52:31.521241+02:00</dc:date>
+  <dc:date>2019-12-13T18:45:39.168663+01:00</dc:date>
 </feed>
