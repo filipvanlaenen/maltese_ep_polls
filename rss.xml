@@ -8,16 +8,66 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/maltese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 12 Dec 2019 06:59:32 +0100</pubDate>
+    <pubDate>Fri, 13 Dec 2019 18:45:39 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Sagalytics, 27–29 November 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2019-11-29-Sagalytics.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2019-11-29-Sagalytics-seats.png"
+        length="87755"
+        type="image/png"/>
+      <pubDate>Fri, 13 Dec 2019 18:29:49 +0100</pubDate>
+      <dc:date>2019-12-13T18:29:49.952096+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sagalytics, 27–29 November 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2019-11-29-Sagalytics.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2019-11-29-Sagalytics-coalitions-seats.png"
+        length="84779"
+        type="image/png"/>
+      <pubDate>Fri, 13 Dec 2019 18:29:49 +0100</pubDate>
+      <dc:date>2019-12-13T18:29:49.952096+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Sagalytics, 27–29 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/maltese_ep_polls/2019-11-29-Sagalytics.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 52.0–59.9%&lt;/li&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 39.1–47.0%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2019-11-29-Sagalytics.png"
-        length="110490"
+        length="110349"
         type="image/png"/>
-      <pubDate>Thu, 05 Dec 2019 21:06:05 +0100</pubDate>
-      <dc:date>2019-12-05T21:06:05.706402+01:00</dc:date>
+      <pubDate>Fri, 13 Dec 2019 18:29:49 +0100</pubDate>
+      <dc:date>2019-12-13T18:29:49.952096+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MaltaToday, 24–31 October 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2019-10-31-MaltaToday.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 4 seats&lt;/li&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2019-10-31-MaltaToday-seats.png"
+        length="56131"
+        type="image/png"/>
+      <pubDate>Fri, 13 Dec 2019 18:45:39 +0100</pubDate>
+      <dc:date>2019-12-13T18:45:39.168663+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MaltaToday, 24–31 October 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2019-10-31-MaltaToday.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2019-10-31-MaltaToday-coalitions-seats.png"
+        length="55659"
+        type="image/png"/>
+      <pubDate>Fri, 13 Dec 2019 18:45:39 +0100</pubDate>
+      <dc:date>2019-12-13T18:45:39.168663+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MaltaToday, 24–31 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2019-10-31-MaltaToday.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 57.2–64.6%&lt;/li&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 33.4–40.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2019-10-31-MaltaToday.png"
+        length="105939"
+        type="image/png"/>
+      <pubDate>Fri, 13 Dec 2019 18:45:39 +0100</pubDate>
+      <dc:date>2019-12-13T18:45:39.168663+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MaltaToday, 26 September–3 October 2019 – Voting Intentions</title>
@@ -59,6 +109,6 @@
       <pubDate>Mon, 30 Sep 2019 21:52:31 +0200</pubDate>
       <dc:date>2019-09-30T21:52:31.521241+02:00</dc:date>
     </item>
-    <dc:date>2019-12-12T06:59:32.478089+01:00</dc:date>
+    <dc:date>2019-12-13T18:45:39.168663+01:00</dc:date>
   </channel>
 </rss>
