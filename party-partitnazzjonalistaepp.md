@@ -12,7 +12,7 @@ Last result: **40.0%** (General Election of 25 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 40.0% | 35.5–44.7% | 34.7–45.6% | 34.0–46.3% | 32.8–47.7% |
 | [16–20 December 2019](2019-12-20-MaltaToday.html) | MaltaToday | 40.3% | 37.6–43.2% | 36.8–44.0% | 36.1–44.7% | 34.8–46.1% |
-| [2–6 December 2019](2019-12-06-MaltaToday.html) | MaltaToday | 37.7% | N/A | N/A | N/A | N/A |
+| [2–6 December 2019](2019-12-06-MaltaToday.html) | MaltaToday | 37.7% | 35.0–40.5% | 34.2–41.4% | 33.5–42.1% | 32.3–43.4% |
 | [27–29 November 2019](2019-11-29-Sagalytics.html) | Sagalytics | 43.0% | 40.4–45.6% | 39.7–46.3% | 39.1–47.0% | 37.9–48.2% |
 | [24–31 October 2019](2019-10-31-MaltaToday.html) | MaltaToday | 37.0% | 34.7–39.5% | 34.0–40.2% | 33.4–40.8% | 32.3–42.0% |
 | [26 September–3 October 2019](2019-10-03-MaltaToday.html) | MaltaToday | 33.1% | 30.8–35.6% | 30.2–36.3% | 29.6–36.9% | 28.5–38.0% |
@@ -57,7 +57,7 @@ Last result: **3** seats (General Election of 25 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [16–20 December 2019](2019-12-20-MaltaToday.html) | MaltaToday | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [2–6 December 2019](2019-12-06-MaltaToday.html) | MaltaToday |  |  |  |  |  |
+| [2–6 December 2019](2019-12-06-MaltaToday.html) | MaltaToday | 2 | 2 | 2 | 2–3 | 2–3 |
 | [27–29 November 2019](2019-11-29-Sagalytics.html) | Sagalytics | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [24–31 October 2019](2019-10-31-MaltaToday.html) | MaltaToday | 2 | 2 | 2 | 2 | 2 |
 | [26 September–3 October 2019](2019-10-03-MaltaToday.html) | MaltaToday | 2 | 2 | 2 | 2 | 2 |
