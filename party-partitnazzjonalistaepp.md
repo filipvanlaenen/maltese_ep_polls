@@ -10,8 +10,8 @@ Last result: **40.0%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 43.0% | 40.4–45.6% | 39.7–46.3% | 39.1–47.0% | 37.9–48.2% |
-| [21–28 January 2020](2020-01-28-MaltaToday.html) | MaltaToday | 31.9% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 37.3% | 30.4–44.7% | 29.7–45.6% | 29.0–46.3% | 27.8–47.7% |
+| [21–28 January 2020](2020-01-28-MaltaToday.html) | MaltaToday | 31.9% | 29.6–34.3% | 29.0–35.0% | 28.5–35.6% | 27.4–36.7% |
 | [16–20 December 2019](2019-12-20-MaltaToday.html) | MaltaToday | 40.3% | 37.6–43.2% | 36.8–44.0% | 36.1–44.7% | 34.8–46.1% |
 | [2–6 December 2019](2019-12-06-MaltaToday.html) | MaltaToday | 37.7% | 35.0–40.5% | 34.2–41.4% | 33.5–42.1% | 32.3–43.4% |
 | [27–29 November 2019](2019-11-29-Sagalytics.html) | Sagalytics | 43.0% | 40.4–45.6% | 39.7–46.3% | 39.1–47.0% | 37.9–48.2% |
@@ -25,22 +25,31 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 35.5–36.5% | 0% | 100% |  |
-| 36.5–37.5% | 0.2% | 99.9% |  |
-| 37.5–38.5% | 1.0% | 99.7% |  |
-| 38.5–39.5% | 3% | 98.7% |  |
-| 39.5–40.5% | 7% | 96% | Last Result |
-| 40.5–41.5% | 12% | 89% |  |
-| 41.5–42.5% | 18% | 77% |  |
-| 42.5–43.5% | 20% | 59% | Median |
-| 43.5–44.5% | 17% | 40% |  |
-| 44.5–45.5% | 12% | 22% |  |
-| 45.5–46.5% | 6% | 11% |  |
-| 46.5–47.5% | 3% | 4% |  |
-| 47.5–48.5% | 1.0% | 1.3% |  |
-| 48.5–49.5% | 0.3% | 0.3% |  |
-| 49.5–50.5% | 0.1% | 0.1% |  |
-| 50.5–51.5% | 0% | 0% |  |
+| 25.5–26.5% | 0% | 100% |  |
+| 26.5–27.5% | 0.3% | 99.9% |  |
+| 27.5–28.5% | 1.1% | 99.7% |  |
+| 28.5–29.5% | 3% | 98.6% |  |
+| 29.5–30.5% | 6% | 95% |  |
+| 30.5–31.5% | 10% | 89% |  |
+| 31.5–32.5% | 11% | 79% |  |
+| 32.5–33.5% | 9% | 68% |  |
+| 33.5–34.5% | 6% | 60% |  |
+| 34.5–35.5% | 3% | 54% |  |
+| 35.5–36.5% | 1.0% | 51% |  |
+| 36.5–37.5% | 0.4% | 50% | Median |
+| 37.5–38.5% | 0.5% | 50% |  |
+| 38.5–39.5% | 1.5% | 49% |  |
+| 39.5–40.5% | 3% | 48% | Last Result |
+| 40.5–41.5% | 6% | 45% |  |
+| 41.5–42.5% | 9% | 38% |  |
+| 42.5–43.5% | 10% | 30% |  |
+| 43.5–44.5% | 9% | 20% |  |
+| 44.5–45.5% | 6% | 11% |  |
+| 45.5–46.5% | 3% | 5% |  |
+| 46.5–47.5% | 1.4% | 2% |  |
+| 47.5–48.5% | 0.5% | 0.6% |  |
+| 48.5–49.5% | 0.1% | 0.2% |  |
+| 49.5–50.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -51,8 +60,8 @@ Last result: **3** seats (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [21–28 January 2020](2020-01-28-MaltaToday.html) | MaltaToday |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| [21–28 January 2020](2020-01-28-MaltaToday.html) | MaltaToday | 2 | 2 | 2 | 2 | 1–2 |
 | [16–20 December 2019](2019-12-20-MaltaToday.html) | MaltaToday | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [2–6 December 2019](2019-12-06-MaltaToday.html) | MaltaToday | 2 | 2 | 2 | 2–3 | 2–3 |
 | [27–29 November 2019](2019-11-29-Sagalytics.html) | Sagalytics | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -68,8 +77,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 38% | 100% |  |
-| 3 | 62% | 62% | Last Result, Median |
+| 1 | 0.6% | 100% |  |
+| 2 | 69% | 99.4% | Median |
+| 3 | 31% | 31% | Last Result |
 | 4 | 0% | 0% | Majority |
 
 
