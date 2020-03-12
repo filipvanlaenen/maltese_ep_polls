@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/maltese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 08 Feb 2020 11:43:45 +0100</pubDate>
+    <pubDate>Wed, 11 Mar 2020 21:15:33 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Sagalytics, 24–28 February 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2020-02-28-Sagalytics.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Partit Demokratiku (RE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2020-02-28-Sagalytics-seats.png"
+        length="96559"
+        type="image/png"/>
+      <pubDate>Wed, 11 Mar 2020 21:15:33 +0100</pubDate>
+      <dc:date>2020-03-11T21:15:33.134583+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sagalytics, 24–28 February 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2020-02-28-Sagalytics.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2020-02-28-Sagalytics-coalitions-seats.png"
+        length="84177"
+        type="image/png"/>
+      <pubDate>Wed, 11 Mar 2020 21:15:33 +0100</pubDate>
+      <dc:date>2020-03-11T21:15:33.134583+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sagalytics, 24–28 February 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2020-02-28-Sagalytics.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 50.8–58.8%&lt;/li&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 38.0–45.8%&lt;/li&gt;&lt;li&gt;Partit Demokratiku (RE): 1.9–4.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2020-02-28-Sagalytics.png"
+        length="130757"
+        type="image/png"/>
+      <pubDate>Wed, 11 Mar 2020 21:15:33 +0100</pubDate>
+      <dc:date>2020-03-11T21:15:33.134583+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by MaltaToday, 21–28 January 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/maltese_ep_polls/2020-01-28-MaltaToday.html#seats</link>
@@ -199,6 +229,6 @@
       <pubDate>Mon, 30 Sep 2019 21:52:31 +0200</pubDate>
       <dc:date>2019-09-30T21:52:31.521241+02:00</dc:date>
     </item>
-    <dc:date>2020-02-08T11:43:45.671745+01:00</dc:date>
+    <dc:date>2020-03-11T21:15:33.134583+01:00</dc:date>
   </channel>
 </rss>
