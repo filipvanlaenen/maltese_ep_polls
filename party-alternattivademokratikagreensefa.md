@@ -10,3 +10,59 @@ Last result: **2.9%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| N/A | [Poll Average](average.html) | 2.2% | 1.6–3.1% | 1.4–3.3% | 1.3–3.6% | 1.1–4.1% |
+| [3–10 March 2020](2020-03-10-MaltaToday.html) | MaltaToday | 2.1% | 1.6–3.1% | 1.4–3.3% | 1.3–3.6% | 1.1–4.1% |
+| [24–28 February 2020](2020-02-28-Sagalytics.html) | Sagalytics | 0.0% | N/A | N/A | N/A | N/A |
+| [21–28 January 2020](2020-01-28-MaltaToday.html) | MaltaToday | 0.5% | 0.3–1.0% | 0.2–1.2% | 0.2–1.3% | 0.1–1.7% |
+| [16–20 December 2019](2019-12-20-MaltaToday.html) | MaltaToday | 1.4% | 0.9–2.4% | 0.8–2.6% | 0.7–2.9% | 0.5–3.4% |
+| [2–6 December 2019](2019-12-06-MaltaToday.html) | MaltaToday | 1.4% | 0.9–2.4% | 0.8–2.6% | 0.7–2.9% | 0.5–3.4% |
+| [27–29 November 2019](2019-11-29-Sagalytics.html) | Sagalytics | 0.0% | N/A | N/A | N/A | N/A |
+| [24–31 October 2019](2019-10-31-MaltaToday.html) | MaltaToday | 0.0% | N/A | N/A | N/A | N/A |
+| [26 September–3 October 2019](2019-10-03-MaltaToday.html) | MaltaToday | 0.0% | N/A | N/A | N/A | N/A |
+| [16–20 September 2019](2019-09-20-Sagalytics.html) | Sagalytics | 1.1% | 0.7–1.8% | 0.6–2.0% | 0.5–2.2% | 0.4–2.6% |
+
+### Probability Mass Function
+
+The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Alternattiva Demokratika (Greens/EFA).
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 0.0–0.5% | 0% | 100% |  |
+| 0.5–1.5% | 9% | 100% |  |
+| 1.5–2.5% | 60% | 91% | Median |
+| 2.5–3.5% | 28% | 31% | Last Result |
+| 3.5–4.5% | 3% | 3% |  |
+| 4.5–5.5% | 0.1% | 0.1% |  |
+| 5.5–6.5% | 0% | 0% |  |
+
+
+## Seats
+
+Last result: **0** seats (General Election of 25 May 2019)
+
+### Confidence Intervals
+
+| Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [3–10 March 2020](2020-03-10-MaltaToday.html) | MaltaToday | 0 | 0 | 0 | 0 | 0 |
+| [24–28 February 2020](2020-02-28-Sagalytics.html) | Sagalytics |  |  |  |  |  |
+| [21–28 January 2020](2020-01-28-MaltaToday.html) | MaltaToday | 0 | 0 | 0 | 0 | 0 |
+| [16–20 December 2019](2019-12-20-MaltaToday.html) | MaltaToday | 0 | 0 | 0 | 0 | 0 |
+| [2–6 December 2019](2019-12-06-MaltaToday.html) | MaltaToday | 0 | 0 | 0 | 0 | 0 |
+| [27–29 November 2019](2019-11-29-Sagalytics.html) | Sagalytics |  |  |  |  |  |
+| [24–31 October 2019](2019-10-31-MaltaToday.html) | MaltaToday |  |  |  |  |  |
+| [26 September–3 October 2019](2019-10-03-MaltaToday.html) | MaltaToday |  |  |  |  |  |
+| [16–20 September 2019](2019-09-20-Sagalytics.html) | Sagalytics | 0 | 0 | 0 | 0 | 0 |
+
+### Probability Mass Function
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-alternattivademokratikagreensefa.png "Seats Probability Mass Function")
+
+The following table shows the probability mass function per seat for the [poll average](average.html) for Alternattiva Demokratika (Greens/EFA).
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
+
