@@ -157,3 +157,123 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#partit-demokratiku-(re)">Partit Demokratiku (RE)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#moviment-patrijotti-maltin-(id)">Moviment Patrijotti Maltin (ID)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 
+### Partit Laburista (S&D)
+
+*For a full overview of the results for this party, see the [Partit Laburista (S&D)](party-partitlaburistasd.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-partitlaburistasd.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 3 | 29% | 100% | Last Result |
+| 4 | 55% | 71% | Median, Majority |
+| 5 | 16% | 16% |  |
+| 6 | 0% | 0% |  |
+
+### Partit Nazzjonalista (EPP)
+
+*For a full overview of the results for this party, see the [Partit Nazzjonalista (EPP)](party-partitnazzjonalistaepp.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-partitnazzjonalistaepp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 1 | 16% | 100% |  |
+| 2 | 55% | 84% | Median |
+| 3 | 29% | 29% | Last Result |
+| 4 | 0% | 0% | Majority |
+
+### Alternattiva Demokratika (Greens/EFA)
+
+*For a full overview of the results for this party, see the [Alternattiva Demokratika (Greens/EFA)](party-alternattivademokratikagreensefa.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-alternattivademokratikagreensefa.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
+### Partit Demokratiku (RE)
+
+*For a full overview of the results for this party, see the [Partit Demokratiku (RE)](party-partitdemokratikure.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-partitdemokratikure.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
+### Moviment Patrijotti Maltin (ID)
+
+*For a full overview of the results for this party, see the [Moviment Patrijotti Maltin (ID)](party-movimentpatrijottimaltinid.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-movimentpatrijottimaltinid.png "Seats Probability Mass Function")
+
+
+## Coalitions
+
+![Graph with coalitions seats not yet produced](average-coalitions-seats.png "Coalitions Seats")
+
+### Confidence Intervals
+
+| Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| Partit Laburista (S&D) | 3 | 4 | 71% | 3–5 | 3–5 | 3–5 | 3–5 |
+| Partit Nazzjonalista (EPP) | 3 | 2 | 0% | 1–3 | 1–3 | 1–3 | 1–3 |
+| Alternattiva Demokratika (Greens/EFA) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
+| Moviment Patrijotti Maltin (ID) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
+| Partit Demokratiku (RE) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
+
+### Partit Laburista (S&D)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-pl.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 3 | 29% | 100% | Last Result |
+| 4 | 55% | 71% | Median, Majority |
+| 5 | 16% | 16% |  |
+| 6 | 0% | 0% |  |
+
+### Partit Nazzjonalista (EPP)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-pn.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 1 | 16% | 100% |  |
+| 2 | 55% | 84% | Median |
+| 3 | 29% | 29% | Last Result |
+| 4 | 0% | 0% | Majority |
+
+### Alternattiva Demokratika (Greens/EFA)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ad.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
+### Moviment Patrijotti Maltin (ID)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-mpm.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
+### Partit Demokratiku (RE)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-pd.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
+
+## Technical Information
+
++ **Number of polls included in this average:** 2
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 2,097,152
++ **Error estimate:** 0.17%
