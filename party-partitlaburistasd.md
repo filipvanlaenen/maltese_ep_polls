@@ -10,7 +10,8 @@ Last result: **53.4%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 61.7% | 53.1–69.6% | 52.2–70.4% | 51.5–71.0% | 50.1–72.2% |
+| N/A | [Poll Average](average.html) | 60.7% | 53.1–67.8% | 52.2–68.6% | 51.5–69.2% | 50.1–70.4% |
+| [6–9 April 2020](2020-04-09-MaltaToday.html) | MaltaToday | 66.3% | 63.8–68.6% | 63.1–69.2% | 62.5–69.8% | 61.4–70.9% |
 | [3–10 March 2020](2020-03-10-MaltaToday.html) | MaltaToday | 68.1% | 65.7–70.4% | 65.1–71.1% | 64.5–71.6% | 63.3–72.7% |
 | [24–28 February 2020](2020-02-28-Sagalytics.html) | Sagalytics | 54.8% | 52.2–57.4% | 51.5–58.1% | 50.8–58.8% | 49.6–60.0% |
 | [21–28 January 2020](2020-01-28-MaltaToday.html) | MaltaToday | 66.0% | 63.5–68.3% | 62.8–68.9% | 62.2–69.5% | 61.1–70.6% |
@@ -40,21 +41,19 @@ The following table shows the probability mass function per percentage block of 
 | 57.5–58.5% | 3% | 54% |  |
 | 58.5–59.5% | 1.2% | 52% |  |
 | 59.5–60.5% | 0.4% | 50% |  |
-| 60.5–61.5% | 0.1% | 50% |  |
-| 61.5–62.5% | 0.1% | 50% | Median |
-| 62.5–63.5% | 0.3% | 50% |  |
-| 63.5–64.5% | 1.0% | 50% |  |
-| 64.5–65.5% | 3% | 49% |  |
-| 65.5–66.5% | 6% | 46% |  |
-| 66.5–67.5% | 9% | 40% |  |
-| 67.5–68.5% | 11% | 31% |  |
-| 68.5–69.5% | 9% | 20% |  |
-| 69.5–70.5% | 6% | 11% |  |
-| 70.5–71.5% | 3% | 4% |  |
-| 71.5–72.5% | 1.0% | 1.3% |  |
-| 72.5–73.5% | 0.3% | 0.3% |  |
-| 73.5–74.5% | 0% | 0% |  |
-| 74.5–75.5% | 0% | 0% |  |
+| 60.5–61.5% | 0.3% | 50% | Median |
+| 61.5–62.5% | 1.0% | 50% |  |
+| 62.5–63.5% | 3% | 49% |  |
+| 63.5–64.5% | 5% | 46% |  |
+| 64.5–65.5% | 9% | 41% |  |
+| 65.5–66.5% | 11% | 32% |  |
+| 66.5–67.5% | 10% | 22% |  |
+| 67.5–68.5% | 7% | 12% |  |
+| 68.5–69.5% | 3% | 5% |  |
+| 69.5–70.5% | 1.3% | 2% |  |
+| 70.5–71.5% | 0.3% | 0.4% |  |
+| 71.5–72.5% | 0.1% | 0.1% |  |
+| 72.5–73.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -65,7 +64,8 @@ Last result: **3** seats (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [6–9 April 2020](2020-04-09-MaltaToday.html) | MaltaToday | 4 | 4 | 4 | 4 | 4–5 |
 | [3–10 March 2020](2020-03-10-MaltaToday.html) | MaltaToday | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [24–28 February 2020](2020-02-28-Sagalytics.html) | Sagalytics | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [21–28 January 2020](2020-01-28-MaltaToday.html) | MaltaToday | 4 | 4 | 4 | 4 | 4–5 |
@@ -85,8 +85,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 29% | 100% | Last Result |
-| 4 | 55% | 71% | Median, Majority |
-| 5 | 16% | 16% |  |
+| 4 | 70% | 71% | Median, Majority |
+| 5 | 1.1% | 1.1% |  |
 | 6 | 0% | 0% |  |
 
 
