@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | PL | PN | AD | PD | MPM |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2019 | General Election | 53.4% <br> 3 | 40.0% <br> 3 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [13–17 July 2020](2020-07-17-MaltaToday.html) | MaltaToday | 65–73% <br> 4–5 | 26–34% <br> 1–2 | 0–2% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | [12–18 June 2020](2020-06-18-MaltaToday.html) | MaltaToday | 63–70% <br> 4 | 28–35% <br> 2 | 1–3% <br> 0 | 0–2% <br> 0 | N/A <br> N/A |
 | [11–15 May 2020](2020-05-15-MaltaToday.html) | MaltaToday | 65–72% <br> 4–5 | 26–33% <br> 1–2 | 1–2% <br> 0 | 0–1% <br> 0 | N/A <br> N/A |
 | [6–9 April 2020](2020-04-09-MaltaToday.html) | MaltaToday | 63–70% <br> 4 | 28–35% <br> 2 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A |
