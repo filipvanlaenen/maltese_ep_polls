@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.7% | 0.4–1.2% | 0.3–1.4% | 0.3–1.5% | 0.2–1.9% |
+| [14–18 September 2020](2020-09-18-Sagalytics.html) | Sagalytics | 0.0% | N/A | N/A | N/A | N/A |
 | [31 August–4 September 2020](2020-09-04-MaltaToday.html) | MaltaToday | 0.6% | 0.4–1.2% | 0.3–1.4% | 0.2–1.6% | 0.2–1.9% |
 | [3–7 August 2020](2020-08-07-Sagalytics.html) | Sagalytics | 0.0% | N/A | N/A | N/A | N/A |
 | [13–17 July 2020](2020-07-17-MaltaToday.html) | MaltaToday | 0.0% | N/A | N/A | N/A | N/A |
@@ -48,6 +49,7 @@ Last result: **0** seats (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [14–18 September 2020](2020-09-18-Sagalytics.html) | Sagalytics |  |  |  |  |  |
 | [31 August–4 September 2020](2020-09-04-MaltaToday.html) | MaltaToday | 0 | 0 | 0 | 0 | 0 |
 | [3–7 August 2020](2020-08-07-Sagalytics.html) | Sagalytics |  |  |  |  |  |
 | [13–17 July 2020](2020-07-17-MaltaToday.html) | MaltaToday |  |  |  |  |  |
