@@ -38,8 +38,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 38% | 100% | Last Result |
-| 4 | 62% | 62% | Median, Majority |
+| 3 | 37% | 100% | Last Result |
+| 4 | 63% | 63% | Median, Majority |
 | 5 | 0% | 0% |  |
 
 ### Partit Nazzjonalista (EPP)
@@ -50,8 +50,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 62% | 100% | Median |
-| 3 | 38% | 38% | Last Result |
+| 2 | 63% | 100% | Median |
+| 3 | 37% | 37% | Last Result |
 | 4 | 0% | 0% | Majority |
 
 ### Alternattiva Demokratika (Greens/EFA)
@@ -73,7 +73,7 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partit Laburista (S&D) | 3 | 4 | 62% | 3–4 | 3–4 | 3–4 | 3–4 |
+| Partit Laburista (S&D) | 3 | 4 | 63% | 3–4 | 3–4 | 3–4 | 3–4 |
 | Partit Nazzjonalista (EPP) | 3 | 2 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
 | Alternattiva Demokratika (Greens/EFA) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
@@ -83,8 +83,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 38% | 100% | Last Result |
-| 4 | 62% | 62% | Median, Majority |
+| 3 | 37% | 100% | Last Result |
+| 4 | 63% | 63% | Median, Majority |
 | 5 | 0% | 0% |  |
 
 ### Partit Nazzjonalista (EPP)
@@ -93,8 +93,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 62% | 100% | Median |
-| 3 | 38% | 38% | Last Result |
+| 2 | 63% | 100% | Median |
+| 3 | 37% | 37% | Last Result |
 | 4 | 0% | 0% | Majority |
 
 ### Alternattiva Demokratika (Greens/EFA)
@@ -117,6 +117,6 @@
 ### Calculations
 
 + **Sample size:** 655
-+ **Simulations done:** 131,072
-+ **Error estimate:** 0.20%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 1.22%
 
