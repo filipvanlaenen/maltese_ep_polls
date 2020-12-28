@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/maltese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 24 Nov 2020 19:57:55 +0100</pubDate>
+    <pubDate>Sun, 27 Dec 2020 18:41:28 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by MaltaToday, 30 November–4 December 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2020-12-04-MaltaToday.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Alternattiva Demokratika (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2020-12-04-MaltaToday-seats.png"
+        length="136830"
+        type="image/png"/>
+      <pubDate>Sun, 27 Dec 2020 18:41:28 +0100</pubDate>
+      <dc:date>2020-12-27T18:41:28.941696+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MaltaToday, 30 November–4 December 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2020-12-04-MaltaToday.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2020-12-04-MaltaToday-coalitions-seats.png"
+        length="115962"
+        type="image/png"/>
+      <pubDate>Sun, 27 Dec 2020 18:41:28 +0100</pubDate>
+      <dc:date>2020-12-27T18:41:28.941696+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MaltaToday, 30 November–4 December 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2020-12-04-MaltaToday.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 54.5–62.1%&lt;/li&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 37.4–45.0%&lt;/li&gt;&lt;li&gt;Alternattiva Demokratika (Greens/EFA): 0.2–1.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2020-12-04-MaltaToday.png"
+        length="156010"
+        type="image/png"/>
+      <pubDate>Sun, 27 Dec 2020 18:41:28 +0100</pubDate>
+      <dc:date>2020-12-27T18:41:28.941696+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by MaltaToday, 2–6 November 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/maltese_ep_polls/2020-11-06-MaltaToday.html#seats</link>
@@ -559,6 +589,6 @@
       <pubDate>Mon, 30 Sep 2019 21:52:31 +0200</pubDate>
       <dc:date>2019-09-30T21:52:31.521241+02:00</dc:date>
     </item>
-    <dc:date>2020-11-24T19:57:55.440962+01:00</dc:date>
+    <dc:date>2020-12-27T18:41:28.941696+01:00</dc:date>
   </channel>
 </rss>
