@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | PL | PN | AD | PD | MPM |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2019 | General Election | 53.4% <br> 3 | 40.0% <br> 3 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 52–61% <br> 3–4 | 38–46% <br> 2–3 | 0–3% <br> 0 | N/A <br> N/A | N/A <br> N/A |
-| [2–6 November 2020](2020-11-06-MaltaToday.html) | MaltaToday | 53–61% <br> 3–4 | 38–46% <br> 2–3 | 0–2% <br> 0 | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 53–62% <br> 3–4 | 38–46% <br> 2–3 | 0–3% <br> 0 | N/A <br> N/A | N/A <br> N/A |
+| [30 November–4 December 2020](2020-12-04-MaltaToday.html) | MaltaToday | 54–62% <br> 3–4 | 37–45% <br> 2–3 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | [8–15 October 2020](2020-10-15-Sagalytics.html) | Sagalytics | 52–60% <br> 3–4 | 38–46% <br> 2–3 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | 25 May 2019 | General Election | 53.4% <br> 3 | 40.0% <br> 3 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
