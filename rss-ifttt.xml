@@ -6,6 +6,14 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 28 Jan 2021 21:33:51 +0100</pubDate>
     <item>
+      <title>Opinion Poll by MaltaToday, 1–5 February 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2021-02-05-MaltaToday.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by MaltaToday, 1–5 February 2021<br/>Details on https://filipvanlaenen.github.io/maltese_ep_polls/2021-02-05-MaltaToday.html<br/><img src="https://filipvanlaenen.github.io/maltese_ep_polls/2021-02-05-MaltaToday.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2021-02-05-MaltaToday.png" length="148706" type="image/png"/>
+      <pubDate>Wed, 24 Feb 2021 16:47:14 +0100</pubDate>
+      <dc:date>2021-02-24T16:47:14.533986+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by MaltaToday, 30 November–4 December 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/maltese_ep_polls/2020-12-04-MaltaToday.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>4 seats needed for a majority<br/>Opinion poll by MaltaToday, 30 November–4 December 2020<br/>Details on https://filipvanlaenen.github.io/maltese_ep_polls/2020-12-04-MaltaToday.html<br/><img src="https://filipvanlaenen.github.io/maltese_ep_polls/2020-12-04-MaltaToday-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2020-06-18-MaltaToday.png" length="168855" type="image/png"/>
       <pubDate>Mon, 6 Jul 2020 18:53:02 +0200</pubDate>
       <dc:date>2020-07-06T18:53:02.37564+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by MaltaToday, 11–15 May 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2020-05-15-MaltaToday.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>4 seats needed for a majority<br/>Opinion poll by MaltaToday, 11–15 May 2020<br/>Details on https://filipvanlaenen.github.io/maltese_ep_polls/2020-05-15-MaltaToday.html<br/><img src="https://filipvanlaenen.github.io/maltese_ep_polls/2020-05-15-MaltaToday-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2020-05-15-MaltaToday-seating-plan.png" length="289718" type="image/png"/>
-      <pubDate>Sun, 5 Jul 2020 14:21:09 +0200</pubDate>
-      <dc:date>2020-07-05T14:21:09.890513+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by MaltaToday, 11–15 May 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2020-05-15-MaltaToday.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>4 seats needed for a majority<br/>Opinion poll by MaltaToday, 11–15 May 2020<br/>Details on https://filipvanlaenen.github.io/maltese_ep_polls/2020-05-15-MaltaToday.html<br/><img src="https://filipvanlaenen.github.io/maltese_ep_polls/2020-05-15-MaltaToday-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2020-05-15-MaltaToday-seats.png" length="138445" type="image/png"/>
-      <pubDate>Sun, 5 Jul 2020 14:21:09 +0200</pubDate>
-      <dc:date>2020-07-05T14:21:09.890513+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by MaltaToday, 11–15 May 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2020-05-15-MaltaToday.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by MaltaToday, 11–15 May 2020<br/>Details on https://filipvanlaenen.github.io/maltese_ep_polls/2020-05-15-MaltaToday.html<br/><img src="https://filipvanlaenen.github.io/maltese_ep_polls/2020-05-15-MaltaToday.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2020-05-15-MaltaToday.png" length="166390" type="image/png"/>
-      <pubDate>Sun, 5 Jul 2020 14:21:09 +0200</pubDate>
-      <dc:date>2020-07-05T14:21:09.890513+02:00</dc:date>
     </item>
   </channel>
 </rss>
