@@ -10,7 +10,8 @@ Last result: **2.9%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.2% | 0.4–2.6% | 0.3–2.9% | 0.2–3.2% | 0.1–3.8% |
+| N/A | [Poll Average](average.html) | 0.9% | 0.5–1.4% | 0.4–1.6% | 0.3–1.8% | 0.2–2.2% |
+| [1–5 February 2021](2021-02-05-MaltaToday.html) | MaltaToday | 0.8% | 0.5–1.4% | 0.4–1.6% | 0.3–1.8% | 0.2–2.2% |
 | [30 November–4 December 2020](2020-12-04-MaltaToday.html) | MaltaToday | 0.5% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% | 0.1–1.7% |
 | [2–6 November 2020](2020-11-06-MaltaToday.html) | MaltaToday | 0.9% | 0.6–1.6% | 0.5–1.8% | 0.4–2.0% | 0.3–2.4% |
 | [8–15 October 2020](2020-10-15-Sagalytics.html) | Sagalytics | 2.0% | 1.4–3.0% | 1.3–3.2% | 1.1–3.5% | 0.9–4.0% |
@@ -38,12 +39,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 23% | 100% |  |
-| 0.5–1.5% | 33% | 77% | Median |
-| 1.5–2.5% | 31% | 43% |  |
-| 2.5–3.5% | 11% | 12% | Last Result |
-| 3.5–4.5% | 0.9% | 1.0% |  |
-| 4.5–5.5% | 0% | 0% |  |
+| 0.0–0.5% | 15% | 100% |  |
+| 0.5–1.5% | 79% | 85% | Median |
+| 1.5–2.5% | 6% | 6% |  |
+| 2.5–3.5% | 0.1% | 0.1% | Last Result |
+| 3.5–4.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -55,6 +55,7 @@ Last result: **0** seats (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [1–5 February 2021](2021-02-05-MaltaToday.html) | MaltaToday | 0 | 0 | 0 | 0 | 0 |
 | [30 November–4 December 2020](2020-12-04-MaltaToday.html) | MaltaToday | 0 | 0 | 0 | 0 | 0 |
 | [2–6 November 2020](2020-11-06-MaltaToday.html) | MaltaToday | 0 | 0 | 0 | 0 | 0 |
 | [8–15 October 2020](2020-10-15-Sagalytics.html) | Sagalytics | 0 | 0 | 0 | 0 | 0 |
