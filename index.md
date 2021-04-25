@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | PL | PN | AD | PD | MPM |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2019 | General Election | 53.4% <br> 3 | 40.0% <br> 3 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 51–59% <br> 3–4 | 40–48% <br> 2–3 | 0–2% <br> 0 | N/A <br> N/A | N/A <br> N/A |
-| [1–5 February 2021](2021-02-05-MaltaToday.html) | MaltaToday | 51–59% <br> 3–4 | 40–48% <br> 2–3 | 0–2% <br> 0 | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 50–57% <br> 3–4 | 42–50% <br> 2–3 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A |
+| [5–9 April 2021](2021-04-09-MaltaToday.html) | MaltaToday | 50–57% <br> 3–4 | 42–50% <br> 2–3 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | 25 May 2019 | General Election | 53.4% <br> 3 | 40.0% <br> 3 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
