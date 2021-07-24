@@ -8,7 +8,67 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/maltese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 22 May 2021 23:55:13 +0200</pubDate>
+    <pubDate>Fri, 23 Jul 2021 13:30:08 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by MaltaToday, 28 June–6 July 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2021-07-06-MaltaToday.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Alternattiva Demokratika (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2021-07-06-MaltaToday-seats.png"
+        length="132913"
+        type="image/png"/>
+      <pubDate>Fri, 23 Jul 2021 13:30:08 +0200</pubDate>
+      <dc:date>2021-07-23T13:30:08.490002+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MaltaToday, 28 June–6 July 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2021-07-06-MaltaToday.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2021-07-06-MaltaToday-coalitions-seats.png"
+        length="112138"
+        type="image/png"/>
+      <pubDate>Fri, 23 Jul 2021 13:30:08 +0200</pubDate>
+      <dc:date>2021-07-23T13:30:08.490002+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MaltaToday, 28 June–6 July 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2021-07-06-MaltaToday.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 53.5–61.0%&lt;/li&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 37.6–45.1%&lt;/li&gt;&lt;li&gt;Alternattiva Demokratika (Greens/EFA): 0.7–2.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2021-07-06-MaltaToday.png"
+        length="153939"
+        type="image/png"/>
+      <pubDate>Fri, 23 Jul 2021 13:30:08 +0200</pubDate>
+      <dc:date>2021-07-23T13:30:08.490002+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MaltaToday, 31 May–4 June 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2021-06-04-MaltaToday.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Alternattiva Demokratika (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2021-06-04-MaltaToday-seats.png"
+        length="132781"
+        type="image/png"/>
+      <pubDate>Fri, 23 Jul 2021 13:24:41 +0200</pubDate>
+      <dc:date>2021-07-23T13:24:41.952764+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MaltaToday, 31 May–4 June 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2021-06-04-MaltaToday.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2021-06-04-MaltaToday-coalitions-seats.png"
+        length="112204"
+        type="image/png"/>
+      <pubDate>Fri, 23 Jul 2021 13:24:41 +0200</pubDate>
+      <dc:date>2021-07-23T13:24:41.952764+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MaltaToday, 31 May–4 June 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2021-06-04-MaltaToday.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 56.3–63.8%&lt;/li&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 34.9–42.4%&lt;/li&gt;&lt;li&gt;Alternattiva Demokratika (Greens/EFA): 0.5–2.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2021-06-04-MaltaToday.png"
+        length="151911"
+        type="image/png"/>
+      <pubDate>Fri, 23 Jul 2021 13:24:41 +0200</pubDate>
+      <dc:date>2021-07-23T13:24:41.952764+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by MaltaToday, 3–7 May 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/maltese_ep_polls/2021-05-07-MaltaToday.html#seats</link>
@@ -709,6 +769,6 @@
       <pubDate>Mon, 30 Sep 2019 21:52:31 +0200</pubDate>
       <dc:date>2019-09-30T21:52:31.521241+02:00</dc:date>
     </item>
-    <dc:date>2021-05-22T23:55:13.664451+02:00</dc:date>
+    <dc:date>2021-07-23T13:30:08.490002+02:00</dc:date>
   </channel>
 </rss>
