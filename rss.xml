@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/maltese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 23 Jul 2021 13:30:08 +0200</pubDate>
+    <pubDate>Sun, 26 Sep 2021 16:25:41 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by MaltaToday, 25 August–2 September 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2021-09-02-MaltaToday.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 53.8–61.3%&lt;/li&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 37.1–44.7%&lt;/li&gt;&lt;li&gt;Alternattiva Demokratika (Greens/EFA): 0.8–2.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2021-09-02-MaltaToday.png"
+        length="155591"
+        type="image/png"/>
+      <pubDate>Sun, 26 Sep 2021 16:25:41 +0200</pubDate>
+      <dc:date>2021-09-26T16:25:41.899078+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by MaltaToday, 28 June–6 July 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/maltese_ep_polls/2021-07-06-MaltaToday.html#seats</link>
@@ -769,6 +779,6 @@
       <pubDate>Mon, 30 Sep 2019 21:52:31 +0200</pubDate>
       <dc:date>2019-09-30T21:52:31.521241+02:00</dc:date>
     </item>
-    <dc:date>2021-07-23T13:30:08.490002+02:00</dc:date>
+    <dc:date>2021-09-26T16:25:41.899078+02:00</dc:date>
   </channel>
 </rss>
