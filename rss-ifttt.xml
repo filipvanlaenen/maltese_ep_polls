@@ -6,6 +6,14 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 28 Jan 2021 21:33:51 +0100</pubDate>
     <item>
+      <title>Opinion Poll by MaltaToday, 27 September–6 October 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2021-10-06-MaltaToday.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by MaltaToday, 27 September–6 October 2021<br/>Details on https://filipvanlaenen.github.io/maltese_ep_polls/2021-10-06-MaltaToday.html<br/><img src="https://filipvanlaenen.github.io/maltese_ep_polls/2021-10-06-MaltaToday.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2021-10-06-MaltaToday.png" length="153815" type="image/png"/>
+      <pubDate>Fri, 12 Nov 2021 17:56:23 +0100</pubDate>
+      <dc:date>2021-11-12T17:56:23.936744+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by MaltaToday, 25 August–2 September 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/maltese_ep_polls/2021-09-02-MaltaToday.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>4 seats needed for a majority<br/>Opinion poll by MaltaToday, 25 August–2 September 2021<br/>Details on https://filipvanlaenen.github.io/maltese_ep_polls/2021-09-02-MaltaToday.html<br/><img src="https://filipvanlaenen.github.io/maltese_ep_polls/2021-09-02-MaltaToday-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2020-11-06-MaltaToday.png" length="153295" type="image/png"/>
       <pubDate>Tue, 24 Nov 2020 19:57:55 +0100</pubDate>
       <dc:date>2020-11-24T19:57:55.440962+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sagalytics, 8–15 October 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2020-10-15-Sagalytics.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>4 seats needed for a majority<br/>Opinion poll by Sagalytics, 8–15 October 2020<br/>Details on https://filipvanlaenen.github.io/maltese_ep_polls/2020-10-15-Sagalytics.html<br/><img src="https://filipvanlaenen.github.io/maltese_ep_polls/2020-10-15-Sagalytics-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2020-10-15-Sagalytics-seating-plan.png" length="295221" type="image/png"/>
-      <pubDate>Mon, 26 Oct 2020 16:52:27 +0100</pubDate>
-      <dc:date>2020-10-26T16:52:27.641927+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sagalytics, 8–15 October 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2020-10-15-Sagalytics.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>4 seats needed for a majority<br/>Opinion poll by Sagalytics, 8–15 October 2020<br/>Details on https://filipvanlaenen.github.io/maltese_ep_polls/2020-10-15-Sagalytics.html<br/><img src="https://filipvanlaenen.github.io/maltese_ep_polls/2020-10-15-Sagalytics-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2020-10-15-Sagalytics-seats.png" length="132263" type="image/png"/>
-      <pubDate>Mon, 26 Oct 2020 16:52:27 +0100</pubDate>
-      <dc:date>2020-10-26T16:52:27.641927+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sagalytics, 8–15 October 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2020-10-15-Sagalytics.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Sagalytics, 8–15 October 2020<br/>Details on https://filipvanlaenen.github.io/maltese_ep_polls/2020-10-15-Sagalytics.html<br/><img src="https://filipvanlaenen.github.io/maltese_ep_polls/2020-10-15-Sagalytics.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2020-10-15-Sagalytics.png" length="156229" type="image/png"/>
-      <pubDate>Mon, 26 Oct 2020 16:52:27 +0100</pubDate>
-      <dc:date>2020-10-26T16:52:27.641927+01:00</dc:date>
     </item>
   </channel>
 </rss>
