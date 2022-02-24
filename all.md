@@ -6,7 +6,7 @@ The table below lists all polls registered and analyzed so far.
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2019 | General Election | 53.4% <br> 3 | 40.0% <br> 3 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | [31 January–4 February 2022](2022-02-04-MaltaToday.html) | MaltaToday | 53–60% <br> 3–4 | 38–45% <br> 2–3 | 1–4% <br> 0 | N/A <br> N/A | N/A <br> N/A |
-| [5–12 January 2022](2022-01-12-MaltaToday.html) | MaltaToday | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [5–12 January 2022](2022-01-12-MaltaToday.html) | MaltaToday | 56–63% <br> 3–4 | 36–43% <br> 2–3 | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | [26 November–2 December 2021](2021-12-02-MaltaToday.html) | MaltaToday | 55–63% <br> 3–4 | 37–45% <br> 2–3 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | [28 October–3 November 2021](2021-11-03-MaltaToday.html) | MaltaToday | 55–62% <br> 3–4 | 37–44% <br> 2–3 | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | [27 September–6 October 2021](2021-10-06-MaltaToday.html) | MaltaToday | 56–64% <br> 4 | 34–42% <br> 2 | 1–4% <br> 0 | N/A <br> N/A | N/A <br> N/A |
