@@ -12,7 +12,7 @@ Last result: **2.9%** (General Election of 25 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.3% | 1.6–3.1% | 1.4–3.4% | 1.3–3.6% | 1.1–4.1% |
 | [31 January–4 February 2022](2022-02-04-MaltaToday.html) | MaltaToday | 2.2% | 1.6–3.1% | 1.4–3.4% | 1.3–3.6% | 1.1–4.1% |
-| [5–12 January 2022](2022-01-12-MaltaToday.html) | MaltaToday | 1.2% | N/A | N/A | N/A | N/A |
+| [5–12 January 2022](2022-01-12-MaltaToday.html) | MaltaToday | 1.2% | 0.8–2.0% | 0.7–2.2% | 0.6–2.4% | 0.5–2.9% |
 | [26 November–2 December 2021](2021-12-02-MaltaToday.html) | MaltaToday | 0.2% | 0.1–0.6% | 0.0–0.7% | 0.0–0.9% | 0.0–1.1% |
 | [28 October–3 November 2021](2021-11-03-MaltaToday.html) | MaltaToday | 1.1% | 0.7–1.7% | 0.6–1.8% | 0.6–2.0% | 0.4–2.3% |
 | [27 September–6 October 2021](2021-10-06-MaltaToday.html) | MaltaToday | 2.2% | 1.6–3.1% | 1.4–3.4% | 1.3–3.6% | 1.1–4.1% |
@@ -69,7 +69,7 @@ Last result: **0** seats (General Election of 25 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [31 January–4 February 2022](2022-02-04-MaltaToday.html) | MaltaToday | 0 | 0 | 0 | 0 | 0 |
-| [5–12 January 2022](2022-01-12-MaltaToday.html) | MaltaToday |  |  |  |  |  |
+| [5–12 January 2022](2022-01-12-MaltaToday.html) | MaltaToday | 0 | 0 | 0 | 0 | 0 |
 | [26 November–2 December 2021](2021-12-02-MaltaToday.html) | MaltaToday | 0 | 0 | 0 | 0 | 0 |
 | [28 October–3 November 2021](2021-11-03-MaltaToday.html) | MaltaToday | 0 | 0 | 0 | 0 | 0 |
 | [27 September–6 October 2021](2021-10-06-MaltaToday.html) | MaltaToday | 0 | 0 | 0 | 0 | 0 |
