@@ -10,7 +10,10 @@ Last result: **40.0%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 41.4% | 38.9–43.9% | 38.2–44.6% | 37.6–45.2% | 36.5–46.4% |
+| N/A | [Poll Average](average.html) | 42.3% | 40.3–44.3% | 39.8–44.9% | 39.3–45.4% | 38.3–46.4% |
+| [1–7 March 2022](2022-03-07-MaltaToday.html) | MaltaToday | 42.3% | 40.3–44.3% | 39.7–44.9% | 39.3–45.4% | 38.3–46.4% |
+| [21 February–4 March 2022](2022-03-04-MaltaToday.html) | MaltaToday | 44.1% | N/A | N/A | N/A | N/A |
+| [21–26 February 2022](2022-02-26-MaltaToday.html) | MaltaToday | 44.9% | 42.3–47.5% | 41.6–48.3% | 40.9–48.9% | 39.7–50.2% |
 | [31 January–4 February 2022](2022-02-04-MaltaToday.html) | MaltaToday | 41.4% | 38.9–43.9% | 38.2–44.6% | 37.6–45.2% | 36.5–46.4% |
 | [5–12 January 2022](2022-01-12-MaltaToday.html) | MaltaToday | 39.2% | N/A | N/A | N/A | N/A |
 | [26 November–2 December 2021](2021-12-02-MaltaToday.html) | MaltaToday | 41.0% | N/A | N/A | N/A | N/A |
@@ -50,22 +53,19 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 33.5–34.5% | 0% | 100% |  |
-| 34.5–35.5% | 0.1% | 100% |  |
-| 35.5–36.5% | 0.5% | 99.9% |  |
-| 36.5–37.5% | 2% | 99.4% |  |
-| 37.5–38.5% | 5% | 98% |  |
-| 38.5–39.5% | 10% | 93% |  |
-| 39.5–40.5% | 16% | 83% | Last Result |
-| 40.5–41.5% | 20% | 67% | Median |
-| 41.5–42.5% | 19% | 47% |  |
-| 42.5–43.5% | 14% | 27% |  |
-| 43.5–44.5% | 8% | 13% |  |
-| 44.5–45.5% | 4% | 5% |  |
-| 45.5–46.5% | 1.2% | 2% |  |
-| 46.5–47.5% | 0.3% | 0.4% |  |
-| 47.5–48.5% | 0.1% | 0.1% |  |
-| 48.5–49.5% | 0% | 0% |  |
+| 35.5–36.5% | 0% | 100% |  |
+| 36.5–37.5% | 0.1% | 100% |  |
+| 37.5–38.5% | 0.6% | 99.9% |  |
+| 38.5–39.5% | 3% | 99.3% |  |
+| 39.5–40.5% | 9% | 96% | Last Result |
+| 40.5–41.5% | 18% | 87% |  |
+| 41.5–42.5% | 25% | 69% | Median |
+| 42.5–43.5% | 22% | 44% |  |
+| 43.5–44.5% | 14% | 21% |  |
+| 44.5–45.5% | 6% | 8% |  |
+| 45.5–46.5% | 2% | 2% |  |
+| 46.5–47.5% | 0.3% | 0.3% |  |
+| 47.5–48.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -76,7 +76,10 @@ Last result: **3** seats (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [1–7 March 2022](2022-03-07-MaltaToday.html) | MaltaToday | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [21 February–4 March 2022](2022-03-04-MaltaToday.html) | MaltaToday |  |  |  |  |  |
+| [21–26 February 2022](2022-02-26-MaltaToday.html) | MaltaToday | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [31 January–4 February 2022](2022-02-04-MaltaToday.html) | MaltaToday | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [5–12 January 2022](2022-01-12-MaltaToday.html) | MaltaToday |  |  |  |  |  |
 | [26 November–2 December 2021](2021-12-02-MaltaToday.html) | MaltaToday |  |  |  |  |  |
@@ -118,8 +121,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 61% | 100% | Median |
-| 3 | 39% | 39% | Last Result |
+| 2 | 15% | 100% |  |
+| 3 | 85% | 85% | Last Result, Median |
 | 4 | 0% | 0% | Majority |
 
 
