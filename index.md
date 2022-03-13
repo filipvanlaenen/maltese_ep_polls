@@ -2,12 +2,12 @@
 
 The table below lists the most recent polls (less than 90 days old) registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | PL | PN | AD | PD | MPM |
-|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|
-| 25 May 2019 | General Election | 53.4% <br> 3 | 40.0% <br> 3 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 53–60% <br> 3–4 | 38–45% <br> 2–3 | 1–4% <br> 0 | N/A <br> N/A | N/A <br> N/A |
-| [31 January–4 February 2022](2022-02-04-MaltaToday.html) | MaltaToday | 53–60% <br> 3–4 | 38–45% <br> 2–3 | 1–4% <br> 0 | N/A <br> N/A | N/A <br> N/A |
-| 25 May 2019 | General Election | 53.4% <br> 3 | 40.0% <br> 3 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| Period     | Polling firm/Commissioner(s) | PL | PN | AD | PD | MPM | AD+PD |
+|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 25 May 2019 | General Election | 53.4% <br> 3 | 40.0% <br> 3 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| N/A | [Poll Average](average.html) | 53–60% <br> 3–4 | 38–45% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–4% <br> 0 |
+| [31 January–4 February 2022](2022-02-04-MaltaToday.html) | MaltaToday | 53–60% <br> 3–4 | 38–45% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–4% <br> 0 |
+| 25 May 2019 | General Election | 53.4% <br> 3 | 40.0% <br> 3 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
 
@@ -19,6 +19,7 @@ Only polls for which at least the sample size has been published are included in
 + **AD:** Alternattiva Demokratika (Greens/EFA)
 + **PD:** Partit Demokratiku (RE)
 + **MPM:** Moviment Patrijotti Maltin (ID)
++ **AD+PD:** Alternattiva Demokratika–Partit Demokratiku (Greens/EFA)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
