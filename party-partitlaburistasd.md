@@ -12,21 +12,21 @@ Last result: **53.4%** (General Election of 25 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 56.4% | 53.9–58.9% | 53.2–59.6% | 52.6–60.2% | 51.4–61.4% |
 | [31 January–4 February 2022](2022-02-04-MaltaToday.html) | MaltaToday | 56.5% | 53.9–58.9% | 53.2–59.6% | 52.6–60.2% | 51.4–61.4% |
-| [5–12 January 2022](2022-01-12-MaltaToday.html) | MaltaToday | 59.6% | 57.1–62.0% | 56.3–62.7% | 55.7–63.3% | 54.5–64.4% |
-| [26 November–2 December 2021](2021-12-02-MaltaToday.html) | MaltaToday | 58.9% | 56.4–61.3% | 55.7–62.0% | 55.1–62.6% | 53.9–63.8% |
-| [28 October–3 November 2021](2021-11-03-MaltaToday.html) | MaltaToday | 58.6% | 56.4–60.7% | 55.8–61.3% | 55.2–61.8% | 54.2–62.8% |
-| [27 September–6 October 2021](2021-10-06-MaltaToday.html) | MaltaToday | 60.0% | 57.5–62.4% | 56.8–63.1% | 56.1–63.7% | 54.9–64.8% |
+| [5–12 January 2022](2022-01-12-MaltaToday.html) | MaltaToday | 59.6% | N/A | N/A | N/A | N/A |
+| [26 November–2 December 2021](2021-12-02-MaltaToday.html) | MaltaToday | 58.9% | N/A | N/A | N/A | N/A |
+| [28 October–3 November 2021](2021-11-03-MaltaToday.html) | MaltaToday | 58.6% | N/A | N/A | N/A | N/A |
+| [27 September–6 October 2021](2021-10-06-MaltaToday.html) | MaltaToday | 60.0% | N/A | N/A | N/A | N/A |
 | [25 August–2 September 2021](2021-09-02-MaltaToday.html) | MaltaToday | 57.6% | N/A | N/A | N/A | N/A |
-| [28 June–6 July 2021](2021-07-06-MaltaToday.html) | MaltaToday | 57.3% | 54.8–59.7% | 54.1–60.4% | 53.5–61.0% | 52.2–62.2% |
-| [31 May–4 June 2021](2021-06-04-MaltaToday.html) | MaltaToday | 60.2% | 57.7–62.6% | 56.9–63.3% | 56.3–63.8% | 55.1–65.0% |
-| [3–7 May 2021](2021-05-07-MaltaToday.html) | MaltaToday | 59.5% | 57.0–61.9% | 56.3–62.6% | 55.6–63.2% | 54.4–64.3% |
-| [5–9 April 2021](2021-04-09-MaltaToday.html) | MaltaToday | 53.6% | 51.1–56.1% | 50.4–56.8% | 49.8–57.4% | 48.6–58.6% |
-| [1–5 March 2021](2021-03-05-MaltaToday.html) | MaltaToday | 53.3% | 50.8–55.8% | 50.1–56.5% | 49.5–57.1% | 48.3–58.3% |
-| [1–5 February 2021](2021-02-05-MaltaToday.html) | MaltaToday | 55.0% | 52.5–57.5% | 51.8–58.2% | 51.2–58.8% | 49.9–60.0% |
-| [30 November–4 December 2020](2020-12-04-MaltaToday.html) | MaltaToday | 58.3% | 55.8–60.8% | 55.1–61.5% | 54.5–62.1% | 53.3–63.3% |
-| [2–6 November 2020](2020-11-06-MaltaToday.html) | MaltaToday | 57.3% | 54.7–59.7% | 54.0–60.4% | 53.4–61.0% | 52.2–62.2% |
-| [8–15 October 2020](2020-10-15-Sagalytics.html) | Sagalytics | 56.0% | 53.4–58.6% | 52.6–59.3% | 52.0–59.9% | 50.7–61.1% |
-| [5–9 October 2020](2020-10-09-MaltaToday.html) | MaltaToday | 56.2% | 53.7–58.7% | 53.0–59.4% | 52.4–60.0% | 51.2–61.2% |
+| [28 June–6 July 2021](2021-07-06-MaltaToday.html) | MaltaToday | 57.3% | N/A | N/A | N/A | N/A |
+| [31 May–4 June 2021](2021-06-04-MaltaToday.html) | MaltaToday | 60.2% | N/A | N/A | N/A | N/A |
+| [3–7 May 2021](2021-05-07-MaltaToday.html) | MaltaToday | 59.5% | N/A | N/A | N/A | N/A |
+| [5–9 April 2021](2021-04-09-MaltaToday.html) | MaltaToday | 53.6% | N/A | N/A | N/A | N/A |
+| [1–5 March 2021](2021-03-05-MaltaToday.html) | MaltaToday | 53.3% | N/A | N/A | N/A | N/A |
+| [1–5 February 2021](2021-02-05-MaltaToday.html) | MaltaToday | 55.0% | N/A | N/A | N/A | N/A |
+| [30 November–4 December 2020](2020-12-04-MaltaToday.html) | MaltaToday | 58.3% | N/A | N/A | N/A | N/A |
+| [2–6 November 2020](2020-11-06-MaltaToday.html) | MaltaToday | 57.3% | N/A | N/A | N/A | N/A |
+| [8–15 October 2020](2020-10-15-Sagalytics.html) | Sagalytics | 56.0% | N/A | N/A | N/A | N/A |
+| [5–9 October 2020](2020-10-09-MaltaToday.html) | MaltaToday | 56.2% | N/A | N/A | N/A | N/A |
 | [14–18 September 2020](2020-09-18-Sagalytics.html) | Sagalytics | 59.0% | 56.4–61.5% | 55.6–62.2% | 55.0–62.9% | 53.8–64.1% |
 | [31 August–4 September 2020](2020-09-04-MaltaToday.html) | MaltaToday | 65.3% | 62.9–67.7% | 62.2–68.3% | 61.6–68.9% | 60.4–70.0% |
 | [3–7 August 2020](2020-08-07-Sagalytics.html) | Sagalytics | 56.0% | 53.4–58.6% | 52.6–59.3% | 52.0–59.9% | 50.7–61.1% |
@@ -78,21 +78,21 @@ Last result: **3** seats (General Election of 25 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [31 January–4 February 2022](2022-02-04-MaltaToday.html) | MaltaToday | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [5–12 January 2022](2022-01-12-MaltaToday.html) | MaltaToday | 4 | 4 | 3–4 | 3–4 | 3–4 |
-| [26 November–2 December 2021](2021-12-02-MaltaToday.html) | MaltaToday | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [28 October–3 November 2021](2021-11-03-MaltaToday.html) | MaltaToday | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [27 September–6 October 2021](2021-10-06-MaltaToday.html) | MaltaToday | 4 | 4 | 4 | 4 | 3–4 |
+| [5–12 January 2022](2022-01-12-MaltaToday.html) | MaltaToday |  |  |  |  |  |
+| [26 November–2 December 2021](2021-12-02-MaltaToday.html) | MaltaToday |  |  |  |  |  |
+| [28 October–3 November 2021](2021-11-03-MaltaToday.html) | MaltaToday |  |  |  |  |  |
+| [27 September–6 October 2021](2021-10-06-MaltaToday.html) | MaltaToday |  |  |  |  |  |
 | [25 August–2 September 2021](2021-09-02-MaltaToday.html) | MaltaToday |  |  |  |  |  |
-| [28 June–6 July 2021](2021-07-06-MaltaToday.html) | MaltaToday | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [31 May–4 June 2021](2021-06-04-MaltaToday.html) | MaltaToday | 4 | 4 | 4 | 3–4 | 3–4 |
-| [3–7 May 2021](2021-05-07-MaltaToday.html) | MaltaToday | 4 | 4 | 3–4 | 3–4 | 3–4 |
-| [5–9 April 2021](2021-04-09-MaltaToday.html) | MaltaToday | 3 | 3 | 3–4 | 3–4 | 3–4 |
-| [1–5 March 2021](2021-03-05-MaltaToday.html) | MaltaToday | 3 | 3 | 3–4 | 3–4 | 3–4 |
-| [1–5 February 2021](2021-02-05-MaltaToday.html) | MaltaToday | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [30 November–4 December 2020](2020-12-04-MaltaToday.html) | MaltaToday | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [2–6 November 2020](2020-11-06-MaltaToday.html) | MaltaToday | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [8–15 October 2020](2020-10-15-Sagalytics.html) | Sagalytics | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [5–9 October 2020](2020-10-09-MaltaToday.html) | MaltaToday | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [28 June–6 July 2021](2021-07-06-MaltaToday.html) | MaltaToday |  |  |  |  |  |
+| [31 May–4 June 2021](2021-06-04-MaltaToday.html) | MaltaToday |  |  |  |  |  |
+| [3–7 May 2021](2021-05-07-MaltaToday.html) | MaltaToday |  |  |  |  |  |
+| [5–9 April 2021](2021-04-09-MaltaToday.html) | MaltaToday |  |  |  |  |  |
+| [1–5 March 2021](2021-03-05-MaltaToday.html) | MaltaToday |  |  |  |  |  |
+| [1–5 February 2021](2021-02-05-MaltaToday.html) | MaltaToday |  |  |  |  |  |
+| [30 November–4 December 2020](2020-12-04-MaltaToday.html) | MaltaToday |  |  |  |  |  |
+| [2–6 November 2020](2020-11-06-MaltaToday.html) | MaltaToday |  |  |  |  |  |
+| [8–15 October 2020](2020-10-15-Sagalytics.html) | Sagalytics |  |  |  |  |  |
+| [5–9 October 2020](2020-10-09-MaltaToday.html) | MaltaToday |  |  |  |  |  |
 | [14–18 September 2020](2020-09-18-Sagalytics.html) | Sagalytics | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | [31 August–4 September 2020](2020-09-04-MaltaToday.html) | MaltaToday | 4 | 4 | 4 | 4 | 4 |
 | [3–7 August 2020](2020-08-07-Sagalytics.html) | Sagalytics | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
