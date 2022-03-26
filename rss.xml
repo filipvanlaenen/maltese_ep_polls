@@ -8,7 +8,97 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/maltese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 13 Mar 2022 16:36:54 +0100</pubDate>
+    <pubDate>Sat, 26 Mar 2022 16:56:28 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Sagalytics, 24 March 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2022-03-24-Sagalytics.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2022-03-24-Sagalytics-seats.png"
+        length="116335"
+        type="image/png"/>
+      <pubDate>Sat, 26 Mar 2022 14:15:40 +0100</pubDate>
+      <dc:date>2022-03-26T14:15:40.56958+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sagalytics, 24 March 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2022-03-24-Sagalytics.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2022-03-24-Sagalytics-coalitions-seats.png"
+        length="111263"
+        type="image/png"/>
+      <pubDate>Sat, 26 Mar 2022 14:15:40 +0100</pubDate>
+      <dc:date>2022-03-26T14:15:40.56958+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sagalytics, 24 March 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2022-03-24-Sagalytics.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 51.8–59.8%&lt;/li&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 38.9–46.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2022-03-24-Sagalytics.png"
+        length="122474"
+        type="image/png"/>
+      <pubDate>Sat, 26 Mar 2022 14:15:40 +0100</pubDate>
+      <dc:date>2022-03-26T14:15:40.56958+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MaltaToday, 21–24 March 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2022-03-24-MaltaToday.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 3 seats&lt;/li&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2022-03-24-MaltaToday-seats.png"
+        length="82887"
+        type="image/png"/>
+      <pubDate>Sat, 26 Mar 2022 14:20:36 +0100</pubDate>
+      <dc:date>2022-03-26T14:20:36.950438+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MaltaToday, 21–24 March 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2022-03-24-MaltaToday.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2022-03-24-MaltaToday-coalitions-seats.png"
+        length="83721"
+        type="image/png"/>
+      <pubDate>Sat, 26 Mar 2022 14:20:36 +0100</pubDate>
+      <dc:date>2022-03-26T14:20:36.950438+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MaltaToday, 21–24 March 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2022-03-24-MaltaToday.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 51.7–55.3%&lt;/li&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 42.7–46.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2022-03-24-MaltaToday.png"
+        length="112994"
+        type="image/png"/>
+      <pubDate>Sat, 26 Mar 2022 14:20:36 +0100</pubDate>
+      <dc:date>2022-03-26T14:20:36.950438+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Esprimi for Times of Malta, 20 March 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2022-03-20-Esprimi.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2022-03-20-Esprimi-seats.png"
+        length="118495"
+        type="image/png"/>
+      <pubDate>Sat, 26 Mar 2022 14:23:48 +0100</pubDate>
+      <dc:date>2022-03-26T14:23:48.57582+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Esprimi for Times of Malta, 20 March 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2022-03-20-Esprimi.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2022-03-20-Esprimi-coalitions-seats.png"
+        length="113123"
+        type="image/png"/>
+      <pubDate>Sat, 26 Mar 2022 14:23:48 +0100</pubDate>
+      <dc:date>2022-03-26T14:23:48.57582+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Esprimi for Times of Malta, 20 March 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2022-03-20-Esprimi.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 51.2–59.1%&lt;/li&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 39.6–47.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2022-03-20-Esprimi.png"
+        length="125337"
+        type="image/png"/>
+      <pubDate>Sat, 26 Mar 2022 14:23:48 +0100</pubDate>
+      <dc:date>2022-03-26T14:23:48.57582+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by MaltaToday, 1–7 March 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/maltese_ep_polls/2022-03-07-MaltaToday.html#seats</link>
@@ -68,6 +158,66 @@
         type="image/png"/>
       <pubDate>Sun, 13 Mar 2022 16:36:54 +0100</pubDate>
       <dc:date>2022-03-13T16:36:54.015789+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sagalytics, 22–25 February 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2022-02-25-Sagalytics.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Alternattiva Demokratika–Partit Demokratiku (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2022-02-25-Sagalytics-seats.png"
+        length="145092"
+        type="image/png"/>
+      <pubDate>Sat, 26 Mar 2022 14:14:32 +0100</pubDate>
+      <dc:date>2022-03-26T14:14:32.310081+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sagalytics, 22–25 February 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2022-02-25-Sagalytics.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2022-02-25-Sagalytics-coalitions-seats.png"
+        length="112573"
+        type="image/png"/>
+      <pubDate>Sat, 26 Mar 2022 14:14:32 +0100</pubDate>
+      <dc:date>2022-03-26T14:14:32.310081+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sagalytics, 22–25 February 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2022-02-25-Sagalytics.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 51.8–59.8%&lt;/li&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 38.6–46.5%&lt;/li&gt;&lt;li&gt;Alternattiva Demokratika–Partit Demokratiku (Greens/EFA): 0.9–3.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2022-02-25-Sagalytics.png"
+        length="158751"
+        type="image/png"/>
+      <pubDate>Sat, 26 Mar 2022 14:14:32 +0100</pubDate>
+      <dc:date>2022-03-26T14:14:32.310081+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Esprimi for Times of Malta, 14–24 February 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2022-02-24-Esprimi.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2022-02-24-Esprimi-seats.png"
+        length="119379"
+        type="image/png"/>
+      <pubDate>Sat, 26 Mar 2022 16:56:28 +0100</pubDate>
+      <dc:date>2022-03-26T16:56:28.011705+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Esprimi for Times of Malta, 14–24 February 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2022-02-24-Esprimi.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2022-02-24-Esprimi-coalitions-seats.png"
+        length="113999"
+        type="image/png"/>
+      <pubDate>Sat, 26 Mar 2022 16:56:28 +0100</pubDate>
+      <dc:date>2022-03-26T16:56:28.011705+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Esprimi for Times of Malta, 14–24 February 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2022-02-24-Esprimi.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 52.2–60.1%&lt;/li&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 38.4–46.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2022-02-24-Esprimi.png"
+        length="128430"
+        type="image/png"/>
+      <pubDate>Sat, 26 Mar 2022 16:56:28 +0100</pubDate>
+      <dc:date>2022-03-26T16:56:28.011705+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MaltaToday, 31 January–4 February 2022 – Seat Projections for the Parties</title>
@@ -559,6 +709,6 @@
       <pubDate>Mon, 30 Sep 2019 21:52:31 +0200</pubDate>
       <dc:date>2019-09-30T21:52:31+02:00</dc:date>
     </item>
-    <dc:date>2022-03-13T16:36:54.015789+01:00</dc:date>
+    <dc:date>2022-03-26T16:56:28.011705+01:00</dc:date>
   </channel>
 </rss>
