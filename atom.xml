@@ -6,7 +6,23 @@
   </author>
   <id>https://filipvanlaenen.github.io/maltese_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2022-03-26T16:56:28.011705+01:00</updated>
+  <updated>2022-12-22T19:30:10.506597+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partit Laburista (S&amp;D): 52.2–61.7%, 3–4 seats</li><li>Partit Nazzjonalista (EPP): 33.4–42.7%, 2–3 seats</li><li>Alternattiva Demokratika–Partit Demokratiku (Greens/EFA): 2.2–5.9%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/maltese_ep_polls/2022-12-01-MaltaToday.html</id>
+    <link href="https://filipvanlaenen.github.io/maltese_ep_polls/2022-12-01-MaltaToday.html"/>
+    <title>Opinion Poll by MaltaToday, 22 November–1 December 2022</title>
+    <updated>2022-12-22T19:04:55.068811+01:00</updated>
+    <dc:date>2022-12-22T19:04:55.068811+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partit Laburista (S&amp;D): 57.4–66.8%, 4 seats</li><li>Partit Nazzjonalista (EPP): 27.2–36.1%, 2 seats</li><li>Alternattiva Demokratika–Partit Demokratiku (Greens/EFA): 3.4–7.7%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/maltese_ep_polls/2022-09-30-MaltaToday.html</id>
+    <link href="https://filipvanlaenen.github.io/maltese_ep_polls/2022-09-30-MaltaToday.html"/>
+    <title>Opinion Poll by MaltaToday, 13–30 September 2022</title>
+    <updated>2022-12-22T19:30:10.506597+01:00</updated>
+    <dc:date>2022-12-22T19:30:10.506597+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partit Laburista (S&amp;D): 51.8–59.8%, 3–4 seats</li><li>Partit Nazzjonalista (EPP): 38.9–46.8%, 2–3 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/maltese_ep_polls/2022-03-24-Sagalytics.html</id>
@@ -191,5 +207,5 @@
     <updated>2019-09-30T21:52:31+02:00</updated>
     <dc:date>2019-09-30T21:52:31+02:00</dc:date>
   </entry>
-  <dc:date>2022-03-26T16:56:28.011705+01:00</dc:date>
+  <dc:date>2022-12-22T19:30:10.506597+01:00</dc:date>
 </feed>
