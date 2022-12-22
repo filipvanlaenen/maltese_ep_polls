@@ -10,7 +10,11 @@ Last result: **40.0%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 43.9% | 41.1–45.7% | 40.3–46.3% | 39.6–46.9% | 38.3–48.2% |
+| N/A | [Poll Average](average.html) | 38.0% | 34.9–41.0% | 34.1–41.9% | 33.4–42.7% | 32.0–44.2% |
+| [22 November–1 December 2022](2022-12-01-MaltaToday.html) | MaltaToday | 37.9% | 34.9–41.0% | 34.1–41.9% | 33.4–42.7% | 32.0–44.2% |
+| [13–30 September 2022](2022-09-30-MaltaToday.html) | MaltaToday | 31.5% | 28.6–34.5% | 27.8–35.4% | 27.2–36.1% | 25.8–37.6% |
+| [6–14 July 2022](2022-07-14-MaltaToday.html) | MaltaToday | 36.4% | N/A | N/A | N/A | N/A |
+| [16–25 May 2022](2022-05-25-MaltaToday.html) | MaltaToday | 37.9% | N/A | N/A | N/A | N/A |
 | [24 March 2022](2022-03-24-Sagalytics.html) | Sagalytics | 42.8% | 40.3–45.4% | 39.6–46.2% | 38.9–46.8% | 37.7–48.1% |
 | [21–24 March 2022](2022-03-24-MaltaToday.html) | MaltaToday | 44.5% | 43.3–45.7% | 43.0–46.0% | 42.7–46.3% | 42.2–46.9% |
 | [23 March 2022](2022-03-23-MaltaToday.html) | MaltaToday | 44.8% | N/A | N/A | N/A | N/A |
@@ -70,22 +74,25 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 35.5–36.5% | 0% | 100% |  |
-| 36.5–37.5% | 0.1% | 100% |  |
-| 37.5–38.5% | 0.6% | 99.8% |  |
-| 38.5–39.5% | 2% | 99.3% |  |
-| 39.5–40.5% | 4% | 98% | Last Result |
-| 40.5–41.5% | 8% | 93% |  |
-| 41.5–42.5% | 12% | 86% |  |
-| 42.5–43.5% | 17% | 74% |  |
-| 43.5–44.5% | 24% | 57% | Median |
-| 44.5–45.5% | 20% | 33% |  |
-| 45.5–46.5% | 9% | 12% |  |
-| 46.5–47.5% | 3% | 4% |  |
-| 47.5–48.5% | 0.8% | 1.1% |  |
-| 48.5–49.5% | 0.2% | 0.3% |  |
-| 49.5–50.5% | 0.1% | 0.1% |  |
-| 50.5–51.5% | 0% | 0% |  |
+| 28.5–29.5% | 0% | 100% |  |
+| 29.5–30.5% | 0.1% | 100% |  |
+| 30.5–31.5% | 0.2% | 99.9% |  |
+| 31.5–32.5% | 0.7% | 99.7% |  |
+| 32.5–33.5% | 2% | 99.0% |  |
+| 33.5–34.5% | 4% | 97% |  |
+| 34.5–35.5% | 8% | 93% |  |
+| 35.5–36.5% | 12% | 85% |  |
+| 36.5–37.5% | 16% | 72% |  |
+| 37.5–38.5% | 16% | 57% | Median |
+| 38.5–39.5% | 15% | 40% |  |
+| 39.5–40.5% | 11% | 25% | Last Result |
+| 40.5–41.5% | 7% | 14% |  |
+| 41.5–42.5% | 4% | 7% |  |
+| 42.5–43.5% | 2% | 3% |  |
+| 43.5–44.5% | 0.7% | 1.0% |  |
+| 44.5–45.5% | 0.2% | 0.3% |  |
+| 45.5–46.5% | 0.1% | 0.1% |  |
+| 46.5–47.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -96,7 +103,11 @@ Last result: **3** seats (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [22 November–1 December 2022](2022-12-01-MaltaToday.html) | MaltaToday | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [13–30 September 2022](2022-09-30-MaltaToday.html) | MaltaToday | 2 | 2 | 2 | 2 | 1–2 |
+| [6–14 July 2022](2022-07-14-MaltaToday.html) | MaltaToday |  |  |  |  |  |
+| [16–25 May 2022](2022-05-25-MaltaToday.html) | MaltaToday |  |  |  |  |  |
 | [24 March 2022](2022-03-24-Sagalytics.html) | Sagalytics | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [21–24 March 2022](2022-03-24-MaltaToday.html) | MaltaToday | 3 | 3 | 3 | 3 | 3 |
 | [23 March 2022](2022-03-23-MaltaToday.html) | MaltaToday |  |  |  |  |  |
@@ -158,8 +169,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 22% | 100% |  |
-| 3 | 78% | 78% | Last Result, Median |
+| 2 | 88% | 100% | Median |
+| 3 | 12% | 12% | Last Result |
 | 4 | 0% | 0% | Majority |
 
 
