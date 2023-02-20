@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/maltese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 22 Dec 2022 19:30:10 +0100</pubDate>
+    <pubDate>Mon, 20 Feb 2023 20:52:24 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by MaltaToday, 24 January–1 February 2023 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2023-02-01-MaltaToday.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 4 seats&lt;/li&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 2 seats&lt;/li&gt;&lt;li&gt;Alternattiva Demokratika–Partit Demokratiku (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2023-02-01-MaltaToday-seats.png"
+        length="112430"
+        type="image/png"/>
+      <pubDate>Mon, 20 Feb 2023 20:52:24 +0100</pubDate>
+      <dc:date>2023-02-20T20:52:24.689807+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MaltaToday, 24 January–1 February 2023 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2023-02-01-MaltaToday.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2023-02-01-MaltaToday-coalitions-seats.png"
+        length="88056"
+        type="image/png"/>
+      <pubDate>Mon, 20 Feb 2023 20:52:24 +0100</pubDate>
+      <dc:date>2023-02-20T20:52:24.689807+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MaltaToday, 24 January–1 February 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2023-02-01-MaltaToday.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 55.6–64.9%&lt;/li&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 31.2–40.3%&lt;/li&gt;&lt;li&gt;Alternattiva Demokratika–Partit Demokratiku (Greens/EFA): 0.5–2.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2023-02-01-MaltaToday.png"
+        length="161027"
+        type="image/png"/>
+      <pubDate>Mon, 20 Feb 2023 20:52:24 +0100</pubDate>
+      <dc:date>2023-02-20T20:52:24.689807+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by MaltaToday, 22 November–1 December 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/maltese_ep_polls/2022-12-01-MaltaToday.html#seats</link>
@@ -769,6 +799,6 @@
       <pubDate>Mon, 30 Sep 2019 21:52:31 +0200</pubDate>
       <dc:date>2019-09-30T21:52:31+02:00</dc:date>
     </item>
-    <dc:date>2022-12-22T19:30:10.506597+01:00</dc:date>
+    <dc:date>2023-02-20T20:52:24.689807+01:00</dc:date>
   </channel>
 </rss>
