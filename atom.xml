@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/maltese_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2023-02-20T20:52:24.689807+01:00</updated>
+  <updated>2023-03-23T22:45:02.653151+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partit Laburista (S&amp;D): 43.1–53.3%, 3–4 seats</li><li>Partit Nazzjonalista (EPP): 39.4–49.5%, 2–3 seats</li><li>Alternattiva Demokratika–Partit Demokratiku (Greens/EFA): 1.9–5.6%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/maltese_ep_polls/2023-03-10-MaltaToday.html</id>
+    <link href="https://filipvanlaenen.github.io/maltese_ep_polls/2023-03-10-MaltaToday.html"/>
+    <title>Opinion Poll by MaltaToday, 3–10 March 2023</title>
+    <updated>2023-03-23T22:45:02.653151+01:00</updated>
+    <dc:date>2023-03-23T22:45:02.653151+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partit Laburista (S&amp;D): 55.6–64.9%, 4 seats</li><li>Partit Nazzjonalista (EPP): 31.2–40.3%, 2 seats</li><li>Alternattiva Demokratika–Partit Demokratiku (Greens/EFA): 0.5–2.7%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/maltese_ep_polls/2023-02-01-MaltaToday.html</id>
@@ -215,5 +223,5 @@
     <updated>2019-09-30T21:52:31+02:00</updated>
     <dc:date>2019-09-30T21:52:31+02:00</dc:date>
   </entry>
-  <dc:date>2023-02-20T20:52:24.689807+01:00</dc:date>
+  <dc:date>2023-03-23T22:45:02.653151+01:00</dc:date>
 </feed>
