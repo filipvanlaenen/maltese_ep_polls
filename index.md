@@ -5,7 +5,8 @@ The table below lists the most recent polls (less than 30 days old) registered a
 | Period     | Polling firm/Commissioner(s) | PL | PN | AD | PD | MPM | AD+PD |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2019 | General Election | 53.4% <br> 3 | 40.0% <br> 3 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 43–53% <br> 3–4 | 39–50% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–6% <br> 0 |
+| N/A | [Poll Average](average.html) | 44–55% <br> 3–4 | 39–49% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–6% <br> 0 |
+| [9–16 March 2023](2023-03-16-Esprimi.html) | Esprimi <br> Times of Malta | 48–56% <br> 3–4 | 39–47% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [3–10 March 2023](2023-03-10-MaltaToday.html) | MaltaToday | 43–53% <br> 3–4 | 39–50% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–6% <br> 0 |
 | 25 May 2019 | General Election | 53.4% <br> 3 | 40.0% <br> 3 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
