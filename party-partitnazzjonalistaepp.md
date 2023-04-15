@@ -11,7 +11,7 @@ Last result: **40.0%** (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 43.5% | 40.6–46.8% | 39.8–47.9% | 39.1–48.8% | 37.8–50.5% |
-| [9–16 March 2023](2023-03-16-Esprimi.html) | Esprimi <br> Times of Malta | 42.8% | 40.3–45.5% | 39.6–46.2% | 38.9–46.8% | 37.7–48.1% |
+| [9–16 March 2023](2023-03-16-Esprimi.html) | Esprimi <br> Times of Malta | 42.8% | 40.3–45.4% | 39.6–46.2% | 38.9–46.8% | 37.7–48.1% |
 | [3–10 March 2023](2023-03-10-MaltaToday.html) | MaltaToday | 44.4% | 41.1–47.8% | 40.2–48.7% | 39.4–49.5% | 37.9–51.1% |
 | [24 January–1 February 2023](2023-02-01-MaltaToday.html) | MaltaToday | 35.4% | 32.7–38.7% | 31.9–39.5% | 31.2–40.3% | 29.8–41.8% |
 | [22 November–1 December 2022](2022-12-01-MaltaToday.html) | MaltaToday | 38.0% | 34.9–41.0% | 34.1–41.9% | 33.4–42.7% | 32.0–44.2% |
@@ -83,7 +83,7 @@ The following table shows the probability mass function per percentage block of 
 | 37.5–38.5% | 0.9% | 99.6% |  |
 | 38.5–39.5% | 3% | 98.7% |  |
 | 39.5–40.5% | 6% | 96% | Last Result |
-| 40.5–41.5% | 10% | 91% |  |
+| 40.5–41.5% | 10% | 90% |  |
 | 41.5–42.5% | 14% | 81% |  |
 | 42.5–43.5% | 16% | 66% |  |
 | 43.5–44.5% | 16% | 50% | Median |
