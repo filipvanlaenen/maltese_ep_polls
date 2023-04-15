@@ -10,34 +10,35 @@ Last result: **40.0%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 44.4% | 41.1–47.8% | 40.2–48.7% | 39.4–49.5% | 37.9–51.1% |
+| N/A | [Poll Average](average.html) | 43.5% | 40.6–46.8% | 39.8–47.9% | 39.1–48.8% | 37.8–50.5% |
+| [9–16 March 2023](2023-03-16-Esprimi.html) | Esprimi <br> Times of Malta | 42.8% | 40.3–45.5% | 39.6–46.2% | 38.9–46.8% | 37.7–48.1% |
 | [3–10 March 2023](2023-03-10-MaltaToday.html) | MaltaToday | 44.4% | 41.1–47.8% | 40.2–48.7% | 39.4–49.5% | 37.9–51.1% |
-| [24 January–1 February 2023](2023-02-01-MaltaToday.html) | MaltaToday | 35.6% | 32.7–38.7% | 31.9–39.5% | 31.2–40.3% | 29.8–41.8% |
-| [22 November–1 December 2022](2022-12-01-MaltaToday.html) | MaltaToday | 37.9% | 34.9–41.0% | 34.1–41.9% | 33.4–42.7% | 32.0–44.2% |
-| [13–30 September 2022](2022-09-30-MaltaToday.html) | MaltaToday | 31.5% | 28.6–34.5% | 27.8–35.4% | 27.2–36.1% | 25.8–37.6% |
+| [24 January–1 February 2023](2023-02-01-MaltaToday.html) | MaltaToday | 35.4% | 32.7–38.7% | 31.9–39.5% | 31.2–40.3% | 29.8–41.8% |
+| [22 November–1 December 2022](2022-12-01-MaltaToday.html) | MaltaToday | 38.0% | 34.9–41.0% | 34.1–41.9% | 33.4–42.7% | 32.0–44.2% |
+| [13–30 September 2022](2022-09-30-MaltaToday.html) | MaltaToday | 31.4% | 28.6–34.5% | 27.8–35.4% | 27.2–36.1% | 25.8–37.6% |
 | [6–14 July 2022](2022-07-14-MaltaToday.html) | MaltaToday | 36.4% | N/A | N/A | N/A | N/A |
-| [16–25 May 2022](2022-05-25-MaltaToday.html) | MaltaToday | 37.9% | N/A | N/A | N/A | N/A |
-| [24 March 2022](2022-03-24-Sagalytics.html) | Sagalytics | 42.8% | 40.3–45.4% | 39.6–46.2% | 38.9–46.8% | 37.7–48.1% |
+| [16–25 May 2022](2022-05-25-MaltaToday.html) | MaltaToday | 37.7% | N/A | N/A | N/A | N/A |
+| [24 March 2022](2022-03-24-Sagalytics.html) | Sagalytics | 42.9% | 40.3–45.4% | 39.6–46.2% | 38.9–46.8% | 37.7–48.1% |
 | [21–24 March 2022](2022-03-24-MaltaToday.html) | MaltaToday | 44.5% | 43.3–45.7% | 43.0–46.0% | 42.7–46.3% | 42.2–46.9% |
-| [23 March 2022](2022-03-23-MaltaToday.html) | MaltaToday | 44.8% | N/A | N/A | N/A | N/A |
+| [23 March 2022](2022-03-23-MaltaToday.html) | MaltaToday | 44.6% | N/A | N/A | N/A | N/A |
 | [22 March 2022](2022-03-22-MaltaToday.html) | MaltaToday | 44.6% | N/A | N/A | N/A | N/A |
-| [21 March 2022](2022-03-21-Sagalytics.html) | Sagalytics | 43.0% | N/A | N/A | N/A | N/A |
-| [21 March 2022](2022-03-21-MaltaToday.html) | MaltaToday | 44.4% | N/A | N/A | N/A | N/A |
+| [21 March 2022](2022-03-21-Sagalytics.html) | Sagalytics | 43.1% | N/A | N/A | N/A | N/A |
+| [21 March 2022](2022-03-21-MaltaToday.html) | MaltaToday | 44.3% | N/A | N/A | N/A | N/A |
 | [20 March 2022](2022-03-20-Esprimi.html) | Esprimi <br> Times of Malta | 43.5% | 40.9–46.1% | 40.2–46.9% | 39.6–47.5% | 38.4–48.8% |
-| [17 March 2022](2022-03-17-MaltaToday.html) | MaltaToday | 44.8% | N/A | N/A | N/A | N/A |
+| [17 March 2022](2022-03-17-MaltaToday.html) | MaltaToday | 44.6% | N/A | N/A | N/A | N/A |
 | [15 March 2022](2022-03-15-MaltaToday.html) | MaltaToday | 45.2% | N/A | N/A | N/A | N/A |
-| [13 March 2022](2022-03-13-Sagalytics.html) | Sagalytics | 42.7% | N/A | N/A | N/A | N/A |
-| [13 March 2022](2022-03-13-MaltaToday.html) | MaltaToday | 44.8% | N/A | N/A | N/A | N/A |
-| [3–9 March 2022](2022-03-09-MaltaToday.html) | MaltaToday | 44.8% | N/A | N/A | N/A | N/A |
+| [13 March 2022](2022-03-13-Sagalytics.html) | Sagalytics | 42.6% | N/A | N/A | N/A | N/A |
+| [13 March 2022](2022-03-13-MaltaToday.html) | MaltaToday | 44.9% | N/A | N/A | N/A | N/A |
+| [3–9 March 2022](2022-03-09-MaltaToday.html) | MaltaToday | 44.9% | N/A | N/A | N/A | N/A |
 | [2–8 March 2022](2022-03-08-MaltaToday.html) | MaltaToday | 45.0% | N/A | N/A | N/A | N/A |
 | [1–7 March 2022](2022-03-07-MaltaToday.html) | MaltaToday | 42.3% | 40.3–44.3% | 39.7–44.9% | 39.3–45.4% | 38.3–46.4% |
 | [21 February–4 March 2022](2022-03-04-MaltaToday.html) | MaltaToday | 44.1% | N/A | N/A | N/A | N/A |
 | [26 February–3 March 2022](2022-03-03-Sagalytics.html) | Sagalytics | 43.0% | N/A | N/A | N/A | N/A |
-| [21–26 February 2022](2022-02-26-MaltaToday.html) | MaltaToday | 44.9% | 42.3–47.5% | 41.6–48.3% | 40.9–48.9% | 39.7–50.2% |
-| [22–25 February 2022](2022-02-25-Sagalytics.html) | Sagalytics | 42.5% | 39.9–45.1% | 39.2–45.9% | 38.6–46.5% | 37.4–47.8% |
+| [21–26 February 2022](2022-02-26-MaltaToday.html) | MaltaToday | 45.0% | 42.3–47.5% | 41.6–48.3% | 40.9–48.9% | 39.7–50.2% |
+| [22–25 February 2022](2022-02-25-Sagalytics.html) | Sagalytics | 42.4% | 39.9–45.1% | 39.2–45.9% | 38.6–46.5% | 37.4–47.8% |
 | [14–24 February 2022](2022-02-24-Esprimi.html) | Esprimi <br> Times of Malta | 42.3% | 39.8–44.9% | 39.1–45.7% | 38.4–46.3% | 37.2–47.6% |
 | [31 January–4 February 2022](2022-02-04-MaltaToday.html) | MaltaToday | 41.4% | 38.9–43.9% | 38.2–44.6% | 37.6–45.2% | 36.5–46.4% |
-| [28 January–2 February 2022](2022-02-02-Sagalytics.html) | Sagalytics | 42.3% | N/A | N/A | N/A | N/A |
+| [28 January–2 February 2022](2022-02-02-Sagalytics.html) | Sagalytics | 42.4% | N/A | N/A | N/A | N/A |
 | [5–12 January 2022](2022-01-12-MaltaToday.html) | MaltaToday | 39.2% | N/A | N/A | N/A | N/A |
 | [26 November–2 December 2021](2021-12-02-MaltaToday.html) | MaltaToday | 41.0% | N/A | N/A | N/A | N/A |
 | [28 October–3 November 2021](2021-11-03-MaltaToday.html) | MaltaToday | 40.3% | N/A | N/A | N/A | N/A |
@@ -50,9 +51,9 @@ Last result: **40.0%** (General Election of 25 May 2019)
 | [1–5 March 2021](2021-03-05-MaltaToday.html) | MaltaToday | 44.4% | N/A | N/A | N/A | N/A |
 | [1–5 February 2021](2021-02-05-MaltaToday.html) | MaltaToday | 44.2% | N/A | N/A | N/A | N/A |
 | [30 November–4 December 2020](2020-12-04-MaltaToday.html) | MaltaToday | 41.2% | N/A | N/A | N/A | N/A |
-| [2–6 November 2020](2020-11-06-MaltaToday.html) | MaltaToday | 41.8% | N/A | N/A | N/A | N/A |
+| [2–6 November 2020](2020-11-06-MaltaToday.html) | MaltaToday | 41.9% | N/A | N/A | N/A | N/A |
 | [8–15 October 2020](2020-10-15-Sagalytics.html) | Sagalytics | 42.0% | N/A | N/A | N/A | N/A |
-| [5–9 October 2020](2020-10-09-MaltaToday.html) | MaltaToday | 41.9% | N/A | N/A | N/A | N/A |
+| [5–9 October 2020](2020-10-09-MaltaToday.html) | MaltaToday | 42.0% | N/A | N/A | N/A | N/A |
 | [14–18 September 2020](2020-09-18-Sagalytics.html) | Sagalytics | 39.0% | 36.5–41.6% | 35.8–42.3% | 35.2–43.0% | 34.0–44.2% |
 | [31 August–4 September 2020](2020-09-04-MaltaToday.html) | MaltaToday | 34.0% | 31.7–36.5% | 31.1–37.2% | 30.5–37.8% | 29.4–38.9% |
 | [3–7 August 2020](2020-08-07-Sagalytics.html) | Sagalytics | 41.0% | 38.5–43.6% | 37.8–44.4% | 37.1–45.0% | 35.9–46.2% |
@@ -79,23 +80,22 @@ The following table shows the probability mass function per percentage block of 
 | 34.5–35.5% | 0% | 100% |  |
 | 35.5–36.5% | 0.1% | 100% |  |
 | 36.5–37.5% | 0.3% | 99.9% |  |
-| 37.5–38.5% | 0.7% | 99.7% |  |
-| 38.5–39.5% | 2% | 98.9% |  |
-| 39.5–40.5% | 4% | 97% | Last Result |
-| 40.5–41.5% | 7% | 94% |  |
-| 41.5–42.5% | 10% | 87% |  |
-| 42.5–43.5% | 13% | 77% |  |
-| 43.5–44.5% | 15% | 63% | Median |
-| 44.5–45.5% | 15% | 48% |  |
-| 45.5–46.5% | 12% | 33% |  |
-| 46.5–47.5% | 9% | 21% |  |
-| 47.5–48.5% | 6% | 11% |  |
-| 48.5–49.5% | 3% | 6% |  |
-| 49.5–50.5% | 2% | 2% |  |
-| 50.5–51.5% | 0.6% | 0.9% |  |
-| 51.5–52.5% | 0.2% | 0.3% |  |
-| 52.5–53.5% | 0.1% | 0.1% |  |
-| 53.5–54.5% | 0% | 0% |  |
+| 37.5–38.5% | 0.9% | 99.6% |  |
+| 38.5–39.5% | 3% | 98.7% |  |
+| 39.5–40.5% | 6% | 96% | Last Result |
+| 40.5–41.5% | 10% | 91% |  |
+| 41.5–42.5% | 14% | 81% |  |
+| 42.5–43.5% | 16% | 66% |  |
+| 43.5–44.5% | 16% | 50% | Median |
+| 44.5–45.5% | 13% | 34% |  |
+| 45.5–46.5% | 9% | 21% |  |
+| 46.5–47.5% | 6% | 12% |  |
+| 47.5–48.5% | 3% | 6% |  |
+| 48.5–49.5% | 2% | 3% |  |
+| 49.5–50.5% | 0.8% | 1.3% |  |
+| 50.5–51.5% | 0.3% | 0.5% |  |
+| 51.5–52.5% | 0.1% | 0.2% |  |
+| 52.5–53.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -106,7 +106,8 @@ Last result: **3** seats (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3 | 3 | 2–3 | 2–3 |
+| N/A | [Poll Average](average.html) | 3 | 3 | 2–3 | 2–3 | 2–3 |
+| [9–16 March 2023](2023-03-16-Esprimi.html) | Esprimi <br> Times of Malta | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [3–10 March 2023](2023-03-10-MaltaToday.html) | MaltaToday | 3 | 3 | 3 | 2–3 | 2–3 |
 | [24 January–1 February 2023](2023-02-01-MaltaToday.html) | MaltaToday | 2 | 2 | 2 | 2 | 2–3 |
 | [22 November–1 December 2022](2022-12-01-MaltaToday.html) | MaltaToday | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -174,8 +175,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 3% | 100% |  |
-| 3 | 97% | 97% | Last Result, Median |
+| 2 | 7% | 100% |  |
+| 3 | 93% | 93% | Last Result, Median |
 | 4 | 0% | 0% | Majority |
 
 
