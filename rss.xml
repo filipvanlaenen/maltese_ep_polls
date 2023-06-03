@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/maltese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 15 Apr 2023 23:35:36 +0200</pubDate>
+    <pubDate>Sat, 03 Jun 2023 20:00:21 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by MaltaToday, 10–9 May 2023 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2023-05-09-MaltaToday.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Alternattiva Demokratika–Partit Demokratiku (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2023-05-09-MaltaToday-seats.png"
+        length="143205"
+        type="image/png"/>
+      <pubDate>Sat, 03 Jun 2023 20:00:21 +0200</pubDate>
+      <dc:date>2023-06-03T20:00:21.175348+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MaltaToday, 10–9 May 2023 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2023-05-09-MaltaToday.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2023-05-09-MaltaToday-coalitions-seats.png"
+        length="116486"
+        type="image/png"/>
+      <pubDate>Sat, 03 Jun 2023 20:00:21 +0200</pubDate>
+      <dc:date>2023-06-03T20:00:21.175348+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MaltaToday, 10–9 May 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2023-05-09-MaltaToday.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 47.5–57.6%&lt;/li&gt;&lt;li&gt;Alternattiva Demokratika–Partit Demokratiku (Greens/EFA): 0.2–2.0%&lt;/li&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 40.5–50.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2023-05-09-MaltaToday.png"
+        length="161645"
+        type="image/png"/>
+      <pubDate>Sat, 03 Jun 2023 20:00:21 +0200</pubDate>
+      <dc:date>2023-06-03T20:00:21.175348+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Esprimi for Times of Malta, 9–16 March 2023 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/maltese_ep_polls/2023-03-16-Esprimi.html#seats</link>
@@ -859,6 +889,6 @@
       <pubDate>Mon, 30 Sep 2019 21:52:31 +0200</pubDate>
       <dc:date>2019-09-30T21:52:31+02:00</dc:date>
     </item>
-    <dc:date>2023-04-15T23:35:36.696025+02:00</dc:date>
+    <dc:date>2023-06-03T20:00:21.175348+02:00</dc:date>
   </channel>
 </rss>
