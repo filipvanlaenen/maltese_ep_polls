@@ -11,7 +11,7 @@ Last result: **53.4%** (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 52.6% | 49.2–55.9% | 48.3–56.8% | 47.5–57.6% | 45.9–59.2% |
-| [10–9 May 2023](2023-05-09-MaltaToday.html) | MaltaToday | 52.6% | 49.2–55.9% | 48.3–56.8% | 47.5–57.6% | 45.9–59.2% |
+| [10–19 May 2023](2023-05-19-MaltaToday.html) | MaltaToday | 52.6% | 49.2–55.9% | 48.3–56.8% | 47.5–57.6% | 45.9–59.2% |
 | [9–16 March 2023](2023-03-16-Esprimi.html) | Esprimi <br> Times of Malta | 51.7% | 49.1–54.3% | 48.3–55.0% | 47.7–55.6% | 46.4–56.9% |
 | [3–10 March 2023](2023-03-10-MaltaToday.html) | MaltaToday | 48.1% | 44.9–51.6% | 44.0–52.5% | 43.1–53.3% | 41.6–54.9% |
 | [24 January–1 February 2023](2023-02-01-MaltaToday.html) | MaltaToday | 60.3% | 57.3–63.4% | 56.4–64.2% | 55.6–64.9% | 54.2–66.3% |
@@ -109,7 +109,7 @@ Last result: **3** seats (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3 | 3–4 | 3–4 | 3–4 |
-| [10–9 May 2023](2023-05-09-MaltaToday.html) | MaltaToday | 3 | 3 | 3–4 | 3–4 | 3–4 |
+| [10–19 May 2023](2023-05-19-MaltaToday.html) | MaltaToday | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | [9–16 March 2023](2023-03-16-Esprimi.html) | Esprimi <br> Times of Malta | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [3–10 March 2023](2023-03-10-MaltaToday.html) | MaltaToday | 3 | 3 | 3 | 3–4 | 3–4 |
 | [24 January–1 February 2023](2023-02-01-MaltaToday.html) | MaltaToday | 4 | 4 | 4 | 4 | 3–4 |
