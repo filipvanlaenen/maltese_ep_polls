@@ -10,7 +10,8 @@ Last result: **40.0%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 45.5% | 42.2–48.9% | 41.3–49.8% | 40.5–50.6% | 38.9–52.2% |
+| N/A | [Poll Average](average.html) | 48.5% | 45.6–51.5% | 44.8–52.3% | 44.0–53.0% | 42.6–54.4% |
+| [10–20 July 2023](2023-07-20-MaltaToday.html) | MaltaToday | 48.5% | 45.6–51.5% | 44.7–52.3% | 44.0–53.0% | 42.6–54.4% |
 | [10–19 May 2023](2023-05-19-MaltaToday.html) | MaltaToday | 45.5% | 42.2–48.9% | 41.3–49.8% | 40.5–50.6% | 38.9–52.2% |
 | [9–16 March 2023](2023-03-16-Esprimi.html) | Esprimi <br> Times of Malta | 42.8% | 40.3–45.4% | 39.6–46.2% | 38.9–46.8% | 37.7–48.1% |
 | [3–10 March 2023](2023-03-10-MaltaToday.html) | MaltaToday | 44.4% | 41.1–47.8% | 40.2–48.7% | 39.4–49.5% | 37.9–51.1% |
@@ -78,26 +79,24 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 35.5–36.5% | 0% | 100% |  |
-| 36.5–37.5% | 0.1% | 100% |  |
-| 37.5–38.5% | 0.2% | 99.9% |  |
-| 38.5–39.5% | 0.7% | 99.7% |  |
-| 39.5–40.5% | 2% | 99.0% | Last Result |
-| 40.5–41.5% | 4% | 97% |  |
-| 41.5–42.5% | 6% | 94% |  |
-| 42.5–43.5% | 10% | 87% |  |
-| 43.5–44.5% | 13% | 78% |  |
-| 44.5–45.5% | 15% | 65% |  |
-| 45.5–46.5% | 15% | 49% | Median |
-| 46.5–47.5% | 13% | 35% |  |
-| 47.5–48.5% | 9% | 22% |  |
-| 48.5–49.5% | 6% | 12% |  |
-| 49.5–50.5% | 3% | 6% |  |
-| 50.5–51.5% | 2% | 3% |  |
-| 51.5–52.5% | 0.7% | 1.0% |  |
-| 52.5–53.5% | 0.2% | 0.3% |  |
-| 53.5–54.5% | 0.1% | 0.1% |  |
-| 54.5–55.5% | 0% | 0% |  |
+| 39.5–40.5% | 0% | 100% | Last Result |
+| 40.5–41.5% | 0.1% | 100% |  |
+| 41.5–42.5% | 0.3% | 99.9% |  |
+| 42.5–43.5% | 1.0% | 99.6% |  |
+| 43.5–44.5% | 3% | 98.5% |  |
+| 44.5–45.5% | 6% | 96% |  |
+| 45.5–46.5% | 10% | 90% |  |
+| 46.5–47.5% | 14% | 81% |  |
+| 47.5–48.5% | 17% | 66% |  |
+| 48.5–49.5% | 17% | 50% | Median |
+| 49.5–50.5% | 14% | 33% |  |
+| 50.5–51.5% | 9% | 19% |  |
+| 51.5–52.5% | 5% | 9% |  |
+| 52.5–53.5% | 3% | 4% |  |
+| 53.5–54.5% | 1.0% | 1.4% |  |
+| 54.5–55.5% | 0.3% | 0.4% |  |
+| 55.5–56.5% | 0.1% | 0.1% |  |
+| 56.5–57.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -108,7 +107,8 @@ Last result: **3** seats (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3 | 2–3 | 2–3 | 2–3 |
+| N/A | [Poll Average](average.html) | 3 | 3 | 3 | 3 | 3 |
+| [10–20 July 2023](2023-07-20-MaltaToday.html) | MaltaToday | 3 | 3 | 3 | 3 | 3 |
 | [10–19 May 2023](2023-05-19-MaltaToday.html) | MaltaToday | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [9–16 March 2023](2023-03-16-Esprimi.html) | Esprimi <br> Times of Malta | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [3–10 March 2023](2023-03-10-MaltaToday.html) | MaltaToday | 3 | 3 | 3 | 2–3 | 2–3 |
@@ -178,8 +178,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 9% | 100% |  |
-| 3 | 91% | 91% | Last Result, Median |
-| 4 | 0% | 0% | Majority |
+| 2 | 0.1% | 100% |  |
+| 3 | 99.7% | 99.9% | Last Result, Median |
+| 4 | 0.2% | 0.2% | Majority |
+| 5 | 0% | 0% |  |
 
 
