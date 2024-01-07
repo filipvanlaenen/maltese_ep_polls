@@ -10,8 +10,9 @@ Last result: **53.4%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 47.1% | 41.8–51.7% | 40.8–52.6% | 39.9–53.3% | 38.4–54.7% |
-| [14–26 October 2023](2023-10-26-Esprimi.html) | Esprimi <br> Times of Malta | 50.0% | 47.4–52.6% | 46.6–53.4% | 46.0–54.0% | 44.8–55.2% |
+| N/A | [Poll Average](average.html) | 47.4% | 44.4–50.4% | 43.5–51.2% | 42.8–52.0% | 41.4–53.4% |
+| [28 November–6 December 2023](2023-12-06-MaltaToday.html) | MaltaToday | 47.4% | 44.4–50.4% | 43.5–51.2% | 42.8–52.0% | 41.4–53.4% |
+| [14–26 October 2023](2023-10-26-Esprimi.html) | Esprimi <br> Times of Malta | 50.1% | 47.4–52.6% | 46.6–53.4% | 46.0–54.0% | 44.8–55.2% |
 | [25 September–4 October 2023](2023-10-04-MaltaToday.html) | MaltaToday | 43.7% | 40.8–46.7% | 39.9–47.6% | 39.2–48.3% | 37.8–49.8% |
 | [1–8 September 2023](2023-09-08-MaltaSurvey.html) | Malta Survey <br> Independent | 43.8% | 42.0–45.6% | 41.5–46.1% | 41.1–46.5% | 40.2–47.4% |
 | [10–20 July 2023](2023-07-20-MaltaToday.html) | MaltaToday | 47.7% | 44.7–50.6% | 43.9–51.5% | 43.2–52.2% | 41.8–53.6% |
@@ -82,28 +83,24 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 35.5–36.5% | 0% | 100% |  |
-| 36.5–37.5% | 0.1% | 100% |  |
-| 37.5–38.5% | 0.4% | 99.8% |  |
-| 38.5–39.5% | 1.1% | 99.4% |  |
-| 39.5–40.5% | 2% | 98% |  |
-| 40.5–41.5% | 4% | 96% |  |
-| 41.5–42.5% | 7% | 91% |  |
-| 42.5–43.5% | 8% | 85% |  |
-| 43.5–44.5% | 9% | 76% |  |
-| 44.5–45.5% | 8% | 68% |  |
-| 45.5–46.5% | 7% | 60% |  |
-| 46.5–47.5% | 7% | 53% | Median |
-| 47.5–48.5% | 8% | 47% |  |
-| 48.5–49.5% | 9% | 39% |  |
-| 49.5–50.5% | 10% | 30% |  |
-| 50.5–51.5% | 9% | 20% |  |
-| 51.5–52.5% | 6% | 11% |  |
-| 52.5–53.5% | 3% | 5% | Last Result |
-| 53.5–54.5% | 1.4% | 2% |  |
-| 54.5–55.5% | 0.5% | 0.6% |  |
-| 55.5–56.5% | 0.1% | 0.2% |  |
-| 56.5–57.5% | 0% | 0% |  |
+| 38.5–39.5% | 0% | 100% |  |
+| 39.5–40.5% | 0.1% | 100% |  |
+| 40.5–41.5% | 0.4% | 99.8% |  |
+| 41.5–42.5% | 1.3% | 99.4% |  |
+| 42.5–43.5% | 3% | 98% |  |
+| 43.5–44.5% | 6% | 95% |  |
+| 44.5–45.5% | 11% | 89% |  |
+| 45.5–46.5% | 14% | 78% |  |
+| 46.5–47.5% | 17% | 64% | Median |
+| 47.5–48.5% | 16% | 47% |  |
+| 48.5–49.5% | 13% | 31% |  |
+| 49.5–50.5% | 9% | 18% |  |
+| 50.5–51.5% | 5% | 9% |  |
+| 51.5–52.5% | 2% | 4% |  |
+| 52.5–53.5% | 0.9% | 1.3% | Last Result |
+| 53.5–54.5% | 0.3% | 0.4% |  |
+| 54.5–55.5% | 0.1% | 0.1% |  |
+| 55.5–56.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -114,7 +111,8 @@ Last result: **3** seats (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3 | 3 | 3 | 2–4 |
+| N/A | [Poll Average](average.html) | 3 | 3 | 3 | 3 | 3–4 |
+| [28 November–6 December 2023](2023-12-06-MaltaToday.html) | MaltaToday | 3 | 3 | 3 | 3 | 3–4 |
 | [14–26 October 2023](2023-10-26-Esprimi.html) | Esprimi <br> Times of Malta | 3 | 3 | 3 | 3 | 3–4 |
 | [25 September–4 October 2023](2023-10-04-MaltaToday.html) | MaltaToday | 3 | 3 | 3 | 2–3 | 2–3 |
 | [1–8 September 2023](2023-09-08-MaltaSurvey.html) | Malta Survey <br> Independent | 3 | 3 | 3 | 3 | 3 |
@@ -188,9 +186,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 1.4% | 100% |  |
-| 3 | 98% | 98.6% | Last Result, Median |
-| 4 | 0.9% | 0.9% | Majority |
+| 3 | 98% | 100% | Last Result, Median |
+| 4 | 2% | 2% | Majority |
 | 5 | 0% | 0% |  |
 
 
