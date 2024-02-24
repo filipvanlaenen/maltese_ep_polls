@@ -8,16 +8,36 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/maltese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 23 Feb 2024 22:24:17 +0100</pubDate>
+    <pubDate>Fri, 23 Feb 2024 22:51:23 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by MaltaToday, 26 January–5 February 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2024-02-05-MaltaToday.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2024-02-05-MaltaToday-seats.png"
+        length="118783"
+        type="image/png"/>
+      <pubDate>Fri, 23 Feb 2024 22:51:23 +0100</pubDate>
+      <dc:date>2024-02-23T22:51:23.036785+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MaltaToday, 26 January–5 February 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2024-02-05-MaltaToday.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2024-02-05-MaltaToday-coalitions-seats.png"
+        length="118939"
+        type="image/png"/>
+      <pubDate>Fri, 23 Feb 2024 22:51:23 +0100</pubDate>
+      <dc:date>2024-02-23T22:51:23.036785+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by MaltaToday, 26 January–5 February 2024 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/maltese_ep_polls/2024-02-05-MaltaToday.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 43.2–52.9%&lt;/li&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 36.4–46.0%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2024-02-05-MaltaToday.png"
-        length="127902"
+        length="127907"
         type="image/png"/>
-      <pubDate>Fri, 23 Feb 2024 22:24:17 +0100</pubDate>
-      <dc:date>2024-02-23T22:24:17.195429+01:00</dc:date>
+      <pubDate>Fri, 23 Feb 2024 22:51:23 +0100</pubDate>
+      <dc:date>2024-02-23T22:51:23.036785+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MaltaToday, 28 November–6 December 2023 – Seat Projections for the Parties</title>
@@ -1049,6 +1069,6 @@
       <pubDate>Mon, 30 Sep 2019 21:52:31 +0200</pubDate>
       <dc:date>2019-09-30T21:52:31+02:00</dc:date>
     </item>
-    <dc:date>2024-02-23T22:24:17.195429+01:00</dc:date>
+    <dc:date>2024-02-23T22:51:23.036785+01:00</dc:date>
   </channel>
 </rss>
