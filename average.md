@@ -36,7 +36,7 @@ Only polls for which at least the sample size has been published are included in
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#partit-laburista-(s&d)">Partit Laburista (S&D)</a> | 53.4% | 48.0% | 44.9–51.2% |44.0–52.1% | 43.2–52.9% | 41.7–54.4% |
-| <a href="#partit-nazzjonalista-(epp)">Partit Nazzjonalista (EPP)</a> | 40.0% | 41.1% | 38.0–44.3% |37.2–45.2% | 36.4–45.9% | 35.0–47.5% |
+| <a href="#partit-nazzjonalista-(epp)">Partit Nazzjonalista (EPP)</a> | 40.0% | 41.1% | 38.0–44.3% |37.1–45.2% | 36.4–46.0% | 35.0–47.5% |
 | <a href="#alternattiva-demokratika-(greens/efa)">Alternattiva Demokratika (Greens/EFA)</a> | 2.9% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#partit-demokratiku-(re)">Partit Demokratiku (RE)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#moviment-patrijotti-maltin-(id)">Moviment Patrijotti Maltin (ID)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
@@ -53,7 +53,7 @@ Only polls for which at least the sample size has been published are included in
 | 40.5–41.5% | 0.3% | 99.9% |  |
 | 41.5–42.5% | 0.9% | 99.6% |  |
 | 42.5–43.5% | 2% | 98.7% |  |
-| 43.5–44.5% | 5% | 97% |  |
+| 43.5–44.5% | 4% | 97% |  |
 | 44.5–45.5% | 8% | 92% |  |
 | 45.5–46.5% | 12% | 84% |  |
 | 46.5–47.5% | 15% | 72% |  |
@@ -81,7 +81,7 @@ Only polls for which at least the sample size has been published are included in
 | 35.5–36.5% | 2% | 99.0% |  |
 | 36.5–37.5% | 4% | 97% |  |
 | 37.5–38.5% | 7% | 93% |  |
-| 38.5–39.5% | 12% | 86% |  |
+| 38.5–39.5% | 11% | 86% |  |
 | 39.5–40.5% | 15% | 74% | Last Result |
 | 40.5–41.5% | 16% | 59% | Median |
 | 41.5–42.5% | 15% | 43% |  |
@@ -225,6 +225,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 1
-+ **Lowest number of simulations done in a poll included in this average:** 524,288
-+ **Total number of simulations done in the polls included in this average:** 524,288
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 1,048,576
 + **Error estimate:** 0.56%
