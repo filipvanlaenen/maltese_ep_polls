@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/maltese_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2024-04-08T19:25:55.130388+02:00</updated>
+  <updated>2024-04-08T20:22:46.743386+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partit Nazzjonalista (EPP): 38.3–46.9%, 2–3 seats</li><li>Partit Laburista (S&amp;D): 48.5–57.2%, 3–4 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/maltese_ep_polls/2024-03-21-MaltaToday.html</id>
@@ -14,6 +14,14 @@
     <title>Opinion Poll by MaltaToday, 7–21 March 2024</title>
     <updated>2024-04-08T19:25:55.130388+02:00</updated>
     <dc:date>2024-04-08T19:25:55.130388+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partit Nazzjonalista (EPP): 34.7–44.2%, 2–3 seats</li><li>Partit Laburista (S&amp;D): 47.6–57.3%, 3–4 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/maltese_ep_polls/2024-03-12-Esprimi.html</id>
+    <link href="https://filipvanlaenen.github.io/maltese_ep_polls/2024-03-12-Esprimi.html"/>
+    <title>Opinion Poll by Esprimi for Times of Malta, 27 February–12 March 2024</title>
+    <updated>2024-04-08T20:22:46.743386+02:00</updated>
+    <dc:date>2024-04-08T20:22:46.743386+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partit Laburista (S&amp;D): 43.2–52.9%, 3–4 seats</li><li>Partit Nazzjonalista (EPP): 36.4–46.0%, 2–3 seats</li></ul></div></content>
@@ -295,5 +303,5 @@
     <updated>2019-09-30T21:52:31+02:00</updated>
     <dc:date>2019-09-30T21:52:31+02:00</dc:date>
   </entry>
-  <dc:date>2024-04-08T19:25:55.130388+02:00</dc:date>
+  <dc:date>2024-04-08T20:22:46.743386+02:00</dc:date>
 </feed>
