@@ -10,7 +10,9 @@ Last result: **40.0%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 41.1% | 38.0–44.3% | 37.1–45.2% | 36.4–46.0% | 35.0–47.5% |
+| N/A | [Poll Average](average.html) | 41.0% | 37.2–44.6% | 36.2–45.5% | 35.4–46.3% | 33.8–47.7% |
+| [7–21 March 2024](2024-03-21-MaltaToday.html) | MaltaToday | 42.5% | 39.7–45.4% | 39.0–46.2% | 38.3–46.9% | 37.0–48.3% |
+| [27 February–12 March 2024](2024-03-12-Esprimi.html) | Esprimi <br> Times of Malta | 39.3% | 36.2–42.5% | 35.4–43.4% | 34.6–44.2% | 33.2–45.7% |
 | [26 January–5 February 2024](2024-02-05-MaltaToday.html) | MaltaToday | 41.1% | 38.0–44.3% | 37.1–45.2% | 36.4–46.0% | 34.9–47.5% |
 | [28 November–6 December 2023](2023-12-06-MaltaToday.html) | MaltaToday | 43.2% | 40.2–46.2% | 39.4–47.0% | 38.7–47.8% | 37.3–49.2% |
 | [14–26 October 2023](2023-10-26-Esprimi.html) | Esprimi <br> Times of Malta | 44.8% | 42.3–47.5% | 41.5–48.2% | 40.9–48.8% | 39.7–50.1% |
@@ -84,24 +86,25 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 31.5–32.5% | 0% | 100% |  |
-| 32.5–33.5% | 0.1% | 100% |  |
-| 33.5–34.5% | 0.2% | 99.9% |  |
-| 34.5–35.5% | 0.7% | 99.7% |  |
-| 35.5–36.5% | 2% | 99.0% |  |
-| 36.5–37.5% | 4% | 97% |  |
-| 37.5–38.5% | 7% | 93% |  |
-| 38.5–39.5% | 11% | 86% |  |
-| 39.5–40.5% | 15% | 74% | Last Result |
-| 40.5–41.5% | 16% | 59% | Median |
-| 41.5–42.5% | 15% | 43% |  |
-| 42.5–43.5% | 12% | 28% |  |
-| 43.5–44.5% | 8% | 16% |  |
-| 44.5–45.5% | 5% | 8% |  |
-| 45.5–46.5% | 2% | 4% |  |
-| 46.5–47.5% | 0.9% | 1.4% |  |
-| 47.5–48.5% | 0.3% | 0.5% |  |
-| 48.5–49.5% | 0.1% | 0.1% |  |
+| 30.5–31.5% | 0% | 100% |  |
+| 31.5–32.5% | 0.1% | 100% |  |
+| 32.5–33.5% | 0.3% | 99.9% |  |
+| 33.5–34.5% | 0.8% | 99.6% |  |
+| 34.5–35.5% | 2% | 98.9% |  |
+| 35.5–36.5% | 3% | 97% |  |
+| 36.5–37.5% | 6% | 94% |  |
+| 37.5–38.5% | 8% | 88% |  |
+| 38.5–39.5% | 11% | 80% |  |
+| 39.5–40.5% | 12% | 69% | Last Result |
+| 40.5–41.5% | 14% | 57% | Median |
+| 41.5–42.5% | 13% | 43% |  |
+| 42.5–43.5% | 11% | 30% |  |
+| 43.5–44.5% | 9% | 19% |  |
+| 44.5–45.5% | 5% | 10% |  |
+| 45.5–46.5% | 3% | 5% |  |
+| 46.5–47.5% | 1.3% | 2% |  |
+| 47.5–48.5% | 0.5% | 0.6% |  |
+| 48.5–49.5% | 0.1% | 0.2% |  |
 | 49.5–50.5% | 0% | 0% |  |
 
 
@@ -114,6 +117,8 @@ Last result: **3** seats (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [7–21 March 2024](2024-03-21-MaltaToday.html) | MaltaToday | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [27 February–12 March 2024](2024-03-12-Esprimi.html) | Esprimi <br> Times of Malta | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [26 January–5 February 2024](2024-02-05-MaltaToday.html) | MaltaToday | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [28 November–6 December 2023](2023-12-06-MaltaToday.html) | MaltaToday | 3 | 3 | 3 | 2–3 | 2–3 |
 | [14–26 October 2023](2023-10-26-Esprimi.html) | Esprimi <br> Times of Malta | 3 | 3 | 3 | 3 | 2–3 |
@@ -189,8 +194,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 17% | 100% |  |
-| 3 | 83% | 83% | Last Result, Median |
+| 2 | 36% | 100% |  |
+| 3 | 64% | 64% | Last Result, Median |
 | 4 | 0% | 0% | Majority |
 
 
