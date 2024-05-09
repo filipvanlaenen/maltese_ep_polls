@@ -10,7 +10,9 @@ Last result: **53.4%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 52.7% | 49.6–55.7% | 48.8–56.5% | 48.0–57.3% | 46.5–58.7% |
+| N/A | [Poll Average](average.html) | 51.1% | 48.1–54.0% | 47.3–54.8% | 46.6–55.5% | 45.1–56.9% |
+| [15–24 April 2024](2024-04-24-MaltaToday.html) | MaltaToday | 50.6% | 47.7–53.6% | 46.8–54.4% | 46.1–55.2% | 44.7–56.6% |
+| [1–13 April 2024](2024-04-13-Esprimi.html) | Esprimi <br> Times of Malta | 51.5% | 48.7–54.3% | 47.9–55.1% | 47.2–55.8% | 45.9–57.1% |
 | [7–21 March 2024](2024-03-21-MaltaToday.html) | MaltaToday | 52.9% | 50.0–55.7% | 49.2–56.5% | 48.5–57.2% | 47.1–58.6% |
 | [27 February–12 March 2024](2024-03-12-Esprimi.html) | Esprimi <br> Times of Malta | 52.5% | 49.3–55.7% | 48.4–56.5% | 47.6–57.3% | 46.1–58.8% |
 | [26 January–5 February 2024](2024-02-05-MaltaToday.html) | MaltaToday | 48.0% | 44.9–51.2% | 44.0–52.1% | 43.2–52.9% | 41.7–54.4% |
@@ -86,24 +88,23 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 43.5–44.5% | 0% | 100% |  |
-| 44.5–45.5% | 0.1% | 100% |  |
-| 45.5–46.5% | 0.4% | 99.8% |  |
-| 46.5–47.5% | 1.1% | 99.5% |  |
-| 47.5–48.5% | 3% | 98% |  |
-| 48.5–49.5% | 5% | 96% |  |
-| 49.5–50.5% | 9% | 91% |  |
-| 50.5–51.5% | 13% | 82% |  |
-| 51.5–52.5% | 16% | 68% |  |
-| 52.5–53.5% | 17% | 52% | Last Result, Median |
-| 53.5–54.5% | 14% | 36% |  |
-| 54.5–55.5% | 10% | 21% |  |
-| 55.5–56.5% | 6% | 11% |  |
-| 56.5–57.5% | 3% | 5% |  |
-| 57.5–58.5% | 1.3% | 2% |  |
-| 58.5–59.5% | 0.4% | 0.6% |  |
-| 59.5–60.5% | 0.1% | 0.2% |  |
-| 60.5–61.5% | 0% | 0% |  |
+| 42.5–43.5% | 0% | 100% |  |
+| 43.5–44.5% | 0.2% | 99.9% |  |
+| 44.5–45.5% | 0.6% | 99.8% |  |
+| 45.5–46.5% | 2% | 99.2% |  |
+| 46.5–47.5% | 4% | 98% |  |
+| 47.5–48.5% | 7% | 94% |  |
+| 48.5–49.5% | 12% | 87% |  |
+| 49.5–50.5% | 16% | 75% |  |
+| 50.5–51.5% | 17% | 59% | Median |
+| 51.5–52.5% | 16% | 42% |  |
+| 52.5–53.5% | 12% | 26% | Last Result |
+| 53.5–54.5% | 8% | 14% |  |
+| 54.5–55.5% | 4% | 6% |  |
+| 55.5–56.5% | 2% | 2% |  |
+| 56.5–57.5% | 0.6% | 0.7% |  |
+| 57.5–58.5% | 0.2% | 0.2% |  |
+| 58.5–59.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -114,7 +115,9 @@ Last result: **3** seats (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| N/A | [Poll Average](average.html) | 3 | 3 | 3–4 | 3–4 | 3–4 |
+| [15–24 April 2024](2024-04-24-MaltaToday.html) | MaltaToday | 3 | 3 | 3–4 | 3–4 | 3–4 |
+| [1–13 April 2024](2024-04-13-Esprimi.html) | Esprimi <br> Times of Malta | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [7–21 March 2024](2024-03-21-MaltaToday.html) | MaltaToday | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [27 February–12 March 2024](2024-03-12-Esprimi.html) | Esprimi <br> Times of Malta | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [26 January–5 February 2024](2024-02-05-MaltaToday.html) | MaltaToday | 3 | 3 | 3–4 | 3–4 | 3–4 |
@@ -192,8 +195,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 64% | 100% | Last Result, Median |
-| 4 | 36% | 36% | Majority |
+| 3 | 92% | 100% | Last Result, Median |
+| 4 | 8% | 8% | Majority |
 | 5 | 0% | 0% |  |
 
 
