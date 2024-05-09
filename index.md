@@ -2,13 +2,13 @@
 
 The table below lists the most recent polls (less than 30 days old) registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | PL | PN | AD | PD | MPM | AD+PD |
-|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 25 May 2019 | General Election | 53.4% <br> 3 | 40.0% <br> 3 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 48–57% <br> 3–4 | 35–46% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [7–21 March 2024](2024-03-21-MaltaToday.html) | MaltaToday | 49–57% <br> 3–4 | 38–47% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [27 February–12 March 2024](2024-03-12-Esprimi.html) | Esprimi <br> Times of Malta | 48–57% <br> 3–4 | 35–44% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| 25 May 2019 | General Election | 53.4% <br> 3 | 40.0% <br> 3 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| Period     | Polling firm/Commissioner(s) | PL | PN | AD | PD | MPM | AD+PD | IE |
+|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 25 May 2019 | General Election | 53.4% <br> 3 | 40.0% <br> 3 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| N/A | [Poll Average](average.html) | 47–56% <br> 3–4 | 39–48% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–6% <br> 0 |
+| [15–24 April 2024](2024-04-24-MaltaToday.html) | MaltaToday | 46–55% <br> 3–4 | 40–49% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [1–13 April 2024](2024-04-13-Esprimi.html) | Esprimi <br> Times of Malta | 47–56% <br> 3–4 | 39–47% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–6% <br> 0 |
+| 25 May 2019 | General Election | 53.4% <br> 3 | 40.0% <br> 3 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
 
@@ -21,6 +21,7 @@ Only polls for which at least the sample size has been published are included in
 + **PD:** Partit Demokratiku (RE)
 + **MPM:** Moviment Patrijotti Maltin (ID)
 + **AD+PD:** Alternattiva Demokratika–Partit Demokratiku (Greens/EFA)
++ **IE:** Imperium Europa (*)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
