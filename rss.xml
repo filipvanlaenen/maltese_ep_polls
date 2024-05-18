@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/maltese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 18 May 2024 10:25:52 +0200</pubDate>
+    <pubDate>Sat, 18 May 2024 14:02:58 +0200</pubDate>
     <item>
       <title>Opinion Poll by Sagalytics for It-Torċa, 6–10 May 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/maltese_ep_polls/2024-05-10-Sagalytics.html#seats</link>
@@ -76,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2024-04-24-MaltaToday-seats.png"
         length="116101"
         type="image/png"/>
-      <pubDate>Thu, 09 May 2024 13:37:31 +0200</pubDate>
-      <dc:date>2024-05-09T13:37:31.484291+02:00</dc:date>
+      <pubDate>Sat, 18 May 2024 14:02:58 +0200</pubDate>
+      <dc:date>2024-05-18T14:02:58.496455+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MaltaToday, 15–24 April 2024 – Seat Projections for a Selection of Coalitions</title>
@@ -86,18 +86,18 @@
       <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2024-04-24-MaltaToday-coalitions-seats.png"
         length="120200"
         type="image/png"/>
-      <pubDate>Thu, 09 May 2024 13:37:31 +0200</pubDate>
-      <dc:date>2024-05-09T13:37:31.484291+02:00</dc:date>
+      <pubDate>Sat, 18 May 2024 14:02:58 +0200</pubDate>
+      <dc:date>2024-05-18T14:02:58.496455+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MaltaToday, 15–24 April 2024 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/maltese_ep_polls/2024-04-24-MaltaToday.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 46.1–55.2%&lt;/li&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 39.8–48.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 46.1–55.2%&lt;/li&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 39.8–48.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2024-04-24-MaltaToday.png"
-        length="120075"
+        length="119914"
         type="image/png"/>
-      <pubDate>Thu, 09 May 2024 13:37:31 +0200</pubDate>
-      <dc:date>2024-05-09T13:37:31.484291+02:00</dc:date>
+      <pubDate>Sat, 18 May 2024 14:02:58 +0200</pubDate>
+      <dc:date>2024-05-18T14:02:58.496455+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Esprimi for Times of Malta, 1–13 April 2024 – Seat Projections for the Parties</title>
@@ -1189,6 +1189,6 @@
       <pubDate>Mon, 30 Sep 2019 21:52:31 +0200</pubDate>
       <dc:date>2019-09-30T21:52:31+02:00</dc:date>
     </item>
-    <dc:date>2024-05-18T10:25:52.729041+02:00</dc:date>
+    <dc:date>2024-05-18T14:02:58.496455+02:00</dc:date>
   </channel>
 </rss>
