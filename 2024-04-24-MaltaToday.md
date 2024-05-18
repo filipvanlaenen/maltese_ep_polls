@@ -11,7 +11,7 @@
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Partit Laburista (S&D) | 53.4% | 50.6% | 47.7–53.6% |46.8–54.4% |46.1–55.2% |44.7–56.6% |
-| Partit Nazzjonalista (EPP) | 40.0% | 44.2% | 41.3–47.2% |40.5–48.0% |39.8–48.8% |38.4–50.2% |
+| Partit Nazzjonalista (EPP) | 40.0% | 44.2% | 41.3–47.2% |40.5–48.0% |39.8–48.7% |38.4–50.2% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -36,8 +36,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 94% | 100% | Last Result, Median |
-| 4 | 6% | 6% | Majority |
+| 3 | 95% | 100% | Last Result, Median |
+| 4 | 5% | 5% | Majority |
 | 5 | 0% | 0% |  |
 
 ### Partit Nazzjonalista (EPP)
@@ -48,8 +48,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 6% | 100% |  |
-| 3 | 94% | 94% | Last Result, Median |
+| 2 | 5% | 100% |  |
+| 3 | 95% | 95% | Last Result, Median |
 | 4 | 0% | 0% | Majority |
 
 
@@ -61,7 +61,7 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partit Laburista (S&D) | 3 | 3 | 6% | 3 | 3–4 | 3–4 | 3–4 |
+| Partit Laburista (S&D) | 3 | 3 | 5% | 3 | 3–4 | 3–4 | 3–4 |
 | Partit Nazzjonalista (EPP) | 3 | 3 | 0% | 3 | 2–3 | 2–3 | 2–3 |
 
 ### Partit Laburista (S&D)
@@ -70,8 +70,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 94% | 100% | Last Result, Median |
-| 4 | 6% | 6% | Majority |
+| 3 | 95% | 100% | Last Result, Median |
+| 4 | 5% | 5% | Majority |
 | 5 | 0% | 0% |  |
 
 ### Partit Nazzjonalista (EPP)
@@ -80,8 +80,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 6% | 100% |  |
-| 3 | 94% | 94% | Last Result, Median |
+| 2 | 5% | 100% |  |
+| 3 | 95% | 95% | Last Result, Median |
 | 4 | 0% | 0% | Majority |
 
 
@@ -96,6 +96,6 @@
 ### Calculations
 
 + **Sample size:** 466
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 1.07%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 1.39%
 
