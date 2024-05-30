@@ -8,27 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/maltese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 29 May 2024 23:15:56 +0200</pubDate>
-    <item>
-      <title>Opinion Poll by Sagalytics for It-Torċa, 20–24 May 2024 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2024-05-24-Sagalytics.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Imperium Europa (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2024-05-24-Sagalytics-seats.png"
-        length="129131"
-        type="image/png"/>
-      <pubDate>Wed, 29 May 2024 21:51:31 +0200</pubDate>
-      <dc:date>2024-05-29T21:51:31.239524+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sagalytics for It-Torċa, 20–24 May 2024 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2024-05-24-Sagalytics.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2024-05-24-Sagalytics-coalitions-seats.png"
-        length="123844"
-        type="image/png"/>
-      <pubDate>Wed, 29 May 2024 21:51:31 +0200</pubDate>
-      <dc:date>2024-05-29T21:51:31.239524+02:00</dc:date>
-    </item>
+    <pubDate>Thu, 30 May 2024 19:03:21 +0200</pubDate>
     <item>
       <title>Opinion Poll by Sagalytics for It-Torċa, 20–24 May 2024 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/maltese_ep_polls/2024-05-24-Sagalytics.html</link>
@@ -36,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2024-05-24-Sagalytics.png"
         length="142623"
         type="image/png"/>
-      <pubDate>Wed, 29 May 2024 21:51:31 +0200</pubDate>
-      <dc:date>2024-05-29T21:51:31.239524+02:00</dc:date>
+      <pubDate>Thu, 30 May 2024 19:03:21 +0200</pubDate>
+      <dc:date>2024-05-30T19:03:21.005234+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MaltaToday, 13–21 May 2024 – Seat Projections for the Parties</title>
@@ -1249,6 +1229,6 @@
       <pubDate>Mon, 30 Sep 2019 21:52:31 +0200</pubDate>
       <dc:date>2019-09-30T21:52:31+02:00</dc:date>
     </item>
-    <dc:date>2024-05-29T23:15:56.5628+02:00</dc:date>
+    <dc:date>2024-05-30T19:03:21.005234+02:00</dc:date>
   </channel>
 </rss>
