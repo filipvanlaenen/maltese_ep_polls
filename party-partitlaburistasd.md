@@ -11,8 +11,8 @@ Last result: **53.4%** (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 51.0% | 48.4–53.4% | 47.6–54.2% | 46.8–54.8% | 45.3–56.2% |
-| [20–24 May 2024](2024-05-24-Sagalytics.html) | Sagalytics <br> It-Torċa | 51.1% | 49.1–53.1% | 48.5–53.7% | 48.0–54.2% | 47.0–55.2% |
-| [13–21 May 2024](2024-05-21-MaltaToday.html) | MaltaToday | 50.8% | 47.8–53.8% | 46.9–54.6% | 46.2–55.4% | 44.7–56.8% |
+| [20–24 May 2024](2024-05-24-Sagalytics.html) | Sagalytics <br> It-Torċa | 51.1% | 49.1–53.1% | 48.5–53.7% | 48.0–54.2% | 47.0–55.1% |
+| [13–21 May 2024](2024-05-21-MaltaToday.html) | MaltaToday | 50.8% | 47.8–53.8% | 46.9–54.6% | 46.2–55.3% | 44.7–56.8% |
 | [6–10 May 2024](2024-05-10-Sagalytics.html) | Sagalytics <br> It-Torċa | 51.0% | 48.6–53.5% | 47.9–54.1% | 47.3–54.7% | 46.1–55.9% |
 | [3–10 May 2024](2024-05-10-MaltaToday.html) | MaltaToday | 49.3% | 46.4–52.3% | 45.5–53.2% | 44.8–53.9% | 43.4–55.3% |
 | [15–24 April 2024](2024-04-24-MaltaToday.html) | MaltaToday | 50.6% | 47.7–53.6% | 46.8–54.4% | 46.1–55.2% | 44.7–56.6% |

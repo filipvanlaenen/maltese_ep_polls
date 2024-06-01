@@ -10,8 +10,8 @@ Last result: **0.0%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.6% | 3.8–5.4% | 3.6–5.7% | 3.4–6.0% | 3.1–6.5% |
-| [20–24 May 2024](2024-05-24-Sagalytics.html) | Sagalytics <br> It-Torċa | 4.5% | 3.8–5.5% | 3.6–5.7% | 3.4–6.0% | 3.0–6.5% |
+| N/A | [Poll Average](average.html) | 4.6% | 3.8–5.5% | 3.6–5.7% | 3.4–6.0% | 3.1–6.5% |
+| [20–24 May 2024](2024-05-24-Sagalytics.html) | Sagalytics <br> It-Torċa | 4.5% | 3.8–5.5% | 3.6–5.7% | 3.4–6.0% | 3.1–6.5% |
 | [13–21 May 2024](2024-05-21-MaltaToday.html) | MaltaToday | 0.0% | N/A | N/A | N/A | N/A |
 | [6–10 May 2024](2024-05-10-Sagalytics.html) | Sagalytics <br> It-Torċa | 5.1% | 4.1–6.3% | 3.9–6.7% | 3.7–7.0% | 3.3–7.6% |
 | [3–10 May 2024](2024-05-10-MaltaToday.html) | MaltaToday | 0.0% | N/A | N/A | N/A | N/A |
@@ -97,9 +97,9 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 5% | 100% |  |
 | 3.5–4.5% | 45% | 95% |  |
-| 4.5–5.5% | 42% | 50% | Median |
+| 4.5–5.5% | 43% | 51% | Median |
 | 5.5–6.5% | 8% | 8% |  |
-| 6.5–7.5% | 0.3% | 0.4% |  |
+| 6.5–7.5% | 0.4% | 0.4% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 

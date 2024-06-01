@@ -10,9 +10,9 @@
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partit Laburista (S&D) | 53.4% | 51.1% | 49.1–53.1% |48.5–53.7% |48.0–54.2% |47.0–55.2% |
+| Partit Laburista (S&D) | 53.4% | 51.1% | 49.1–53.1% |48.5–53.7% |48.0–54.2% |47.0–55.1% |
 | Partit Nazzjonalista (EPP) | 40.0% | 40.4% | 38.4–42.4% |37.9–43.0% |37.4–43.5% |36.5–44.4% |
-| Imperium Europa (*) | 0.0% | 4.5% | 3.8–5.5% |3.6–5.7% |3.4–6.0% |3.0–6.5% |
+| Imperium Europa (*) | 0.0% | 4.5% | 3.8–5.5% |3.6–5.7% |3.4–6.0% |3.1–6.5% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -117,6 +117,6 @@
 ### Calculations
 
 + **Sample size:** 1000
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 0.06%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 0.14%
 
