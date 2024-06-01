@@ -43,7 +43,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#partit-demokratiku-(re)">Partit Demokratiku (RE)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#moviment-patrijotti-maltin-(id)">Moviment Patrijotti Maltin (ID)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#alternattiva-demokratika–partit-demokratiku-(greens/efa)">Alternattiva Demokratika–Partit Demokratiku (Greens/EFA)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#imperium-europa-(*)">Imperium Europa (*)</a> | 0.0% | 4.6% | 3.8–5.4% |3.6–5.7% | 3.4–6.0% | 3.1–6.5% |
+| <a href="#imperium-europa-(*)">Imperium Europa (*)</a> | 0.0% | 4.6% | 3.8–5.5% |3.6–5.7% | 3.4–6.0% | 3.1–6.5% |
 
 ### Partit Laburista (S&D)
 
@@ -105,9 +105,9 @@ Only polls for which at least the sample size has been published are included in
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 5% | 100% |  |
 | 3.5–4.5% | 45% | 95% |  |
-| 4.5–5.5% | 42% | 50% | Median |
+| 4.5–5.5% | 43% | 51% | Median |
 | 5.5–6.5% | 8% | 8% |  |
-| 6.5–7.5% | 0.3% | 0.4% |  |
+| 6.5–7.5% | 0.4% | 0.4% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -259,6 +259,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 2
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 2,097,152
-+ **Error estimate:** 0.24%
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 4,194,304
++ **Error estimate:** 0.34%
