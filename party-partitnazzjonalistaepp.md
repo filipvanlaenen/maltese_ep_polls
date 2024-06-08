@@ -10,7 +10,9 @@ Last result: **40.0%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 41.2% | 38.8–44.4% | 38.1–45.4% | 37.6–46.2% | 36.5–47.8% |
+| N/A | [Poll Average](average.html) | 44.5% | 38.5–49.4% | 37.7–50.1% | 37.0–50.7% | 35.7–51.7% |
+| [30 May–4 June 2024](2024-06-04-Sagalytics.html) | Sagalytics <br> L-Orizzont | 40.1% | 37.7–42.6% | 37.0–43.3% | 36.4–44.0% | 35.3–45.2% |
+| [22 May–4 June 2024](2024-06-04-MaltaToday.html) | MaltaToday | 48.1% | 46.0–50.1% | 45.5–50.7% | 45.0–51.2% | 44.0–52.1% |
 | [20–24 May 2024](2024-05-24-Sagalytics.html) | Sagalytics <br> It-Torċa | 40.4% | 38.4–42.4% | 37.9–43.0% | 37.4–43.5% | 36.5–44.4% |
 | [13–21 May 2024](2024-05-21-MaltaToday.html) | MaltaToday | 42.4% | 39.5–45.4% | 38.6–46.2% | 37.9–47.0% | 36.5–48.4% |
 | [6–10 May 2024](2024-05-10-Sagalytics.html) | Sagalytics <br> It-Torċa | 39.9% | 37.5–42.3% | 36.8–43.0% | 36.3–43.6% | 35.1–44.7% |
@@ -92,24 +94,28 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 33.5–34.5% | 0% | 100% |  |
-| 34.5–35.5% | 0.1% | 100% |  |
-| 35.5–36.5% | 0.4% | 99.9% |  |
-| 36.5–37.5% | 2% | 99.5% |  |
-| 37.5–38.5% | 6% | 98% |  |
-| 38.5–39.5% | 12% | 92% |  |
-| 39.5–40.5% | 17% | 80% | Last Result |
-| 40.5–41.5% | 19% | 63% | Median |
-| 41.5–42.5% | 16% | 44% |  |
-| 42.5–43.5% | 11% | 28% |  |
-| 43.5–44.5% | 8% | 17% |  |
-| 44.5–45.5% | 5% | 9% |  |
-| 45.5–46.5% | 3% | 4% |  |
-| 46.5–47.5% | 1.2% | 2% |  |
-| 47.5–48.5% | 0.5% | 0.7% |  |
-| 48.5–49.5% | 0.2% | 0.2% |  |
-| 49.5–50.5% | 0% | 0.1% |  |
-| 50.5–51.5% | 0% | 0% |  |
+| 32.5–33.5% | 0% | 100% |  |
+| 33.5–34.5% | 0.1% | 100% |  |
+| 34.5–35.5% | 0.3% | 99.9% |  |
+| 35.5–36.5% | 1.1% | 99.6% |  |
+| 36.5–37.5% | 3% | 98.5% |  |
+| 37.5–38.5% | 6% | 96% |  |
+| 38.5–39.5% | 9% | 90% |  |
+| 39.5–40.5% | 10% | 81% | Last Result |
+| 40.5–41.5% | 9% | 71% |  |
+| 41.5–42.5% | 6% | 62% |  |
+| 42.5–43.5% | 3% | 55% |  |
+| 43.5–44.5% | 2% | 52% |  |
+| 44.5–45.5% | 3% | 50% | Median |
+| 45.5–46.5% | 6% | 47% |  |
+| 46.5–47.5% | 10% | 42% |  |
+| 47.5–48.5% | 12% | 31% |  |
+| 48.5–49.5% | 10% | 19% |  |
+| 49.5–50.5% | 6% | 9% |  |
+| 50.5–51.5% | 2% | 3% |  |
+| 51.5–52.5% | 0.6% | 0.7% |  |
+| 52.5–53.5% | 0.1% | 0.1% |  |
+| 53.5–54.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -121,6 +127,8 @@ Last result: **3** seats (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [30 May–4 June 2024](2024-06-04-Sagalytics.html) | Sagalytics <br> L-Orizzont | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [22 May–4 June 2024](2024-06-04-MaltaToday.html) | MaltaToday | 3 | 3 | 3 | 3 | 3 |
 | [20–24 May 2024](2024-05-24-Sagalytics.html) | Sagalytics <br> It-Torċa | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [13–21 May 2024](2024-05-21-MaltaToday.html) | MaltaToday | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [6–10 May 2024](2024-05-10-Sagalytics.html) | Sagalytics <br> It-Torċa | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -204,8 +212,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 17% | 100% |  |
-| 3 | 83% | 83% | Last Result, Median |
-| 4 | 0% | 0% | Majority |
+| 2 | 14% | 100% |  |
+| 3 | 86% | 86% | Last Result, Median |
+| 4 | 0.1% | 0.1% | Majority |
+| 5 | 0% | 0% |  |
 
 

@@ -10,7 +10,9 @@ Last result: **53.4%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 51.0% | 48.4–53.4% | 47.6–54.2% | 46.8–54.8% | 45.3–56.2% |
+| N/A | [Poll Average](average.html) | 46.7% | 42.0–52.6% | 41.3–53.4% | 40.8–54.1% | 39.7–55.5% |
+| [30 May–4 June 2024](2024-06-04-Sagalytics.html) | Sagalytics <br> L-Orizzont | 50.9% | 48.4–53.4% | 47.7–54.2% | 47.1–54.8% | 45.9–56.0% |
+| [22 May–4 June 2024](2024-06-04-MaltaToday.html) | MaltaToday | 43.3% | 41.3–45.3% | 40.8–45.9% | 40.3–46.4% | 39.3–47.3% |
 | [20–24 May 2024](2024-05-24-Sagalytics.html) | Sagalytics <br> It-Torċa | 51.1% | 49.1–53.1% | 48.5–53.7% | 48.0–54.2% | 47.0–55.1% |
 | [13–21 May 2024](2024-05-21-MaltaToday.html) | MaltaToday | 50.8% | 47.8–53.8% | 46.9–54.6% | 46.2–55.3% | 44.7–56.8% |
 | [6–10 May 2024](2024-05-10-Sagalytics.html) | Sagalytics <br> It-Torċa | 51.0% | 48.6–53.5% | 47.9–54.1% | 47.3–54.7% | 46.1–55.9% |
@@ -92,23 +94,27 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 42.5–43.5% | 0% | 100% |  |
-| 43.5–44.5% | 0.1% | 100% |  |
-| 44.5–45.5% | 0.5% | 99.8% |  |
-| 45.5–46.5% | 1.2% | 99.3% |  |
-| 46.5–47.5% | 3% | 98% |  |
-| 47.5–48.5% | 6% | 95% |  |
-| 48.5–49.5% | 12% | 89% |  |
-| 49.5–50.5% | 18% | 77% |  |
-| 50.5–51.5% | 21% | 59% | Median |
-| 51.5–52.5% | 18% | 38% |  |
-| 52.5–53.5% | 11% | 20% | Last Result |
-| 53.5–54.5% | 6% | 9% |  |
-| 54.5–55.5% | 2% | 3% |  |
-| 55.5–56.5% | 0.8% | 1.1% |  |
-| 56.5–57.5% | 0.3% | 0.3% |  |
-| 57.5–58.5% | 0.1% | 0.1% |  |
-| 58.5–59.5% | 0% | 0% |  |
+| 37.5–38.5% | 0% | 100% |  |
+| 38.5–39.5% | 0.3% | 100% |  |
+| 39.5–40.5% | 1.5% | 99.6% |  |
+| 40.5–41.5% | 5% | 98% |  |
+| 41.5–42.5% | 9% | 94% |  |
+| 42.5–43.5% | 12% | 84% |  |
+| 43.5–44.5% | 11% | 72% |  |
+| 44.5–45.5% | 7% | 61% |  |
+| 45.5–46.5% | 3% | 54% |  |
+| 46.5–47.5% | 2% | 50% | Median |
+| 47.5–48.5% | 4% | 48% |  |
+| 48.5–49.5% | 6% | 44% |  |
+| 49.5–50.5% | 9% | 38% |  |
+| 50.5–51.5% | 10% | 29% |  |
+| 51.5–52.5% | 9% | 19% |  |
+| 52.5–53.5% | 6% | 10% | Last Result |
+| 53.5–54.5% | 3% | 5% |  |
+| 54.5–55.5% | 1.1% | 2% |  |
+| 55.5–56.5% | 0.3% | 0.4% |  |
+| 56.5–57.5% | 0.1% | 0.1% |  |
+| 57.5–58.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -120,6 +126,8 @@ Last result: **3** seats (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [30 May–4 June 2024](2024-06-04-Sagalytics.html) | Sagalytics <br> L-Orizzont | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [22 May–4 June 2024](2024-06-04-MaltaToday.html) | MaltaToday | 3 | 3 | 3 | 3 | 3 |
 | [20–24 May 2024](2024-05-24-Sagalytics.html) | Sagalytics <br> It-Torċa | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [13–21 May 2024](2024-05-21-MaltaToday.html) | MaltaToday | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [6–10 May 2024](2024-05-10-Sagalytics.html) | Sagalytics <br> It-Torċa | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -203,8 +211,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 83% | 100% | Last Result, Median |
-| 4 | 17% | 17% | Majority |
+| 2 | 0.1% | 100% |  |
+| 3 | 86% | 99.9% | Last Result, Median |
+| 4 | 14% | 14% | Majority |
 | 5 | 0% | 0% |  |
 
 
