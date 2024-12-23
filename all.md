@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | AD | AD+PD | PL | PD | PN | MPM | IE |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [5–13 November 2024](2024-11-13-MaltaToday.html) | MaltaToday | N/A <br> N/A | 3–6% <br> 0 | 42–49% <br> 3 | N/A <br> N/A | 43–50% <br> 3 | N/A <br> N/A | N/A <br> N/A |
 | [2–9 October 2024](2024-10-09-Sagalytics.html) | Sagalytics <br> It-Torċa | N/A <br> N/A | 3–6% <br> 0 | 45–52% <br> 3 | N/A <br> N/A | 41–48% <br> 3 | N/A <br> N/A | N/A <br> N/A |
 | [11–19 September 2024](2024-09-19-MaltaToday.html) | MaltaToday | N/A <br> N/A | 3–7% <br> 0 | 40–48% <br> 3 | N/A <br> N/A | 44–52% <br> 3 | N/A <br> N/A | N/A <br> N/A |
 | 8 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
