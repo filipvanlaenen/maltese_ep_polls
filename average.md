@@ -10,7 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | N/A <br> N/A | N/A <br> N/A | 48–56% <br> 3–4 | N/A <br> N/A | 41–49% <br> 2–3 | N/A <br> N/A | N/A <br> N/A |
-| [30 January–12 February 2025](2025-02-12-Esprimi.html) | Esprimi <br> Times of Malta | N/A <br> N/A | N/A <br> N/A | 47–55% <br> 3–4 | N/A <br> N/A | 41–49% <br> 2–3 | N/A <br> N/A | N/A <br> N/A |
+| [30 January–12 February 2025](2025-02-12-Esprimi.html) | Esprimi <br> Times of Malta | N/A <br> N/A | N/A <br> N/A | 48–55% <br> 3–4 | N/A <br> N/A | 41–49% <br> 2–3 | N/A <br> N/A | N/A <br> N/A |
 | 8 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -94,9 +94,9 @@ Only polls for which at least the sample size has been published are included in
 | 40.5–41.5% | 3% | 98.7% |  |
 | 41.5–42.5% | 7% | 96% |  |
 | 42.5–43.5% | 12% | 89% |  |
-| 43.5–44.5% | 18% | 77% |  |
+| 43.5–44.5% | 17% | 77% |  |
 | 44.5–45.5% | 20% | 59% | Median |
-| 45.5–46.5% | 17% | 39% |  |
+| 45.5–46.5% | 17% | 40% |  |
 | 46.5–47.5% | 12% | 22% |  |
 | 47.5–48.5% | 6% | 11% |  |
 | 48.5–49.5% | 3% | 4% |  |
@@ -158,13 +158,13 @@ Only polls for which at least the sample size has been published are included in
 | 43.5–44.5% | 0% | 100% |  |
 | 44.5–45.5% | 0.1% | 100% |  |
 | 45.5–46.5% | 0.6% | 99.8% |  |
-| 46.5–47.5% | 2% | 99.3% |  |
+| 46.5–47.5% | 2% | 99.2% |  |
 | 47.5–48.5% | 5% | 97% |  |
 | 48.5–49.5% | 10% | 93% |  |
 | 49.5–50.5% | 15% | 83% |  |
 | 50.5–51.5% | 19% | 68% | Median |
 | 51.5–52.5% | 19% | 49% |  |
-| 52.5–53.5% | 14% | 30% |  |
+| 52.5–53.5% | 15% | 30% |  |
 | 53.5–54.5% | 9% | 16% |  |
 | 54.5–55.5% | 4% | 7% |  |
 | 55.5–56.5% | 2% | 2% |  |
@@ -327,6 +327,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 1
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 1,048,576
-+ **Error estimate:** 0.43%
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 2,097,152
++ **Error estimate:** 0.50%
