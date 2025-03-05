@@ -2,14 +2,15 @@
 
 The table below lists all polls registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | AD | AD+PD | PL | PD | PN | MPM | IE |
-|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 8 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| [30 January–12 February 2025](2025-02-12-Esprimi.html) | Esprimi <br> Times of Malta | N/A <br> N/A | N/A <br> N/A | 48–55% <br> 3–4 | N/A <br> N/A | 41–49% <br> 2–3 | N/A <br> N/A | N/A <br> N/A |
-| [5–13 November 2024](2024-11-13-MaltaToday.html) | MaltaToday | N/A <br> N/A | 3–6% <br> 0 | 42–49% <br> 3 | N/A <br> N/A | 43–50% <br> 3 | N/A <br> N/A | N/A <br> N/A |
-| [2–9 October 2024](2024-10-09-Sagalytics.html) | Sagalytics <br> It-Torċa | N/A <br> N/A | 3–6% <br> 0 | 45–52% <br> 3 | N/A <br> N/A | 41–48% <br> 3 | N/A <br> N/A | N/A <br> N/A |
-| [11–19 September 2024](2024-09-19-MaltaToday.html) | MaltaToday | N/A <br> N/A | 3–7% <br> 0 | 40–48% <br> 3 | N/A <br> N/A | 44–52% <br> 3 | N/A <br> N/A | N/A <br> N/A |
-| 8 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| Period     | Polling firm/Commissioner(s) | AD | AD+PD | PL | PD | PN | MPM | IE | M |
+|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 8 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [30 January–12 February 2025](2025-02-12-Esprimi.html) | Esprimi <br> Times of Malta | N/A <br> N/A | N/A <br> N/A | 47–55% <br> 3–4 | N/A <br> N/A | 41–49% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [29–13 January 2025](2025-01-13-MaltaToday.html) | MaltaToday | N/A <br> N/A | 2–5% <br> 0 | 44–52% <br> 3 | N/A <br> N/A | 40–48% <br> 3 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0 |
+| [5–13 November 2024](2024-11-13-MaltaToday.html) | MaltaToday | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [2–9 October 2024](2024-10-09-Sagalytics.html) | Sagalytics <br> It-Torċa | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [11–19 September 2024](2024-09-19-MaltaToday.html) | MaltaToday | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| 8 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
 
@@ -23,6 +24,7 @@ Only polls for which at least the sample size has been published are included in
 + **PN:** Partit Nazzjonalista (EPP)
 + **MPM:** Moviment Patrijotti Maltin (PfE)
 + **IE:** Imperium Europa (*)
++ **M:** Partit Momentum (*)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
