@@ -10,11 +10,12 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 51.5% | 48.9–54.1% | 48.1–54.8% | 47.5–55.5% | 46.3–56.7% |
-| [30 January–12 February 2025](2025-02-12-Esprimi.html) | Esprimi <br> Times of Malta | 51.5% | 48.9–54.1% | 48.1–54.8% | 47.5–55.5% | 46.3–56.7% |
-| [5–13 November 2024](2024-11-13-MaltaToday.html) | MaltaToday | 45.3% | 42.9–47.7% | 42.3–48.4% | 41.7–49.0% | 40.6–50.2% |
-| [2–9 October 2024](2024-10-09-Sagalytics.html) | Sagalytics <br> It-Torċa | 48.2% | 46.0–50.5% | 45.4–51.2% | 44.8–51.7% | 43.7–52.8% |
-| [11–19 September 2024](2024-09-19-MaltaToday.html) | MaltaToday | 43.8% | 41.1–46.5% | 40.3–47.3% | 39.6–48.0% | 38.4–49.3% |
+| N/A | [Poll Average](average.html) | 49.8% | 46.6–53.2% | 45.7–54.1% | 45.0–54.8% | 43.8–56.2% |
+| [30 January–12 February 2025](2025-02-12-Esprimi.html) | Esprimi <br> Times of Malta | 51.5% | 48.9–54.1% | 48.1–54.8% | 47.5–55.5% | 46.2–56.7% |
+| [29–13 January 2025](2025-01-13-MaltaToday.html) | MaltaToday | 48.2% | 45.8–50.7% | 45.1–51.4% | 44.5–52.0% | 43.3–53.2% |
+| [5–13 November 2024](2024-11-13-MaltaToday.html) | MaltaToday | 45.3% | N/A | N/A | N/A | N/A |
+| [2–9 October 2024](2024-10-09-Sagalytics.html) | Sagalytics <br> It-Torċa | 48.2% | N/A | N/A | N/A | N/A |
+| [11–19 September 2024](2024-09-19-MaltaToday.html) | MaltaToday | 43.8% | N/A | N/A | N/A | N/A |
 
 ### Probability Mass Function
 
@@ -64,22 +65,22 @@ The following table shows the probability mass function per percentage block of 
 | 38.5–39.5% | 0% | 100% |  |
 | 39.5–40.5% | 0% | 100% |  |
 | 40.5–41.5% | 0% | 100% |  |
-| 41.5–42.5% | 0% | 100% |  |
-| 42.5–43.5% | 0% | 100% |  |
-| 43.5–44.5% | 0% | 100% |  |
-| 44.5–45.5% | 0.1% | 100% |  |
-| 45.5–46.5% | 0.6% | 99.8% |  |
-| 46.5–47.5% | 2% | 99.2% |  |
-| 47.5–48.5% | 5% | 97% |  |
-| 48.5–49.5% | 10% | 93% |  |
-| 49.5–50.5% | 15% | 83% |  |
-| 50.5–51.5% | 19% | 68% | Median |
-| 51.5–52.5% | 19% | 49% |  |
-| 52.5–53.5% | 15% | 30% |  |
-| 53.5–54.5% | 9% | 16% |  |
-| 54.5–55.5% | 4% | 7% |  |
-| 55.5–56.5% | 2% | 2% |  |
-| 56.5–57.5% | 0.5% | 0.6% |  |
+| 41.5–42.5% | 0.1% | 100% |  |
+| 42.5–43.5% | 0.3% | 99.9% |  |
+| 43.5–44.5% | 1.0% | 99.6% |  |
+| 44.5–45.5% | 3% | 98.6% |  |
+| 45.5–46.5% | 6% | 96% |  |
+| 46.5–47.5% | 10% | 90% |  |
+| 47.5–48.5% | 12% | 80% |  |
+| 48.5–49.5% | 14% | 68% |  |
+| 49.5–50.5% | 14% | 54% | Median |
+| 50.5–51.5% | 13% | 40% |  |
+| 51.5–52.5% | 11% | 27% |  |
+| 52.5–53.5% | 8% | 16% |  |
+| 53.5–54.5% | 5% | 8% |  |
+| 54.5–55.5% | 2% | 3% |  |
+| 55.5–56.5% | 0.8% | 1.1% |  |
+| 56.5–57.5% | 0.2% | 0.3% |  |
 | 57.5–58.5% | 0.1% | 0.1% |  |
 | 58.5–59.5% | 0% | 0% |  |
 
@@ -92,11 +93,12 @@ Last result: **0** seats (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3 | 3 | 3–4 | 3–4 |
+| N/A | [Poll Average](average.html) | 3 | 3 | 3 | 3 | 3–4 |
 | [30 January–12 February 2025](2025-02-12-Esprimi.html) | Esprimi <br> Times of Malta | 3 | 3 | 3 | 3–4 | 3–4 |
-| [5–13 November 2024](2024-11-13-MaltaToday.html) | MaltaToday | 3 | 3 | 3 | 3 | 3 |
-| [2–9 October 2024](2024-10-09-Sagalytics.html) | Sagalytics <br> It-Torċa | 3 | 3 | 3 | 3 | 3 |
-| [11–19 September 2024](2024-09-19-MaltaToday.html) | MaltaToday | 3 | 3 | 3 | 3 | 2–3 |
+| [29–13 January 2025](2025-01-13-MaltaToday.html) | MaltaToday | 3 | 3 | 3 | 3 | 3–4 |
+| [5–13 November 2024](2024-11-13-MaltaToday.html) | MaltaToday |  |  |  |  |  |
+| [2–9 October 2024](2024-10-09-Sagalytics.html) | Sagalytics <br> It-Torċa |  |  |  |  |  |
+| [11–19 September 2024](2024-09-19-MaltaToday.html) | MaltaToday |  |  |  |  |  |
 
 ### Probability Mass Function
 
@@ -109,8 +111,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 97% | 100% | Median |
-| 4 | 3% | 3% | Majority |
+| 3 | 98% | 100% | Median |
+| 4 | 2% | 2% | Majority |
 | 5 | 0% | 0% |  |
 
 
