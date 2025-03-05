@@ -11,8 +11,8 @@ Last result: **0.0%** (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.5% | 2.7–4.5% | 2.5–4.8% | 2.3–5.1% | 2.0–5.6% |
+| [29 January–13 February 2025](2025-02-13-MaltaToday.html) | MaltaToday | 3.4% | 2.7–4.5% | 2.5–4.8% | 2.3–5.1% | 2.0–5.7% |
 | [30 January–12 February 2025](2025-02-12-Esprimi.html) | Esprimi <br> Times of Malta | 0.0% | N/A | N/A | N/A | N/A |
-| [29–13 January 2025](2025-01-13-MaltaToday.html) | MaltaToday | 3.4% | 2.7–4.5% | 2.5–4.8% | 2.3–5.1% | 2.0–5.7% |
 | [5–13 November 2024](2024-11-13-MaltaToday.html) | MaltaToday | 4.0% | N/A | N/A | N/A | N/A |
 | [2–9 October 2024](2024-10-09-Sagalytics.html) | Sagalytics <br> It-Torċa | 4.0% | N/A | N/A | N/A | N/A |
 | [11–19 September 2024](2024-09-19-MaltaToday.html) | MaltaToday | 4.5% | N/A | N/A | N/A | N/A |
@@ -42,8 +42,8 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [29 January–13 February 2025](2025-02-13-MaltaToday.html) | MaltaToday | 0 | 0 | 0 | 0 | 0 |
 | [30 January–12 February 2025](2025-02-12-Esprimi.html) | Esprimi <br> Times of Malta |  |  |  |  |  |
-| [29–13 January 2025](2025-01-13-MaltaToday.html) | MaltaToday | 0 | 0 | 0 | 0 | 0 |
 | [5–13 November 2024](2024-11-13-MaltaToday.html) | MaltaToday |  |  |  |  |  |
 | [2–9 October 2024](2024-10-09-Sagalytics.html) | Sagalytics <br> It-Torċa |  |  |  |  |  |
 | [11–19 September 2024](2024-09-19-MaltaToday.html) | MaltaToday |  |  |  |  |  |

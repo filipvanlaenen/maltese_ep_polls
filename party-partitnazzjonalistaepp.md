@@ -11,8 +11,8 @@ Last result: **0.0%** (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 44.5% | 41.9–47.1% | 41.1–47.9% | 40.5–48.5% | 39.3–49.8% |
+| [29 January–13 February 2025](2025-02-13-MaltaToday.html) | MaltaToday | 43.9% | 41.5–46.4% | 40.8–47.1% | 40.2–47.7% | 39.0–48.9% |
 | [30 January–12 February 2025](2025-02-12-Esprimi.html) | Esprimi <br> Times of Malta | 45.0% | 42.4–47.6% | 41.7–48.4% | 41.1–49.0% | 39.8–50.3% |
-| [29–13 January 2025](2025-01-13-MaltaToday.html) | MaltaToday | 43.9% | 41.5–46.4% | 40.8–47.1% | 40.2–47.7% | 39.0–48.9% |
 | [5–13 November 2024](2024-11-13-MaltaToday.html) | MaltaToday | 46.3% | N/A | N/A | N/A | N/A |
 | [2–9 October 2024](2024-10-09-Sagalytics.html) | Sagalytics <br> It-Torċa | 44.1% | N/A | N/A | N/A | N/A |
 | [11–19 September 2024](2024-09-19-MaltaToday.html) | MaltaToday | 48.2% | N/A | N/A | N/A | N/A |
@@ -87,8 +87,8 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3 | 3 | 3 | 2–3 |
+| [29 January–13 February 2025](2025-02-13-MaltaToday.html) | MaltaToday | 3 | 3 | 3 | 3 | 2–3 |
 | [30 January–12 February 2025](2025-02-12-Esprimi.html) | Esprimi <br> Times of Malta | 3 | 3 | 3 | 2–3 | 2–3 |
-| [29–13 January 2025](2025-01-13-MaltaToday.html) | MaltaToday | 3 | 3 | 3 | 3 | 2–3 |
 | [5–13 November 2024](2024-11-13-MaltaToday.html) | MaltaToday |  |  |  |  |  |
 | [2–9 October 2024](2024-10-09-Sagalytics.html) | Sagalytics <br> It-Torċa |  |  |  |  |  |
 | [11–19 September 2024](2024-09-19-MaltaToday.html) | MaltaToday |  |  |  |  |  |
