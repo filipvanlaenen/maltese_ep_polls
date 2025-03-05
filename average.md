@@ -10,8 +10,8 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | N/A <br> N/A | 2–5% <br> 0 | 45–55% <br> 3 | N/A <br> N/A | 40–48% <br> 3 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0 |
+| [29 January–13 February 2025](2025-02-13-MaltaToday.html) | MaltaToday | N/A <br> N/A | 2–5% <br> 0 | 44–52% <br> 3 | N/A <br> N/A | 40–48% <br> 3 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0 |
 | [30 January–12 February 2025](2025-02-12-Esprimi.html) | Esprimi <br> Times of Malta | N/A <br> N/A | N/A <br> N/A | 47–55% <br> 3–4 | N/A <br> N/A | 41–49% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [29–13 January 2025](2025-01-13-MaltaToday.html) | MaltaToday | N/A <br> N/A | 2–5% <br> 0 | 44–52% <br> 3 | N/A <br> N/A | 40–48% <br> 3 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0 |
 | 8 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -107,6 +107,37 @@ Only polls for which at least the sample size has been published are included in
 | 50.5–51.5% | 0.1% | 0.2% |  |
 | 51.5–52.5% | 0% | 0% |  |
 
+### Partit Momentum (*)
+
+*For a full overview of the results for this party, see the [Partit Momentum (*)](party-partitmomentum.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 0.0–0.5% | 0% | 100% | Last Result |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 0.9% | 100% |  |
+| 2.5–3.5% | 21% | 99.1% |  |
+| 3.5–4.5% | 49% | 78% | Median |
+| 4.5–5.5% | 24% | 28% |  |
+| 5.5–6.5% | 4% | 4% |  |
+| 6.5–7.5% | 0.3% | 0.3% |  |
+| 7.5–8.5% | 0% | 0% |  |
+
+### Alternattiva Demokratika–Partit Demokratiku (Greens/EFA)
+
+*For a full overview of the results for this party, see the [Alternattiva Demokratika–Partit Demokratiku (Greens/EFA)](party-alternattivademokratika–partitdemokratikugreensefa.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 0.0–0.5% | 0% | 100% | Last Result |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 6% | 100% |  |
+| 2.5–3.5% | 46% | 94% |  |
+| 3.5–4.5% | 39% | 48% | Median |
+| 4.5–5.5% | 8% | 9% |  |
+| 5.5–6.5% | 0.7% | 0.7% |  |
+| 6.5–7.5% | 0% | 0% |  |
+
 ### Partit Laburista (S&D)
 
 *For a full overview of the results for this party, see the [Partit Laburista (S&D)](party-partitlaburistasd.html) page.*
@@ -173,37 +204,6 @@ Only polls for which at least the sample size has been published are included in
 | 56.5–57.5% | 0.2% | 0.3% |  |
 | 57.5–58.5% | 0.1% | 0.1% |  |
 | 58.5–59.5% | 0% | 0% |  |
-
-### Partit Momentum (*)
-
-*For a full overview of the results for this party, see the [Partit Momentum (*)](party-partitmomentum.html) page.*
-
-| Voting Intentions | Probability | Accumulated | Special Marks |
-|:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.9% | 100% |  |
-| 2.5–3.5% | 21% | 99.1% |  |
-| 3.5–4.5% | 49% | 78% | Median |
-| 4.5–5.5% | 24% | 28% |  |
-| 5.5–6.5% | 4% | 4% |  |
-| 6.5–7.5% | 0.3% | 0.3% |  |
-| 7.5–8.5% | 0% | 0% |  |
-
-### Alternattiva Demokratika–Partit Demokratiku (Greens/EFA)
-
-*For a full overview of the results for this party, see the [Alternattiva Demokratika–Partit Demokratiku (Greens/EFA)](party-alternattivademokratika–partitdemokratikugreensefa.html) page.*
-
-| Voting Intentions | Probability | Accumulated | Special Marks |
-|:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 6% | 100% |  |
-| 2.5–3.5% | 46% | 94% |  |
-| 3.5–4.5% | 39% | 48% | Median |
-| 4.5–5.5% | 8% | 9% |  |
-| 5.5–6.5% | 0.7% | 0.7% |  |
-| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
