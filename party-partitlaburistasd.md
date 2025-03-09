@@ -12,7 +12,7 @@ Last result: **0.0%** (General Election of 8 June 2024)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 49.8% | 46.6–53.2% | 45.7–54.1% | 45.0–54.8% | 43.8–56.2% |
 | [29 January–13 February 2025](2025-02-13-MaltaToday.html) | MaltaToday | 48.2% | 45.8–50.7% | 45.1–51.4% | 44.5–52.0% | 43.3–53.2% |
-| [30 January–12 February 2025](2025-02-12-Esprimi.html) | Esprimi <br> Times of Malta | 51.5% | 48.9–54.1% | 48.1–54.8% | 47.5–55.5% | 46.2–56.7% |
+| [30 January–12 February 2025](2025-02-12-Esprimi.html) | Esprimi <br> Times of Malta | 51.5% | 48.9–54.1% | 48.1–54.8% | 47.5–55.5% | 46.3–56.7% |
 | [5–13 November 2024](2024-11-13-MaltaToday.html) | MaltaToday | 45.3% | N/A | N/A | N/A | N/A |
 | [2–9 October 2024](2024-10-09-Sagalytics.html) | Sagalytics <br> It-Torċa | 48.2% | N/A | N/A | N/A | N/A |
 | [11–19 September 2024](2024-09-19-MaltaToday.html) | MaltaToday | 43.8% | N/A | N/A | N/A | N/A |
@@ -71,7 +71,7 @@ The following table shows the probability mass function per percentage block of 
 | 44.5–45.5% | 3% | 98.6% |  |
 | 45.5–46.5% | 6% | 96% |  |
 | 46.5–47.5% | 10% | 90% |  |
-| 47.5–48.5% | 12% | 80% |  |
+| 47.5–48.5% | 13% | 80% |  |
 | 48.5–49.5% | 14% | 68% |  |
 | 49.5–50.5% | 14% | 54% | Median |
 | 50.5–51.5% | 13% | 40% |  |

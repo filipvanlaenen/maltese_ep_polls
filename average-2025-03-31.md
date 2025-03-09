@@ -11,7 +11,7 @@ The table below lists the polls on which the average is based. They are the most
 | 8 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | N/A <br> N/A | 2–5% <br> 0 | 45–55% <br> 3 | N/A <br> N/A | 40–48% <br> 3 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0 |
 | [29 January–13 February 2025](2025-02-13-MaltaToday.html) | MaltaToday | N/A <br> N/A | 2–5% <br> 0 | 44–52% <br> 3 | N/A <br> N/A | 40–48% <br> 3 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0 |
-| [30 January–12 February 2025](2025-02-12-Esprimi.html) | Esprimi <br> Times of Malta | N/A <br> N/A | N/A <br> N/A | 47–55% <br> 3–4 | N/A <br> N/A | 41–49% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [30 January–12 February 2025](2025-02-12-Esprimi.html) | Esprimi <br> Times of Malta | N/A <br> N/A | N/A <br> N/A | 48–55% <br> 3–4 | N/A <br> N/A | 41–49% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 8 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -42,7 +42,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#alternattiva-demokratika–partit-demokratiku-(greens/efa)">Alternattiva Demokratika–Partit Demokratiku (Greens/EFA)</a> | 0.0% | 3.5% | 2.7–4.5% |2.5–4.8% | 2.3–5.1% | 2.0–5.6% |
 | <a href="#partit-laburista-(s&d)">Partit Laburista (S&D)</a> | 0.0% | 49.8% | 46.6–53.2% |45.7–54.1% | 45.0–54.8% | 43.8–56.2% |
 | <a href="#partit-demokratiku-(re)">Partit Demokratiku (RE)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#partit-nazzjonalista-(epp)">Partit Nazzjonalista (EPP)</a> | 0.0% | 44.5% | 41.9–47.1% |41.1–47.9% | 40.5–48.5% | 39.3–49.8% |
+| <a href="#partit-nazzjonalista-(epp)">Partit Nazzjonalista (EPP)</a> | 0.0% | 44.4% | 41.9–47.1% |41.1–47.9% | 40.5–48.5% | 39.3–49.8% |
 | <a href="#moviment-patrijotti-maltin-(pfe)">Moviment Patrijotti Maltin (PfE)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#imperium-europa-(*)">Imperium Europa (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#partit-momentum-(*)">Partit Momentum (*)</a> | 0.0% | 4.1% | 3.2–5.2% |3.0–5.5% | 2.8–5.8% | 2.4–6.4% |
@@ -92,18 +92,18 @@ Only polls for which at least the sample size has been published are included in
 | 35.5–36.5% | 0% | 100% |  |
 | 36.5–37.5% | 0% | 100% |  |
 | 37.5–38.5% | 0.1% | 100% |  |
-| 38.5–39.5% | 0.6% | 99.9% |  |
+| 38.5–39.5% | 0.5% | 99.9% |  |
 | 39.5–40.5% | 2% | 99.3% |  |
 | 40.5–41.5% | 5% | 97% |  |
 | 41.5–42.5% | 10% | 93% |  |
 | 42.5–43.5% | 15% | 83% |  |
 | 43.5–44.5% | 19% | 67% | Median |
 | 44.5–45.5% | 18% | 48% |  |
-| 45.5–46.5% | 14% | 29% |  |
+| 45.5–46.5% | 14% | 30% |  |
 | 46.5–47.5% | 9% | 15% |  |
 | 47.5–48.5% | 4% | 7% |  |
 | 48.5–49.5% | 2% | 2% |  |
-| 49.5–50.5% | 0.6% | 0.7% |  |
+| 49.5–50.5% | 0.5% | 0.7% |  |
 | 50.5–51.5% | 0.1% | 0.2% |  |
 | 51.5–52.5% | 0% | 0% |  |
 
@@ -192,7 +192,7 @@ Only polls for which at least the sample size has been published are included in
 | 44.5–45.5% | 3% | 98.6% |  |
 | 45.5–46.5% | 6% | 96% |  |
 | 46.5–47.5% | 10% | 90% |  |
-| 47.5–48.5% | 12% | 80% |  |
+| 47.5–48.5% | 13% | 80% |  |
 | 48.5–49.5% | 14% | 68% |  |
 | 49.5–50.5% | 14% | 54% | Median |
 | 50.5–51.5% | 13% | 40% |  |
@@ -375,6 +375,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 2
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 3,145,728
-+ **Error estimate:** 0.43%
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 4,194,304
++ **Error estimate:** 0.50%
