@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/maltese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 06 Mar 2025 20:07:07 +0100</pubDate>
+    <pubDate>Sun, 09 Mar 2025 22:05:55 +0100</pubDate>
     <item>
       <title>Opinion Poll by MaltaToday, 29 January–13 February 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/maltese_ep_polls/2025-02-13-MaltaToday.html#seats</link>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2025-02-12-Esprimi-seats.png"
         length="122015"
         type="image/png"/>
-      <pubDate>Wed, 05 Mar 2025 18:47:35 +0100</pubDate>
-      <dc:date>2025-03-05T18:47:35.602091+01:00</dc:date>
+      <pubDate>Sun, 09 Mar 2025 22:05:55 +0100</pubDate>
+      <dc:date>2025-03-09T22:05:55.220052+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Esprimi for Times of Malta, 30 January–12 February 2025 – Seat Projections for a Selection of Coalitions</title>
@@ -56,19 +56,19 @@
       <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2025-02-12-Esprimi-coalitions-seats.png"
         length="127477"
         type="image/png"/>
-      <pubDate>Wed, 05 Mar 2025 18:47:35 +0100</pubDate>
-      <dc:date>2025-03-05T18:47:35.602091+01:00</dc:date>
+      <pubDate>Sun, 09 Mar 2025 22:05:55 +0100</pubDate>
+      <dc:date>2025-03-09T22:05:55.220052+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Esprimi for Times of Malta, 30 January–12 February 2025 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/maltese_ep_polls/2025-02-12-Esprimi.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 41.1–49.0%&lt;/li&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 47.5–55.5%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2025-02-12-Esprimi.png"
-        length="124853"
+        length="125503"
         type="image/png"/>
-      <pubDate>Wed, 05 Mar 2025 18:47:35 +0100</pubDate>
-      <dc:date>2025-03-05T18:47:35.602091+01:00</dc:date>
+      <pubDate>Sun, 09 Mar 2025 22:05:55 +0100</pubDate>
+      <dc:date>2025-03-09T22:05:55.220052+01:00</dc:date>
     </item>
-    <dc:date>2025-03-06T20:07:07.973058+01:00</dc:date>
+    <dc:date>2025-03-09T22:05:55.220052+01:00</dc:date>
   </channel>
 </rss>
