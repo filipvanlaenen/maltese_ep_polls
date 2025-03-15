@@ -7,6 +7,7 @@ The table below lists all polls registered and analyzed so far.
 | 8 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | [29 January–13 February 2025](2025-02-13-MaltaToday.html) | MaltaToday | N/A <br> N/A | 2–5% <br> 0 | 44–52% <br> 3 | N/A <br> N/A | 40–48% <br> 3 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0 |
 | [30 January–12 February 2025](2025-02-12-Esprimi.html) | Esprimi <br> Times of Malta | N/A <br> N/A | N/A <br> N/A | 48–55% <br> 3–4 | N/A <br> N/A | 41–49% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [1–6 February 2025](2025-02-06-Sagalytics.html) | Sagalytics | N/A <br> N/A | 2–4% <br> 0 | 47–53% <br> 3 | N/A <br> N/A | 41–47% <br> 3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [5–13 November 2024](2024-11-13-MaltaToday.html) | MaltaToday | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [2–9 October 2024](2024-10-09-Sagalytics.html) | Sagalytics <br> It-Torċa | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [11–19 September 2024](2024-09-19-MaltaToday.html) | MaltaToday | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
