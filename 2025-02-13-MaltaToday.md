@@ -10,10 +10,10 @@
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partit Laburista (S&D) | 0.0% | 48.2% | 45.8–50.7% |45.1–51.4% |44.5–52.0% |43.3–53.2% |
-| Partit Nazzjonalista (EPP) | 0.0% | 43.9% | 41.5–46.4% |40.8–47.1% |40.2–47.7% |39.0–48.9% |
-| Partit Momentum (*) | 0.0% | 4.0% | 3.2–5.2% |3.0–5.5% |2.8–5.8% |2.4–6.4% |
-| Alternattiva Demokratika–Partit Demokratiku (Greens/EFA) | 0.0% | 3.4% | 2.7–4.5% |2.5–4.8% |2.3–5.1% |2.0–5.7% |
+| Partit Laburista (S&D) | 0.0% | 48.1% | 45.3–51.0% |44.5–51.8% |43.8–52.5% |42.5–53.8% |
+| Partit Nazzjonalista (EPP) | 0.0% | 44.0% | 41.2–46.8% |40.4–47.6% |39.7–48.3% |38.4–49.7% |
+| Partit Momentum (*) | 0.0% | 3.9% | 3.0–5.3% |2.8–5.7% |2.6–6.0% |2.2–6.7% |
+| Alternattiva Demokratika–Partit Demokratiku (Greens/EFA) | 0.0% | 3.4% | 2.5–4.6% |2.3–5.0% |2.1–5.3% |1.8–6.0% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -43,8 +43,8 @@
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 99.2% | 100% | Median |
-| 4 | 0.8% | 0.8% | Majority |
+| 3 | 98% | 100% | Median |
+| 4 | 2% | 2% | Majority |
 | 5 | 0% | 0% |  |
 
 ### Partit Nazzjonalista (EPP)
@@ -57,8 +57,8 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 0.8% | 100% |  |
-| 3 | 99.2% | 99.2% | Median |
+| 2 | 2% | 100% |  |
+| 3 | 98% | 98% | Median |
 | 4 | 0% | 0% | Majority |
 
 ### Partit Momentum (*)
@@ -90,7 +90,7 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partit Laburista (S&D) | 0 | 3 | 0.8% | 3 | 3 | 3 | 3–4 |
+| Partit Laburista (S&D) | 0 | 3 | 2% | 3 | 3 | 3 | 3–4 |
 | Partit Nazzjonalista (EPP) | 0 | 3 | 0% | 3 | 3 | 3 | 2–3 |
 
 ### Partit Laburista (S&D)
@@ -102,8 +102,8 @@
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 99.2% | 100% | Median |
-| 4 | 0.8% | 0.8% | Majority |
+| 3 | 98% | 100% | Median |
+| 4 | 2% | 2% | Majority |
 | 5 | 0% | 0% |  |
 
 ### Partit Nazzjonalista (EPP)
@@ -114,8 +114,8 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 0.8% | 100% |  |
-| 3 | 99.2% | 99.2% | Median |
+| 2 | 2% | 100% |  |
+| 3 | 98% | 98% | Median |
 | 4 | 0% | 0% | Majority |
 
 
@@ -129,7 +129,7 @@
 
 ### Calculations
 
-+ **Sample size:** 672
-+ **Simulations done:** 2,097,152
-+ **Error estimate:** 0.21%
++ **Sample size:** 507
++ **Simulations done:** 1,048,576
++ **Error estimate:** 1.19%
 
