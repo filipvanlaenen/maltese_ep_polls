@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/maltese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 04 May 2025 12:27:23 +0200</pubDate>
+    <pubDate>Fri, 20 Jun 2025 17:27:23 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by MaltaToday, 28 May–6 June 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2025-06-06-MaltaToday.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Momentum (*): 0 seats&lt;/li&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Alternattiva Demokratika–Partit Demokratiku (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2025-06-06-MaltaToday-seats.png"
+        length="152375"
+        type="image/png"/>
+      <pubDate>Fri, 20 Jun 2025 17:27:23 +0200</pubDate>
+      <dc:date>2025-06-20T17:27:23.652394+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MaltaToday, 28 May–6 June 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2025-06-06-MaltaToday.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2025-06-06-MaltaToday-coalitions-seats.png"
+        length="118906"
+        type="image/png"/>
+      <pubDate>Fri, 20 Jun 2025 17:27:23 +0200</pubDate>
+      <dc:date>2025-06-20T17:27:23.652394+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MaltaToday, 28 May–6 June 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2025-06-06-MaltaToday.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Momentum (*): 2.0–4.7%&lt;/li&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 36.0–43.5%&lt;/li&gt;&lt;li&gt;Alternattiva Demokratika–Partit Demokratiku (Greens/EFA): 0.8–2.8%&lt;/li&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 49.5–57.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2025-06-06-MaltaToday.png"
+        length="173809"
+        type="image/png"/>
+      <pubDate>Fri, 20 Jun 2025 17:27:23 +0200</pubDate>
+      <dc:date>2025-06-20T17:27:23.652394+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by MaltaToday, 28 March–8 April 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/maltese_ep_polls/2025-04-08-MaltaToday.html#seats</link>
@@ -129,6 +159,6 @@
       <pubDate>Sat, 15 Mar 2025 15:46:59 +0100</pubDate>
       <dc:date>2025-03-15T15:46:59.771813+01:00</dc:date>
     </item>
-    <dc:date>2025-05-04T12:27:23.524293+02:00</dc:date>
+    <dc:date>2025-06-20T17:27:23.652394+02:00</dc:date>
   </channel>
 </rss>
