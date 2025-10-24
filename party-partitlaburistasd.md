@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 53.3% | 50.8–55.8% | 50.1–56.5% | 49.5–57.1% | 48.3–58.3% |
+| N/A | [Poll Average](average.html) | 48.7% | 46.4–51.1% | 45.7–51.7% | 45.1–52.3% | 44.0–53.4% |
+| [24 September–2 October 2025](2025-10-02-MaltaToday.html) | MaltaToday | 48.7% | 46.4–51.1% | 45.7–51.7% | 45.1–52.3% | 44.0–53.4% |
 | [28 May–6 June 2025](2025-06-06-MaltaToday.html) | MaltaToday | 53.3% | 50.8–55.8% | 50.1–56.5% | 49.5–57.1% | 48.3–58.3% |
 | [28 March–8 April 2025](2025-04-08-MaltaToday.html) | MaltaToday | 51.6% | 49.1–54.1% | 48.4–54.8% | 47.8–55.4% | 46.6–56.6% |
 | [29 January–13 February 2025](2025-02-13-MaltaToday.html) | MaltaToday | 48.1% | 45.3–51.0% | 44.5–51.8% | 43.8–52.5% | 42.5–53.8% |
@@ -69,25 +70,20 @@ The following table shows the probability mass function per percentage block of 
 | 39.5–40.5% | 0% | 100% |  |
 | 40.5–41.5% | 0% | 100% |  |
 | 41.5–42.5% | 0% | 100% |  |
-| 42.5–43.5% | 0% | 100% |  |
-| 43.5–44.5% | 0% | 100% |  |
-| 44.5–45.5% | 0% | 100% |  |
-| 45.5–46.5% | 0% | 100% |  |
-| 46.5–47.5% | 0.1% | 100% |  |
-| 47.5–48.5% | 0.6% | 99.8% |  |
-| 48.5–49.5% | 2% | 99.3% |  |
-| 49.5–50.5% | 5% | 97% |  |
-| 50.5–51.5% | 10% | 92% |  |
-| 51.5–52.5% | 17% | 82% |  |
-| 52.5–53.5% | 20% | 65% | Median |
-| 53.5–54.5% | 19% | 45% |  |
-| 54.5–55.5% | 14% | 26% |  |
-| 55.5–56.5% | 8% | 13% |  |
-| 56.5–57.5% | 3% | 5% |  |
-| 57.5–58.5% | 1.1% | 1.5% |  |
-| 58.5–59.5% | 0.3% | 0.4% |  |
-| 59.5–60.5% | 0.1% | 0.1% |  |
-| 60.5–61.5% | 0% | 0% |  |
+| 42.5–43.5% | 0.2% | 100% |  |
+| 43.5–44.5% | 0.9% | 99.8% |  |
+| 44.5–45.5% | 3% | 98.9% |  |
+| 45.5–46.5% | 8% | 96% |  |
+| 46.5–47.5% | 14% | 88% |  |
+| 47.5–48.5% | 20% | 74% |  |
+| 48.5–49.5% | 21% | 54% | Median |
+| 49.5–50.5% | 17% | 33% |  |
+| 50.5–51.5% | 10% | 16% |  |
+| 51.5–52.5% | 4% | 6% |  |
+| 52.5–53.5% | 1.4% | 2% |  |
+| 53.5–54.5% | 0.3% | 0.4% |  |
+| 54.5–55.5% | 0.1% | 0.1% |  |
+| 55.5–56.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -98,7 +94,8 @@ Last result: **0** seats (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| N/A | [Poll Average](average.html) | 3 | 3 | 3 | 3 | 3 |
+| [24 September–2 October 2025](2025-10-02-MaltaToday.html) | MaltaToday | 3 | 3 | 3 | 3 | 3 |
 | [28 May–6 June 2025](2025-06-06-MaltaToday.html) | MaltaToday | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [28 March–8 April 2025](2025-04-08-MaltaToday.html) | MaltaToday | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [29 January–13 February 2025](2025-02-13-MaltaToday.html) | MaltaToday | 3 | 3 | 3 | 3 | 3–4 |
@@ -119,8 +116,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 47% | 100% |  |
-| 4 | 53% | 53% | Median, Majority |
+| 3 | 99.9% | 100% | Median |
+| 4 | 0.1% | 0.1% | Majority |
 | 5 | 0% | 0% |  |
 
 
