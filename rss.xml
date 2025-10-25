@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/maltese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 24 Oct 2025 20:08:36 +0200</pubDate>
+    <pubDate>Sat, 25 Oct 2025 00:09:06 +0200</pubDate>
     <item>
       <title>Opinion Poll by MaltaToday, 24 September–2 October 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/maltese_ep_polls/2025-10-02-MaltaToday.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2025-10-02-MaltaToday-seats.png"
         length="126217"
         type="image/png"/>
-      <pubDate>Fri, 24 Oct 2025 20:08:36 +0200</pubDate>
-      <dc:date>2025-10-24T20:08:36.204009+02:00</dc:date>
+      <pubDate>Sat, 25 Oct 2025 00:09:06 +0200</pubDate>
+      <dc:date>2025-10-25T00:09:06.947031+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MaltaToday, 24 September–2 October 2025 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2025-10-02-MaltaToday-coalitions-seats.png"
         length="94972"
         type="image/png"/>
-      <pubDate>Fri, 24 Oct 2025 20:08:36 +0200</pubDate>
-      <dc:date>2025-10-24T20:08:36.204009+02:00</dc:date>
+      <pubDate>Sat, 25 Oct 2025 00:09:06 +0200</pubDate>
+      <dc:date>2025-10-25T00:09:06.947031+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MaltaToday, 24 September–2 October 2025 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2025-10-02-MaltaToday.png"
         length="180186"
         type="image/png"/>
-      <pubDate>Fri, 24 Oct 2025 20:08:36 +0200</pubDate>
-      <dc:date>2025-10-24T20:08:36.204009+02:00</dc:date>
+      <pubDate>Sat, 25 Oct 2025 00:09:06 +0200</pubDate>
+      <dc:date>2025-10-25T00:09:06.947031+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MaltaToday, 28 May–6 June 2025 – Seat Projections for the Parties</title>
@@ -189,6 +189,6 @@
       <pubDate>Sat, 15 Mar 2025 15:46:59 +0100</pubDate>
       <dc:date>2025-03-15T15:46:59.771813+01:00</dc:date>
     </item>
-    <dc:date>2025-10-24T20:08:36.204009+02:00</dc:date>
+    <dc:date>2025-10-25T00:09:06.947031+02:00</dc:date>
   </channel>
 </rss>
