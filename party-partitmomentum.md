@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.1% | 1.4–2.9% | 1.3–3.2% | 1.2–3.4% | 0.9–3.9% |
+| [13–20 November 2025](2025-11-20-Sagalytics.html) | Sagalytics | 0.0% | N/A | N/A | N/A | N/A |
 | [24 September–2 October 2025](2025-10-02-MaltaToday.html) | MaltaToday | 2.0% | 1.4–2.9% | 1.3–3.2% | 1.1–3.4% | 0.9–3.9% |
 | [28 May–6 June 2025](2025-06-06-MaltaToday.html) | MaltaToday | 3.1% | 2.4–4.2% | 2.2–4.5% | 2.0–4.7% | 1.7–5.3% |
 | [28 March–8 April 2025](2025-04-08-MaltaToday.html) | MaltaToday | 2.2% | 1.6–3.1% | 1.4–3.3% | 1.3–3.6% | 1.1–4.1% |
@@ -45,6 +46,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [13–20 November 2025](2025-11-20-Sagalytics.html) | Sagalytics |  |  |  |  |  |
 | [24 September–2 October 2025](2025-10-02-MaltaToday.html) | MaltaToday | 0 | 0 | 0 | 0 | 0 |
 | [28 May–6 June 2025](2025-06-06-MaltaToday.html) | MaltaToday | 0 | 0 | 0 | 0 | 0 |
 | [28 March–8 April 2025](2025-04-08-MaltaToday.html) | MaltaToday | 0 | 0 | 0 | 0 | 0 |
