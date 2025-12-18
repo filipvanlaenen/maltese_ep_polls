@@ -5,7 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | AD | AD+PD | PL | PD | PN | MPM | IE | M |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | N/A <br> N/A | 2–4% <br> 0 | 45–53% <br> 3 | N/A <br> N/A | 42–50% <br> 3 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 |
+| N/A | [Poll Average](average.html) | N/A <br> N/A | 1–4% <br> 0 | 45–55% <br> 3 | N/A <br> N/A | 41–49% <br> 3 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 |
+| [13–20 November 2025](2025-11-20-Sagalytics.html) | Sagalytics | N/A <br> N/A | 1–3% <br> 0 | 50–55% <br> 3–4 | N/A <br> N/A | 41–46% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [24 September–2 October 2025](2025-10-02-MaltaToday.html) | MaltaToday | N/A <br> N/A | 2–4% <br> 0 | 45–53% <br> 3 | N/A <br> N/A | 42–50% <br> 3 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 |
 | 8 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
