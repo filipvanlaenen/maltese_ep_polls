@@ -13,8 +13,8 @@ Last result: **0.0%** (General Election of 8 June 2024)
 | N/A | [Poll Average](average.html) | 2.1% | 1.4–3.2% | 1.3–3.5% | 1.2–3.8% | 1.0–4.4% |
 | [13–20 November 2025](2025-11-20-Sagalytics.html) | Sagalytics | 1.7% | 1.3–2.3% | 1.2–2.4% | 1.1–2.6% | 0.9–2.9% |
 | [24 September–2 October 2025](2025-10-02-MaltaToday.html) | MaltaToday | 2.5% | 1.8–3.5% | 1.7–3.8% | 1.5–4.1% | 1.2–4.6% |
-| [28 May–6 June 2025](2025-06-06-MaltaToday.html) | MaltaToday | 1.5% | 1.1–2.4% | 0.9–2.6% | 0.8–2.8% | 0.7–3.3% |
-| [28 March–8 April 2025](2025-04-08-MaltaToday.html) | MaltaToday | 1.5% | 1.1–2.4% | 0.9–2.6% | 0.8–2.8% | 0.7–3.3% |
+| [28 May–6 June 2025](2025-06-06-MaltaToday.html) | MaltaToday | 1.7% | 1.1–2.4% | 0.9–2.6% | 0.8–2.8% | 0.7–3.3% |
+| [28 March–8 April 2025](2025-04-08-MaltaToday.html) | MaltaToday | 1.6% | 1.1–2.4% | 0.9–2.6% | 0.8–2.8% | 0.7–3.3% |
 | [29 January–13 February 2025](2025-02-13-MaltaToday.html) | MaltaToday | 3.4% | 2.5–4.6% | 2.3–5.0% | 2.1–5.3% | 1.8–6.0% |
 | [30 January–12 February 2025](2025-02-12-Esprimi.html) | Esprimi <br> Times of Malta | 0.0% | N/A | N/A | N/A | N/A |
 | [1–6 February 2025](2025-02-06-Sagalytics.html) | Sagalytics | 3.0% | 2.5–3.7% | 2.3–3.9% | 2.2–4.1% | 1.9–4.5% |

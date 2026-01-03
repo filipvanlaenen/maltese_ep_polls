@@ -14,7 +14,7 @@ Last result: **0.0%** (General Election of 8 June 2024)
 | [13–20 November 2025](2025-11-20-Sagalytics.html) | Sagalytics | 52.3% | 50.5–54.2% | 50.0–54.7% | 49.5–55.1% | 48.6–56.0% |
 | [24 September–2 October 2025](2025-10-02-MaltaToday.html) | MaltaToday | 48.8% | 46.2–51.4% | 45.4–52.1% | 44.8–52.7% | 43.6–54.0% |
 | [28 May–6 June 2025](2025-06-06-MaltaToday.html) | MaltaToday | 53.3% | 50.8–55.8% | 50.1–56.5% | 49.5–57.1% | 48.3–58.3% |
-| [28 March–8 April 2025](2025-04-08-MaltaToday.html) | MaltaToday | 51.6% | 49.1–54.1% | 48.4–54.8% | 47.8–55.4% | 46.6–56.6% |
+| [28 March–8 April 2025](2025-04-08-MaltaToday.html) | MaltaToday | 51.7% | 49.1–54.1% | 48.4–54.8% | 47.8–55.4% | 46.6–56.6% |
 | [29 January–13 February 2025](2025-02-13-MaltaToday.html) | MaltaToday | 48.1% | 45.3–51.0% | 44.5–51.8% | 43.8–52.5% | 42.5–53.8% |
 | [30 January–12 February 2025](2025-02-12-Esprimi.html) | Esprimi <br> Times of Malta | 51.5% | 48.9–54.1% | 48.1–54.8% | 47.5–55.5% | 46.3–56.7% |
 | [1–6 February 2025](2025-02-06-Sagalytics.html) | Sagalytics | 50.1% | 48.2–51.9% | 47.7–52.5% | 47.3–52.9% | 46.4–53.8% |
