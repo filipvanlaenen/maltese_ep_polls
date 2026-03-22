@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/maltese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 11 Feb 2026 18:57:19 +0100</pubDate>
+    <pubDate>Sun, 22 Mar 2026 14:24:24 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Sagalytics for The Malta Independent, 13–19 February 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2026-02-19-Sagalytics.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2026-02-19-Sagalytics-seats.png"
+        length="123560"
+        type="image/png"/>
+      <pubDate>Sun, 22 Mar 2026 14:24:24 +0100</pubDate>
+      <dc:date>2026-03-22T14:24:24.470705+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sagalytics for The Malta Independent, 13–19 February 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2026-02-19-Sagalytics.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2026-02-19-Sagalytics-coalitions-seats.png"
+        length="128688"
+        type="image/png"/>
+      <pubDate>Sun, 22 Mar 2026 14:24:24 +0100</pubDate>
+      <dc:date>2026-03-22T14:24:24.470705+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sagalytics for The Malta Independent, 13–19 February 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2026-02-19-Sagalytics.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 40.3–46.3%&lt;/li&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 50.1–56.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2026-02-19-Sagalytics.png"
+        length="123729"
+        type="image/png"/>
+      <pubDate>Sun, 22 Mar 2026 14:24:24 +0100</pubDate>
+      <dc:date>2026-03-22T14:24:24.470705+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by MaltaToday, 5–16 January 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/maltese_ep_polls/2026-01-16-MaltaToday.html#seats</link>
@@ -40,7 +70,7 @@
       <dc:date>2026-02-11T18:57:19.731994+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Sagalytics, 13–20 November 2025 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by Sagalytics for The Malta Independent, 13–20 November 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/maltese_ep_polls/2025-11-20-Sagalytics.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Alternattiva Demokratika–Partit Demokratiku (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2025-11-20-Sagalytics-seats.png"
@@ -50,7 +80,7 @@
       <dc:date>2025-12-18T18:06:46.172505+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Sagalytics, 13–20 November 2025 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by Sagalytics for The Malta Independent, 13–20 November 2025 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/maltese_ep_polls/2025-11-20-Sagalytics.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2025-11-20-Sagalytics-coalitions-seats.png"
@@ -60,7 +90,7 @@
       <dc:date>2025-12-18T18:06:46.172505+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Sagalytics, 13–20 November 2025 – Voting Intentions</title>
+      <title>Opinion Poll by Sagalytics for The Malta Independent, 13–20 November 2025 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/maltese_ep_polls/2025-11-20-Sagalytics.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 40.7–46.3%&lt;/li&gt;&lt;li&gt;Alternattiva Demokratika–Partit Demokratiku (Greens/EFA): 1.1–2.6%&lt;/li&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 49.5–55.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2025-11-20-Sagalytics.png"
@@ -249,6 +279,6 @@
       <pubDate>Sat, 15 Mar 2025 15:46:59 +0100</pubDate>
       <dc:date>2025-03-15T15:46:59.771813+01:00</dc:date>
     </item>
-    <dc:date>2026-02-11T18:57:19.731994+01:00</dc:date>
+    <dc:date>2026-03-22T14:24:24.470705+01:00</dc:date>
   </channel>
 </rss>
