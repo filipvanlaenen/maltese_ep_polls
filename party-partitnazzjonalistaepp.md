@@ -10,9 +10,10 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 44.5% | 42.2–47.3% | 41.6–48.0% | 41.1–48.6% | 40.2–49.8% |
+| N/A | [Poll Average](average.html) | 44.5% | 41.9–47.3% | 41.3–48.0% | 40.8–48.6% | 39.8–49.8% |
+| [13–19 February 2026](2026-02-19-Sagalytics.html) | Sagalytics <br> The Malta Independent | 43.3% | 41.4–45.3% | 40.8–45.8% | 40.3–46.3% | 39.4–47.2% |
 | [5–16 January 2026](2026-01-16-MaltaToday.html) | MaltaToday | 45.8% | 43.5–48.0% | 42.9–48.7% | 42.4–49.2% | 41.3–50.3% |
-| [13–20 November 2025](2025-11-20-Sagalytics.html) | Sagalytics | 43.5% | 41.7–45.3% | 41.2–45.9% | 40.7–46.3% | 39.9–47.2% |
+| [13–20 November 2025](2025-11-20-Sagalytics.html) | Sagalytics <br> The Malta Independent | 43.5% | 41.7–45.3% | 41.2–45.9% | 40.7–46.3% | 39.9–47.2% |
 | [24 September–2 October 2025](2025-10-02-MaltaToday.html) | MaltaToday | 45.8% | 43.2–48.4% | 42.5–49.1% | 41.9–49.8% | 40.6–51.0% |
 | [28 May–6 June 2025](2025-06-06-MaltaToday.html) | MaltaToday | 39.7% | 37.3–42.2% | 36.6–42.9% | 36.0–43.5% | 34.9–44.7% |
 | [28 March–8 April 2025](2025-04-08-MaltaToday.html) | MaltaToday | 42.8% | 40.4–45.4% | 39.7–46.1% | 39.1–46.7% | 37.9–47.9% |
@@ -68,13 +69,13 @@ The following table shows the probability mass function per percentage block of 
 | 35.5–36.5% | 0% | 100% |  |
 | 36.5–37.5% | 0% | 100% |  |
 | 37.5–38.5% | 0% | 100% |  |
-| 38.5–39.5% | 0.1% | 100% |  |
-| 39.5–40.5% | 0.8% | 99.9% |  |
-| 40.5–41.5% | 4% | 99.0% |  |
-| 41.5–42.5% | 10% | 95% |  |
-| 42.5–43.5% | 16% | 86% |  |
-| 43.5–44.5% | 20% | 69% |  |
-| 44.5–45.5% | 18% | 49% | Median |
+| 38.5–39.5% | 0.3% | 100% |  |
+| 39.5–40.5% | 1.5% | 99.7% |  |
+| 40.5–41.5% | 5% | 98% |  |
+| 41.5–42.5% | 11% | 93% |  |
+| 42.5–43.5% | 16% | 83% |  |
+| 43.5–44.5% | 19% | 67% | Median |
+| 44.5–45.5% | 17% | 48% |  |
 | 45.5–46.5% | 14% | 31% |  |
 | 46.5–47.5% | 9% | 17% |  |
 | 47.5–48.5% | 5% | 8% |  |
@@ -92,9 +93,10 @@ Last result: **0** seats (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3 | 3 | 3 | 2–3 |
+| N/A | [Poll Average](average.html) | 3 | 3 | 3 | 2–3 | 2–3 |
+| [13–19 February 2026](2026-02-19-Sagalytics.html) | Sagalytics <br> The Malta Independent | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [5–16 January 2026](2026-01-16-MaltaToday.html) | MaltaToday | 3 | 3 | 3 | 3 | 3 |
-| [13–20 November 2025](2025-11-20-Sagalytics.html) | Sagalytics | 3 | 3 | 3 | 2–3 | 2–3 |
+| [13–20 November 2025](2025-11-20-Sagalytics.html) | Sagalytics <br> The Malta Independent | 3 | 3 | 3 | 2–3 | 2–3 |
 | [24 September–2 October 2025](2025-10-02-MaltaToday.html) | MaltaToday | 3 | 3 | 3 | 3 | 3 |
 | [28 May–6 June 2025](2025-06-06-MaltaToday.html) | MaltaToday | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [28 March–8 April 2025](2025-04-08-MaltaToday.html) | MaltaToday | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -115,8 +117,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 2% | 100% |  |
-| 3 | 98% | 98% | Median |
+| 2 | 5% | 100% |  |
+| 3 | 95% | 95% | Median |
 | 4 | 0% | 0% | Majority |
 
 
