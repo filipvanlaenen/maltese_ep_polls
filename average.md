@@ -9,9 +9,10 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | AD | AD+PD | PL | PD | PN | MPM | IE | M |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | N/A <br> N/A | 2–4% <br> 0 | 46–56% <br> 3–4 | N/A <br> N/A | 41–49% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 |
+| N/A | Poll Average | N/A <br> N/A | 2–5% <br> 0 | 45–56% <br> 3–4 | N/A <br> N/A | 41–49% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | 1–4% <br> 0 |
+| [9 April 2026](2026-04-09-Esprimi.html) | Esprimi <br> Times of Malta | N/A <br> N/A | N/A <br> N/A | 47–56% <br> 3–4 | N/A <br> N/A | 41–49% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [23 February–6 March 2026](2026-03-06-MaltaToday.html) | MaltaToday | N/A <br> N/A | 2–5% <br> 0 | 44–52% <br> 3 | N/A <br> N/A | 42–50% <br> 3 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 |
 | [13–19 February 2026](2026-02-19-Sagalytics.html) | Sagalytics <br> The Malta Independent | N/A <br> N/A | N/A <br> N/A | 50–56% <br> 3–4 | N/A <br> N/A | 40–46% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [5–16 January 2026](2026-01-16-MaltaToday.html) | MaltaToday | N/A <br> N/A | 1–4% <br> 0 | 46–52% <br> 3 | N/A <br> N/A | 42–49% <br> 3 | N/A <br> N/A | N/A <br> N/A | 1–4% <br> 0 |
 | 8 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -39,13 +40,13 @@ Only polls for which at least the sample size has been published are included in
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#alternattiva-demokratika-(greens/efa)">Alternattiva Demokratika (Greens/EFA)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#alternattiva-demokratika–partit-demokratiku-(greens/efa)">Alternattiva Demokratika–Partit Demokratiku (Greens/EFA)</a> | 0.0% | 2.4% | 1.8–3.2% |1.6–3.4% | 1.5–3.6% | 1.3–4.1% |
-| <a href="#partit-laburista-(s&d)">Partit Laburista (S&D)</a> | 0.0% | 51.2% | 47.5–54.4% |46.7–55.1% | 46.1–55.6% | 44.9–56.7% |
+| <a href="#alternattiva-demokratika–partit-demokratiku-(greens/efa)">Alternattiva Demokratika–Partit Demokratiku (Greens/EFA)</a> | 0.0% | 3.7% | 2.8–4.8% |2.6–5.1% | 2.4–5.4% | 2.1–6.0% |
+| <a href="#partit-laburista-(s&d)">Partit Laburista (S&D)</a> | 0.0% | 51.2% | 47.0–54.4% |46.1–55.1% | 45.3–55.7% | 43.9–56.8% |
 | <a href="#partit-demokratiku-(re)">Partit Demokratiku (RE)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#partit-nazzjonalista-(epp)">Partit Nazzjonalista (EPP)</a> | 0.0% | 44.5% | 41.9–47.3% |41.3–48.0% | 40.8–48.6% | 39.8–49.8% |
+| <a href="#partit-nazzjonalista-(epp)">Partit Nazzjonalista (EPP)</a> | 0.0% | 44.6% | 42.0–47.6% |41.3–48.4% | 40.7–49.1% | 39.6–50.5% |
 | <a href="#moviment-patrijotti-maltin-(pfe)">Moviment Patrijotti Maltin (PfE)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#imperium-europa-(*)">Imperium Europa (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#partit-momentum-(*)">Partit Momentum (*)</a> | 0.0% | 2.4% | 1.8–3.2% |1.6–3.4% | 1.5–3.6% | 1.3–4.1% |
+| <a href="#partit-momentum-(*)">Partit Momentum (*)</a> | 0.0% | 2.2% | 1.5–3.0% |1.3–3.2% | 1.2–3.5% | 1.0–4.0% |
 
 ### Partit Nazzjonalista (EPP)
 
@@ -91,21 +92,22 @@ Only polls for which at least the sample size has been published are included in
 | 34.5–35.5% | 0% | 100% |  |
 | 35.5–36.5% | 0% | 100% |  |
 | 36.5–37.5% | 0% | 100% |  |
-| 37.5–38.5% | 0% | 100% |  |
-| 38.5–39.5% | 0.3% | 100% |  |
-| 39.5–40.5% | 1.5% | 99.7% |  |
+| 37.5–38.5% | 0.1% | 100% |  |
+| 38.5–39.5% | 0.4% | 99.9% |  |
+| 39.5–40.5% | 2% | 99.6% |  |
 | 40.5–41.5% | 5% | 98% |  |
-| 41.5–42.5% | 11% | 93% |  |
-| 42.5–43.5% | 16% | 83% |  |
-| 43.5–44.5% | 19% | 67% | Median |
-| 44.5–45.5% | 17% | 48% |  |
-| 45.5–46.5% | 14% | 31% |  |
-| 46.5–47.5% | 9% | 17% |  |
-| 47.5–48.5% | 5% | 8% |  |
-| 48.5–49.5% | 2% | 3% |  |
-| 49.5–50.5% | 0.6% | 0.8% |  |
-| 50.5–51.5% | 0.1% | 0.2% |  |
-| 51.5–52.5% | 0% | 0% |  |
+| 41.5–42.5% | 10% | 93% |  |
+| 42.5–43.5% | 15% | 83% |  |
+| 43.5–44.5% | 18% | 68% |  |
+| 44.5–45.5% | 17% | 50% | Median |
+| 45.5–46.5% | 14% | 33% |  |
+| 46.5–47.5% | 10% | 20% |  |
+| 47.5–48.5% | 6% | 10% |  |
+| 48.5–49.5% | 3% | 4% |  |
+| 49.5–50.5% | 1.1% | 2% |  |
+| 50.5–51.5% | 0.3% | 0.4% |  |
+| 51.5–52.5% | 0.1% | 0.1% |  |
+| 52.5–53.5% | 0% | 0% |  |
 
 ### Partit Laburista (S&D)
 
@@ -155,22 +157,22 @@ Only polls for which at least the sample size has been published are included in
 | 38.5–39.5% | 0% | 100% |  |
 | 39.5–40.5% | 0% | 100% |  |
 | 40.5–41.5% | 0% | 100% |  |
-| 41.5–42.5% | 0% | 100% |  |
-| 42.5–43.5% | 0% | 100% |  |
-| 43.5–44.5% | 0.2% | 100% |  |
-| 44.5–45.5% | 1.0% | 99.7% |  |
-| 45.5–46.5% | 3% | 98.7% |  |
-| 46.5–47.5% | 6% | 96% |  |
-| 47.5–48.5% | 10% | 89% |  |
-| 48.5–49.5% | 12% | 80% |  |
+| 41.5–42.5% | 0.1% | 100% |  |
+| 42.5–43.5% | 0.2% | 99.9% |  |
+| 43.5–44.5% | 0.8% | 99.7% |  |
+| 44.5–45.5% | 2% | 98.9% |  |
+| 45.5–46.5% | 4% | 97% |  |
+| 46.5–47.5% | 7% | 93% |  |
+| 47.5–48.5% | 9% | 86% |  |
+| 48.5–49.5% | 10% | 78% |  |
 | 49.5–50.5% | 11% | 68% |  |
-| 50.5–51.5% | 11% | 57% | Median |
-| 51.5–52.5% | 13% | 46% |  |
-| 52.5–53.5% | 14% | 33% |  |
-| 53.5–54.5% | 11% | 20% |  |
-| 54.5–55.5% | 6% | 9% |  |
+| 50.5–51.5% | 12% | 57% | Median |
+| 51.5–52.5% | 13% | 45% |  |
+| 52.5–53.5% | 13% | 32% |  |
+| 53.5–54.5% | 10% | 19% |  |
+| 54.5–55.5% | 6% | 8% |  |
 | 55.5–56.5% | 2% | 3% |  |
-| 56.5–57.5% | 0.5% | 0.6% |  |
+| 56.5–57.5% | 0.6% | 0.7% |  |
 | 57.5–58.5% | 0.1% | 0.1% |  |
 | 58.5–59.5% | 0% | 0% |  |
 
@@ -181,10 +183,10 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 3% | 100% |  |
-| 1.5–2.5% | 56% | 97% | Median |
-| 2.5–3.5% | 37% | 41% |  |
-| 3.5–4.5% | 3% | 3% |  |
+| 0.5–1.5% | 12% | 100% |  |
+| 1.5–2.5% | 62% | 88% | Median |
+| 2.5–3.5% | 24% | 26% |  |
+| 3.5–4.5% | 2% | 2% |  |
 | 4.5–5.5% | 0.1% | 0.1% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
@@ -195,12 +197,14 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 3% | 100% |  |
-| 1.5–2.5% | 56% | 97% | Median |
-| 2.5–3.5% | 37% | 41% |  |
-| 3.5–4.5% | 3% | 3% |  |
-| 4.5–5.5% | 0.1% | 0.1% |  |
-| 5.5–6.5% | 0% | 0% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 4% | 100% |  |
+| 2.5–3.5% | 37% | 96% |  |
+| 3.5–4.5% | 44% | 60% | Median |
+| 4.5–5.5% | 13% | 15% |  |
+| 5.5–6.5% | 2% | 2% |  |
+| 6.5–7.5% | 0.1% | 0.1% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -371,7 +375,7 @@ Only polls for which at least the sample size has been published are included in
 
 ## Technical Information
 
-+ **Number of polls included in this average:** 2
++ **Number of polls included in this average:** 3
 + **Lowest number of simulations done in a poll included in this average:** 2,097,152
-+ **Total number of simulations done in the polls included in this average:** 4,194,304
++ **Total number of simulations done in the polls included in this average:** 6,291,456
 + **Error estimate:** 0.80%
