@@ -5,7 +5,13 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | AD | AD+PD | PL | PD | PN | MPM | IE | M |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| [9 April 2026](2026-04-09-Esprimi.html) | Esprimi <br> Times of Malta | N/A <br> N/A | N/A <br> N/A | 47–56% <br> 3–4 | N/A <br> N/A | 41–49% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [14–20 May 2026](2026-05-20-Sagalytics.html) | Sagalytics | N/A <br> N/A | N/A <br> N/A | 52–57% <br> 3–4 | N/A <br> N/A | 40–45% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [7–13 May 2026](2026-05-13-Sagalytics.html) | Sagalytics | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [29 April–13 May 2026](2026-05-13-MaltaToday.html) | MaltaToday | N/A <br> N/A | N/A <br> N/A | 47–53% <br> 3 | N/A <br> N/A | 41–47% <br> 3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [6–13 May 2026](2026-05-13-Esprimi.html) | Esprimi <br> Times of Malta | N/A <br> N/A | N/A <br> N/A | 49–57% <br> 3–4 | N/A <br> N/A | 40–48% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [30 April–6 May 2026](2026-05-06-Sagalytics.html) | Sagalytics | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [23–29 April 2026](2026-04-29-Sagalytics.html) | Sagalytics | N/A <br> N/A | N/A <br> N/A | 52–58% <br> 3–4 | N/A <br> N/A | 39–45% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [9–16 April 2026](2026-04-16-Esprimi.html) | Esprimi <br> Times of Malta | N/A <br> N/A | N/A <br> N/A | 47–56% <br> 3–4 | N/A <br> N/A | 41–49% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [23 February–6 March 2026](2026-03-06-MaltaToday.html) | MaltaToday | N/A <br> N/A | 2–5% <br> 0 | 44–52% <br> 3 | N/A <br> N/A | 42–50% <br> 3 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 |
 | [13–19 February 2026](2026-02-19-Sagalytics.html) | Sagalytics <br> The Malta Independent | N/A <br> N/A | N/A <br> N/A | 50–56% <br> 3–4 | N/A <br> N/A | 40–46% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [5–16 January 2026](2026-01-16-MaltaToday.html) | MaltaToday | N/A <br> N/A | 1–4% <br> 0 | 46–52% <br> 3 | N/A <br> N/A | 42–49% <br> 3 | N/A <br> N/A | N/A <br> N/A | 1–4% <br> 0 |
