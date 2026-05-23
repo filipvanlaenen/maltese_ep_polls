@@ -16,7 +16,7 @@ Last result: **0.0%** (General Election of 8 June 2024)
 | [29 April–13 May 2026](2026-05-13-MaltaToday.html) | MaltaToday | 43.8% | 41.9–45.8% | 41.4–46.3% | 40.9–46.8% | 40.0–47.7% |
 | [6–13 May 2026](2026-05-13-Esprimi.html) | Esprimi <br> Times of Malta | 44.0% | 41.4–46.6% | 40.7–47.4% | 40.1–48.0% | 38.9–49.3% |
 | [30 April–6 May 2026](2026-05-06-Sagalytics.html) | Sagalytics | 41.9% | N/A | N/A | N/A | N/A |
-| [23–29 April 2026](2026-04-29-Sagalytics.html) | Sagalytics | 42.2% | 40.3–44.2% | 39.7–44.8% | 39.3–45.2% | 38.4–46.2% |
+| [23–29 April 2026](2026-04-29-Sagalytics.html) | Sagalytics | 42.2% | 40.3–44.2% | 39.8–44.8% | 39.3–45.2% | 38.4–46.2% |
 | [9–16 April 2026](2026-04-16-Esprimi.html) | Esprimi <br> Times of Malta | 45.0% | 42.2–47.9% | 41.4–48.7% | 40.8–49.4% | 39.4–50.8% |
 | [23 February–6 March 2026](2026-03-06-MaltaToday.html) | MaltaToday | 45.7% | 43.1–48.2% | 42.4–48.9% | 41.8–49.6% | 40.6–50.8% |
 | [13–19 February 2026](2026-02-19-Sagalytics.html) | Sagalytics <br> The Malta Independent | 43.3% | 41.4–45.3% | 40.8–45.8% | 40.3–46.3% | 39.4–47.2% |
