@@ -8,36 +8,156 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/maltese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 24 Apr 2026 20:02:15 +0200</pubDate>
+    <pubDate>Sat, 23 May 2026 21:02:57 +0200</pubDate>
     <item>
-      <title>Opinion Poll by Esprimi for Times of Malta, 9 April 2026 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2026-04-09-Esprimi.html#seats</link>
+      <title>Opinion Poll by Sagalytics, 14–20 May 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2026-05-20-Sagalytics.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2026-04-09-Esprimi-seats.png"
-        length="118170"
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2026-05-20-Sagalytics-seats.png"
+        length="116984"
         type="image/png"/>
-      <pubDate>Fri, 24 Apr 2026 18:39:00 +0200</pubDate>
-      <dc:date>2026-04-24T18:39:00.4286+02:00</dc:date>
+      <pubDate>Sat, 23 May 2026 19:58:53 +0200</pubDate>
+      <dc:date>2026-05-23T19:58:53.08933+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Esprimi for Times of Malta, 9 April 2026 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2026-04-09-Esprimi.html#coalitions</link>
+      <title>Opinion Poll by Sagalytics, 14–20 May 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2026-05-20-Sagalytics.html#coalitions</link>
       <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2026-04-09-Esprimi-coalitions-seats.png"
-        length="123522"
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2026-05-20-Sagalytics-coalitions-seats.png"
+        length="122163"
         type="image/png"/>
-      <pubDate>Fri, 24 Apr 2026 18:39:00 +0200</pubDate>
-      <dc:date>2026-04-24T18:39:00.4286+02:00</dc:date>
+      <pubDate>Sat, 23 May 2026 19:58:53 +0200</pubDate>
+      <dc:date>2026-05-23T19:58:53.08933+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Esprimi for Times of Malta, 9 April 2026 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2026-04-09-Esprimi.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 40.8–49.4%&lt;/li&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 47.0–55.7%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2026-04-09-Esprimi.png"
-        length="122046"
+      <title>Opinion Poll by Sagalytics, 14–20 May 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2026-05-20-Sagalytics.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 39.6–44.8%&lt;/li&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 51.7–57.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2026-05-20-Sagalytics.png"
+        length="115287"
         type="image/png"/>
-      <pubDate>Fri, 24 Apr 2026 18:39:00 +0200</pubDate>
-      <dc:date>2026-04-24T18:39:00.4286+02:00</dc:date>
+      <pubDate>Sat, 23 May 2026 19:58:53 +0200</pubDate>
+      <dc:date>2026-05-23T19:58:53.08933+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MaltaToday, 29 April–13 May 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2026-05-13-MaltaToday.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 3 seats&lt;/li&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2026-05-13-MaltaToday-seats.png"
+        length="84021"
+        type="image/png"/>
+      <pubDate>Sat, 23 May 2026 20:05:50 +0200</pubDate>
+      <dc:date>2026-05-23T20:05:50.911893+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MaltaToday, 29 April–13 May 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2026-05-13-MaltaToday.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2026-05-13-MaltaToday-coalitions-seats.png"
+        length="93028"
+        type="image/png"/>
+      <pubDate>Sat, 23 May 2026 20:05:50 +0200</pubDate>
+      <dc:date>2026-05-23T20:05:50.911893+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MaltaToday, 29 April–13 May 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2026-05-13-MaltaToday.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 40.9–46.8%&lt;/li&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 47.1–53.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2026-05-13-MaltaToday.png"
+        length="116173"
+        type="image/png"/>
+      <pubDate>Sat, 23 May 2026 20:05:50 +0200</pubDate>
+      <dc:date>2026-05-23T20:05:50.911893+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Esprimi for Times of Malta, 6–13 May 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2026-05-13-Esprimi.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2026-05-13-Esprimi-seats.png"
+        length="119172"
+        type="image/png"/>
+      <pubDate>Sat, 23 May 2026 20:11:28 +0200</pubDate>
+      <dc:date>2026-05-23T20:11:28.920195+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Esprimi for Times of Malta, 6–13 May 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2026-05-13-Esprimi.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2026-05-13-Esprimi-coalitions-seats.png"
+        length="124399"
+        type="image/png"/>
+      <pubDate>Sat, 23 May 2026 20:11:28 +0200</pubDate>
+      <dc:date>2026-05-23T20:11:28.920195+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Esprimi for Times of Malta, 6–13 May 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2026-05-13-Esprimi.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 40.1–48.0%&lt;/li&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 48.8–56.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2026-05-13-Esprimi.png"
+        length="119719"
+        type="image/png"/>
+      <pubDate>Sat, 23 May 2026 20:11:28 +0200</pubDate>
+      <dc:date>2026-05-23T20:11:28.920195+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sagalytics, 23–29 April 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2026-04-29-Sagalytics.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2026-04-29-Sagalytics-seats.png"
+        length="117430"
+        type="image/png"/>
+      <pubDate>Sat, 23 May 2026 21:01:01 +0200</pubDate>
+      <dc:date>2026-05-23T21:01:01.545338+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sagalytics, 23–29 April 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2026-04-29-Sagalytics.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2026-04-29-Sagalytics-coalitions-seats.png"
+        length="122353"
+        type="image/png"/>
+      <pubDate>Sat, 23 May 2026 21:01:01 +0200</pubDate>
+      <dc:date>2026-05-23T21:01:01.545338+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sagalytics, 23–29 April 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2026-04-29-Sagalytics.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 39.3–45.2%&lt;/li&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 51.8–57.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2026-04-29-Sagalytics.png"
+        length="118020"
+        type="image/png"/>
+      <pubDate>Sat, 23 May 2026 21:01:01 +0200</pubDate>
+      <dc:date>2026-05-23T21:01:01.545338+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Esprimi for Times of Malta, 9–16 April 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2026-04-16-Esprimi.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2026-04-16-Esprimi-seats.png"
+        length="119244"
+        type="image/png"/>
+      <pubDate>Sat, 23 May 2026 21:02:57 +0200</pubDate>
+      <dc:date>2026-05-23T21:02:57.002846+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Esprimi for Times of Malta, 9–16 April 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2026-04-16-Esprimi.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2026-04-16-Esprimi-coalitions-seats.png"
+        length="124162"
+        type="image/png"/>
+      <pubDate>Sat, 23 May 2026 21:02:57 +0200</pubDate>
+      <dc:date>2026-05-23T21:02:57.002846+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Esprimi for Times of Malta, 9–16 April 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/maltese_ep_polls/2026-04-16-Esprimi.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Nazzjonalista (EPP): 40.8–49.4%&lt;/li&gt;&lt;li&gt;Partit Laburista (S&amp;amp;D): 47.0–55.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/maltese_ep_polls/2026-04-16-Esprimi.png"
+        length="122921"
+        type="image/png"/>
+      <pubDate>Sat, 23 May 2026 21:02:57 +0200</pubDate>
+      <dc:date>2026-05-23T21:02:57.002846+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MaltaToday, 23 February–6 March 2026 – Seat Projections for the Parties</title>
@@ -339,6 +459,6 @@
       <pubDate>Sat, 15 Mar 2025 15:46:59 +0100</pubDate>
       <dc:date>2025-03-15T15:46:59.771813+01:00</dc:date>
     </item>
-    <dc:date>2026-04-24T20:02:15.029547+02:00</dc:date>
+    <dc:date>2026-05-23T21:02:57.002846+02:00</dc:date>
   </channel>
 </rss>
