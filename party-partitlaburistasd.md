@@ -10,8 +10,14 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 51.2% | 47.0–54.4% | 46.1–55.1% | 45.3–55.7% | 43.9–56.8% |
-| [9 April 2026](2026-04-09-Esprimi.html) | Esprimi <br> Times of Malta | 51.4% | 48.5–54.2% | 47.7–55.0% | 47.0–55.7% | 45.7–57.1% |
+| N/A | [Poll Average](average.html) | 52.6% | 49.1–55.5% | 48.4–56.1% | 47.8–56.6% | 46.8–57.7% |
+| [14–20 May 2026](2026-05-20-Sagalytics.html) | Sagalytics | 54.4% | 52.6–56.1% | 52.1–56.6% | 51.7–57.0% | 50.9–57.8% |
+| [7–13 May 2026](2026-05-13-Sagalytics.html) | Sagalytics | 54.8% | N/A | N/A | N/A | N/A |
+| [29 April–13 May 2026](2026-05-13-MaltaToday.html) | MaltaToday | 50.1% | 48.2–52.0% | 47.6–52.6% | 47.1–53.1% | 46.2–54.0% |
+| [6–13 May 2026](2026-05-13-Esprimi.html) | Esprimi <br> Times of Malta | 52.8% | 50.2–55.4% | 49.5–56.2% | 48.8–56.8% | 47.6–58.0% |
+| [30 April–6 May 2026](2026-05-06-Sagalytics.html) | Sagalytics | 54.4% | N/A | N/A | N/A | N/A |
+| [23–29 April 2026](2026-04-29-Sagalytics.html) | Sagalytics | 54.8% | 52.8–56.8% | 52.3–57.3% | 51.8–57.8% | 50.8–58.7% |
+| [9–16 April 2026](2026-04-16-Esprimi.html) | Esprimi <br> Times of Malta | 51.4% | 48.5–54.2% | 47.7–55.0% | 47.0–55.7% | 45.7–57.1% |
 | [23 February–6 March 2026](2026-03-06-MaltaToday.html) | MaltaToday | 48.2% | 45.6–50.7% | 44.9–51.5% | 44.3–52.1% | 43.1–53.3% |
 | [13–19 February 2026](2026-02-19-Sagalytics.html) | Sagalytics <br> The Malta Independent | 53.1% | 51.2–55.1% | 50.6–55.6% | 50.1–56.1% | 49.2–57.0% |
 | [5–16 January 2026](2026-01-16-MaltaToday.html) | MaltaToday | 49.0% | 46.7–51.2% | 46.1–51.8% | 45.5–52.4% | 44.5–53.5% |
@@ -74,24 +80,25 @@ The following table shows the probability mass function per percentage block of 
 | 38.5–39.5% | 0% | 100% |  |
 | 39.5–40.5% | 0% | 100% |  |
 | 40.5–41.5% | 0% | 100% |  |
-| 41.5–42.5% | 0.1% | 100% |  |
-| 42.5–43.5% | 0.2% | 99.9% |  |
-| 43.5–44.5% | 0.8% | 99.7% |  |
-| 44.5–45.5% | 2% | 98.9% |  |
-| 45.5–46.5% | 4% | 97% |  |
-| 46.5–47.5% | 7% | 93% |  |
-| 47.5–48.5% | 9% | 86% |  |
-| 48.5–49.5% | 10% | 78% |  |
-| 49.5–50.5% | 11% | 68% |  |
-| 50.5–51.5% | 12% | 57% | Median |
-| 51.5–52.5% | 13% | 45% |  |
-| 52.5–53.5% | 13% | 32% |  |
-| 53.5–54.5% | 10% | 19% |  |
-| 54.5–55.5% | 6% | 8% |  |
-| 55.5–56.5% | 2% | 3% |  |
-| 56.5–57.5% | 0.6% | 0.7% |  |
-| 57.5–58.5% | 0.1% | 0.1% |  |
-| 58.5–59.5% | 0% | 0% |  |
+| 41.5–42.5% | 0% | 100% |  |
+| 42.5–43.5% | 0% | 100% |  |
+| 43.5–44.5% | 0% | 100% |  |
+| 44.5–45.5% | 0% | 100% |  |
+| 45.5–46.5% | 0.3% | 100% |  |
+| 46.5–47.5% | 1.3% | 99.7% |  |
+| 47.5–48.5% | 4% | 98% |  |
+| 48.5–49.5% | 8% | 94% |  |
+| 49.5–50.5% | 11% | 86% |  |
+| 50.5–51.5% | 12% | 75% |  |
+| 51.5–52.5% | 12% | 63% |  |
+| 52.5–53.5% | 14% | 51% | Median |
+| 53.5–54.5% | 15% | 37% |  |
+| 54.5–55.5% | 12% | 21% |  |
+| 55.5–56.5% | 6% | 9% |  |
+| 56.5–57.5% | 2% | 3% |  |
+| 57.5–58.5% | 0.5% | 0.6% |  |
+| 58.5–59.5% | 0.1% | 0.1% |  |
+| 59.5–60.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -102,8 +109,14 @@ Last result: **0** seats (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3 | 3 | 3–4 | 3–4 |
-| [9 April 2026](2026-04-09-Esprimi.html) | Esprimi <br> Times of Malta | 3 | 3 | 3 | 3–4 | 3–4 |
+| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [14–20 May 2026](2026-05-20-Sagalytics.html) | Sagalytics | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [7–13 May 2026](2026-05-13-Sagalytics.html) | Sagalytics |  |  |  |  |  |
+| [29 April–13 May 2026](2026-05-13-MaltaToday.html) | MaltaToday | 3 | 3 | 3 | 3 | 3–4 |
+| [6–13 May 2026](2026-05-13-Esprimi.html) | Esprimi <br> Times of Malta | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [30 April–6 May 2026](2026-05-06-Sagalytics.html) | Sagalytics |  |  |  |  |  |
+| [23–29 April 2026](2026-04-29-Sagalytics.html) | Sagalytics | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [9–16 April 2026](2026-04-16-Esprimi.html) | Esprimi <br> Times of Malta | 3 | 3 | 3 | 3–4 | 3–4 |
 | [23 February–6 March 2026](2026-03-06-MaltaToday.html) | MaltaToday | 3 | 3 | 3 | 3 | 3 |
 | [13–19 February 2026](2026-02-19-Sagalytics.html) | Sagalytics <br> The Malta Independent | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | [5–16 January 2026](2026-01-16-MaltaToday.html) | MaltaToday | 3 | 3 | 3 | 3 | 3 |
@@ -129,8 +142,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 95% | 100% | Median |
-| 4 | 5% | 5% | Majority |
+| 3 | 87% | 100% | Median |
+| 4 | 13% | 13% | Majority |
 | 5 | 0% | 0% |  |
 
 
