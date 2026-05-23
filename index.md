@@ -5,10 +5,10 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | AD | AD+PD | PL | PD | PN | MPM | IE | M |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | N/A <br> N/A | 2–5% <br> 0 | 45–56% <br> 3–4 | N/A <br> N/A | 41–49% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | 1–4% <br> 0 |
-| [9 April 2026](2026-04-09-Esprimi.html) | Esprimi <br> Times of Malta | N/A <br> N/A | N/A <br> N/A | 47–56% <br> 3–4 | N/A <br> N/A | 41–49% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [23 February–6 March 2026](2026-03-06-MaltaToday.html) | MaltaToday | N/A <br> N/A | 2–5% <br> 0 | 44–52% <br> 3 | N/A <br> N/A | 42–50% <br> 3 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 |
-| [13–19 February 2026](2026-02-19-Sagalytics.html) | Sagalytics <br> The Malta Independent | N/A <br> N/A | N/A <br> N/A | 50–56% <br> 3–4 | N/A <br> N/A | 40–46% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | N/A <br> N/A | N/A <br> N/A | 48–57% <br> 3–4 | N/A <br> N/A | 40–47% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [14–20 May 2026](2026-05-20-Sagalytics.html) | Sagalytics | N/A <br> N/A | N/A <br> N/A | 52–57% <br> 3–4 | N/A <br> N/A | 40–45% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [29 April–13 May 2026](2026-05-13-MaltaToday.html) | MaltaToday | N/A <br> N/A | N/A <br> N/A | 47–53% <br> 3 | N/A <br> N/A | 41–47% <br> 3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [6–13 May 2026](2026-05-13-Esprimi.html) | Esprimi <br> Times of Malta | N/A <br> N/A | N/A <br> N/A | 49–57% <br> 3–4 | N/A <br> N/A | 40–48% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 8 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
