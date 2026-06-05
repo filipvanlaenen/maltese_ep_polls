@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 52.6% | 49.1–55.5% | 48.4–56.1% | 47.8–56.6% | 46.8–57.7% |
+| N/A | [Poll Average](average.html) | 52.7% | 49.6–55.5% | 48.9–56.1% | 48.3–56.6% | 47.2–57.7% |
+| [13–24 May 2026](2026-05-24-MaltaToday.html) | MaltaToday | 50.6% | 48.7–52.5% | 48.1–53.1% | 47.6–53.5% | 46.7–54.5% |
 | [14–20 May 2026](2026-05-20-Sagalytics.html) | Sagalytics | 54.4% | 52.6–56.1% | 52.1–56.6% | 51.7–57.0% | 50.9–57.8% |
 | [7–13 May 2026](2026-05-13-Sagalytics.html) | Sagalytics | 54.8% | N/A | N/A | N/A | N/A |
 | [29 April–13 May 2026](2026-05-13-MaltaToday.html) | MaltaToday | 50.1% | 48.2–52.0% | 47.6–52.6% | 47.1–53.1% | 46.2–54.0% |
@@ -84,15 +85,15 @@ The following table shows the probability mass function per percentage block of 
 | 42.5–43.5% | 0% | 100% |  |
 | 43.5–44.5% | 0% | 100% |  |
 | 44.5–45.5% | 0% | 100% |  |
-| 45.5–46.5% | 0.3% | 100% |  |
-| 46.5–47.5% | 1.3% | 99.7% |  |
-| 47.5–48.5% | 4% | 98% |  |
-| 48.5–49.5% | 8% | 94% |  |
-| 49.5–50.5% | 11% | 86% |  |
-| 50.5–51.5% | 12% | 75% |  |
-| 51.5–52.5% | 12% | 63% |  |
-| 52.5–53.5% | 14% | 51% | Median |
-| 53.5–54.5% | 15% | 37% |  |
+| 45.5–46.5% | 0.1% | 100% |  |
+| 46.5–47.5% | 0.7% | 99.8% |  |
+| 47.5–48.5% | 3% | 99.1% |  |
+| 48.5–49.5% | 6% | 97% |  |
+| 49.5–50.5% | 11% | 90% |  |
+| 50.5–51.5% | 13% | 79% |  |
+| 51.5–52.5% | 14% | 66% |  |
+| 52.5–53.5% | 15% | 52% | Median |
+| 53.5–54.5% | 16% | 37% |  |
 | 54.5–55.5% | 12% | 21% |  |
 | 55.5–56.5% | 6% | 9% |  |
 | 56.5–57.5% | 2% | 3% |  |
@@ -110,6 +111,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [13–24 May 2026](2026-05-24-MaltaToday.html) | MaltaToday | 3 | 3 | 3 | 3 | 3–4 |
 | [14–20 May 2026](2026-05-20-Sagalytics.html) | Sagalytics | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [7–13 May 2026](2026-05-13-Sagalytics.html) | Sagalytics |  |  |  |  |  |
 | [29 April–13 May 2026](2026-05-13-MaltaToday.html) | MaltaToday | 3 | 3 | 3 | 3 | 3–4 |
