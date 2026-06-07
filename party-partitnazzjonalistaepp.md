@@ -11,7 +11,7 @@ Last result: **0.0%** (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 43.4% | 41.1–45.9% | 40.5–46.6% | 40.0–47.3% | 39.0–48.5% |
-| [13–24 May 2026](2026-05-24-MaltaToday.html) | MaltaToday | 44.2% | 42.3–46.1% | 41.7–46.7% | 41.3–47.2% | 40.4–48.1% |
+| [13–24 May 2026](2026-05-24-MaltaToday.html) | MaltaToday | 44.2% | 42.3–46.1% | 41.8–46.7% | 41.3–47.2% | 40.4–48.1% |
 | [14–20 May 2026](2026-05-20-Sagalytics.html) | Sagalytics | 42.2% | 40.5–43.9% | 40.0–44.4% | 39.6–44.8% | 38.8–45.7% |
 | [7–13 May 2026](2026-05-13-Sagalytics.html) | Sagalytics | 41.5% | N/A | N/A | N/A | N/A |
 | [29 April–13 May 2026](2026-05-13-MaltaToday.html) | MaltaToday | 43.8% | 41.9–45.8% | 41.4–46.3% | 40.9–46.8% | 40.0–47.7% |
