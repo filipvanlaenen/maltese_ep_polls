@@ -7,8 +7,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | 8 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | [Poll Average](average.html) | N/A <br> N/A | N/A <br> N/A | 48–57% <br> 3–4 | N/A <br> N/A | 40–47% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [13–24 May 2026](2026-05-24-MaltaToday.html) | MaltaToday | N/A <br> N/A | N/A <br> N/A | 48–54% <br> 3 | N/A <br> N/A | 41–47% <br> 3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [18–23 May 2026](2026-05-23-Esprimi.html) | Esprimi <br> Times of Malta | N/A <br> N/A | N/A <br> N/A | 49–57% <br> 3–4 | N/A <br> N/A | 39–47% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [14–20 May 2026](2026-05-20-Sagalytics.html) | Sagalytics | N/A <br> N/A | N/A <br> N/A | 52–57% <br> 3–4 | N/A <br> N/A | 40–45% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [6–13 May 2026](2026-05-13-Esprimi.html) | Esprimi <br> Times of Malta | N/A <br> N/A | N/A <br> N/A | 49–57% <br> 3–4 | N/A <br> N/A | 40–48% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 8 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
