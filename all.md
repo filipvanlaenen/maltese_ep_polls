@@ -6,6 +6,7 @@ The table below lists all polls registered and analyzed so far.
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | [13–24 May 2026](2026-05-24-MaltaToday.html) | MaltaToday | N/A <br> N/A | N/A <br> N/A | 48–54% <br> 3 | N/A <br> N/A | 41–47% <br> 3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [18–23 May 2026](2026-05-23-Esprimi.html) | Esprimi <br> Times of Malta | N/A <br> N/A | N/A <br> N/A | 49–57% <br> 3–4 | N/A <br> N/A | 39–47% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [14–20 May 2026](2026-05-20-Sagalytics.html) | Sagalytics | N/A <br> N/A | N/A <br> N/A | 52–57% <br> 3–4 | N/A <br> N/A | 40–45% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [7–13 May 2026](2026-05-13-Sagalytics.html) | Sagalytics | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [29 April–13 May 2026](2026-05-13-MaltaToday.html) | MaltaToday | N/A <br> N/A | N/A <br> N/A | 47–53% <br> 3 | N/A <br> N/A | 41–47% <br> 3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
